@@ -1,12 +1,13 @@
 ---
 title: Test Artikel CC
-layout: post
+date: 2014-08-08 00:00:00 +07:00
 categories:
 - Sobat CCID
-author: hilman
 tags:
 - bla
 - blablabla
+layout: post
+author: hilman
 ---
 
 ## test aje
