@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+{% assign author = site.data.authors[page.author] %}
+	<div class="main">
+		<div class="section section-basic">
+	    	<div class="container">
+    
+                <div class="row">
+                    <div class="col-lg-9">
+                        <div class="text-center article-title">
+                            <h2>
+                                {{ page.title }}
+                            </h2>
+                        </div>
+                            {{ content }}
+                        <hr>
+                        <div class="row">
+                            <div class="col-md-6">
+                                    <h5 style="display: inline;">Tags:</h5>
+                                    {% for tag in page.tags %}
+                                        <button class="btn btn-white btn-xs" type="button">{{ tag }}</button>
+                                    {% endfor %}
+                            </div>                       
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <h5>Oleh: {{ author.name }}</h5>
+                        {{ page.date | date: "%-d %b %Y" }}
+                        <hr>
+                        <h5>Kategori:</h5>
+                        {% for category in page.categories %}
+                        <button class="btn btn-white btn-xs" type="button">{{ category }}</button>
+                        {% endfor %}
+                        <hr>
+                        <h5>Berita Terbaru</h5>
+                        {% for post in site.categories['Berita'] limit:5 %}
+                        <a href="{{ post.url }}" class="btn-link">{{ post.title }}</a> 
+                        {% endfor %}
+					</div>
+				</div>
+		
+        	</div>
+		</div>
+	</div>

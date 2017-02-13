@@ -1,0 +1,56 @@
+---
+title: Home
+layout: default
+---
+
+	<div class="main">
+		<div class="section section-basic">
+	    	<div class="container">
+            	<div class="row">
+                	<div class="col-lg-12">
+                        <div class="title text-center">
+                            <h2>Tentang Creative Commons Indonesia</h2>
+                        </div>
+                    </div>
+				</div>
+				<div class="row">
+                    <div class="col-lg-12">
+                        <h4>Creative Commons Indonesia (CCID) adalah salah satu afiliasi Creative Commons Internasional yang beroperasi di Indonesia.<br/>CCID menyediakan hasil terjemahan paket lisensi Creative Commons dalam Bahasa Indonesia yang sesuai dengan Undang-Undang No. 28 Tahun 2014 tentang Hak Cipta.</h4>
+                    </div>
+                </div>
+            	<div class="row">
+                    <div class="col-lg-6 col-lg-offset-3">    
+                        <div class="embed-responsive embed-responsive-16by9">
+                        	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/tYODFSWTD8k"></iframe>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+            	<div class="row">
+                	<div class="col-lg-12">
+                        <div class="title text-center">
+                            <h2>Blog</h2>
+                        </div>
+                    </div>
+                </div>
+            	<div class="row">
+                    <div class="col-md-3">
+                        <h3 class="text-center">Sobat CCID</h3>
+                        {% for post in site.categories['Sobat CCID'] limit:5 %}
+                        <a href="{{ post.url }}" class="btn-link"><h4>{{ post.title }}</h4></a>
+                        <hr>
+                        {% endfor %}
+                    </div>
+                    <div class="col-md-3">
+                        <h3 class="text-center">Berita</h3>
+                    </div>
+                    <div class="col-md-3">
+                        <h3 class="text-center">Kajian</h3>
+                    </div>
+                    <div class="col-md-3">
+                        <h3 class="text-center">Acara</h3>
+                    </div>
+                </div>
+            </div>
+		</div>
+	</div>

@@ -1,0 +1,33 @@
+---
+layout: default
+title: Blog
+---
+
+	<div class="main">
+		<div class="section section-basic">
+	    	<div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h1>Artikel Terbaru</h1>
+                    </div>
+                </div>
+            	<div class="row">
+                    <div class="col-lg-12">
+                        <!-- latest 10 blog -->
+                        {% for post in site.posts limit:10 %}
+                            <div class="row">
+                                <div class="col-md-10">
+                                    <a href="{{ post.url }}">
+                                        <h3>{{ post.title }}</h3>
+                                    </a>
+                                    <div class="vote-info">
+                                        <i class="fa fa-clock-o"></i> <a>{{ post.date | date: "%-d %b %Y" }}</a>
+                                    </div>
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+		</div>
+	</div>
