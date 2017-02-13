@@ -1,6 +1,6 @@
 ---
-title: Dapatkah saya menyertakan ciptaan yang berlisensi CC dalam artikel Wikipedia,
-  meskipun Wikipedia menggunakan lisensi CC BY-SA?
+title: Dapatkah ciptaan berlisensi CC disertakan dalam artikel Wikipedia, meskipun
+  Wikipedia menggunakan lisensi CC BY-SA?
 date: 2011-10-13 18:03:00 +07:00
 categories:
 - Kajian
