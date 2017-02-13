@@ -13,7 +13,7 @@ author: ivan
 layout: post
 ---
 
-![Logo OCW.jpg](/uploads/Logo%20OCW.jpg){: .img-responsive .block-center }
+![Logo OCW.jpg](/uploads/Logo%20OCW.jpg){: .img-responsive .center-block }
 
 Pada hari Kamis, 6 Oktober 2011 yang lalu, CC Indonesia yang diwakili oleh Ivan Lanin dan Ari Juliano bertemu dengan OCW Consortium yang diwakili oleh Meena Hwang dan perwakilan dari beberapa lembaga pendidikan di Indonesia yang terhimpun di bawah Asosiasi Perguruan Tinggi Informatika & Komputer (Aptikom). Pertemuan diadakan di kampus Perbanas, Kuningan, Jakarta dengan sahibulbait Rektor Perbanas, Prof. Marsudi Wahyu Kisworo dan Ketua Aptikom Prof. Ricardus Eko Indrajit.
 
