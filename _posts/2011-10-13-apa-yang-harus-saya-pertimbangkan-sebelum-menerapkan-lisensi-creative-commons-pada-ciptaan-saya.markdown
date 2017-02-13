@@ -1,6 +1,6 @@
 ---
-title: Apa yang harus saya pertimbangkan sebelum menerapkan lisensi Creative Commons
-  pada ciptaan saya?
+title: Apa yang harus dipertimbangkan sebelum menerapkan lisensi Creative Commons
+  pada suatu ciptaan?
 date: 2011-10-13 18:06:00 +07:00
 categories:
 - Kajian
