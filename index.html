@@ -43,12 +43,24 @@ layout: default
                     </div>
                     <div class="col-md-3">
                         <h3 class="text-center">Berita</h3>
+                        {% for post in site.categories['Berita'] limit:5 %}
+                        <a href="{{ post.url }}" class="btn-link"><h4>{{ post.title }}</h4></a>
+                        <hr>
+                        {% endfor %}
                     </div>
                     <div class="col-md-3">
                         <h3 class="text-center">Kajian</h3>
+                        {% for post in site.categories['Kajian'] limit:5 %}
+                        <a href="{{ post.url }}" class="btn-link"><h4>{{ post.title }}</h4></a>
+                        <hr>
+                        {% endfor %}
                     </div>
                     <div class="col-md-3">
                         <h3 class="text-center">Acara</h3>
+                        {% for post in site.categories['Acara'] limit:5 %}
+                        <a href="{{ post.url }}" class="btn-link"><h4>{{ post.title }}</h4></a>
+                        <hr>
+                        {% endfor %}
                     </div>
                 </div>
             </div>
