@@ -1,5 +1,5 @@
 ---
-title: Apakah penggunaan saya termasuk suatu adaptasi?
+title: Bagaimana aktivitas penggunaan karya dianggap sebagai suatu adaptasi?
 date: 2011-10-13 16:53:00 +07:00
 categories:
 - Kajian
