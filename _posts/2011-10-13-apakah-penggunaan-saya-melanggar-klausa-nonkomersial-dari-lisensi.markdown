@@ -1,5 +1,5 @@
 ---
-title: Apakah penggunaan saya melanggar klausa NonKomersial dari lisensi?
+title: Bagaimana penggunaan ciptaan dianggap melanggar klausa NonKomersial dari lisensi?
 date: 2011-10-13 16:54:00 +07:00
 categories:
 - Kajian
