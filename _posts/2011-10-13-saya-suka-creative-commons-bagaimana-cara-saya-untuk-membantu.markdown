@@ -2,7 +2,6 @@
 title: Saya suka Creative Commons. Bagaimana cara saya untuk membantu?
 date: 2011-10-13 16:43:00 +07:00
 categories:
-- Kajian
 - Berita
 tags:
 - Creative Commons
