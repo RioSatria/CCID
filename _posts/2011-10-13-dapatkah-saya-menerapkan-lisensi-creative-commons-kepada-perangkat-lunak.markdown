@@ -1,5 +1,5 @@
 ---
-title: Dapatkah saya menerapkan lisensi Creative Commons kepada perangkat lunak?
+title: Dapatkah lisensi Creative Commons diterapkan pada perangkat lunak?
 date: 2011-10-13 17:13:00 +07:00
 categories:
 - Kajian
