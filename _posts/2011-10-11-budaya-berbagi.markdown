@@ -15,6 +15,6 @@ tags:
 author: ivan
 ---
 
-![crosbythajib1.jpg](/uploads/crosbythajib1.jpg){: .img-responsive .center-block }
+![crosbythajib1.jpg](/uploads/crosbythajib1.jpg){: .img-responsive .left-block }
 
 Alexandra Crosby dari [EngageMedia](http://www.engagemedia.org) dan Ferdiansyah Thajib dari [KUNCI Cultural Studies Center](http://www.kunci.or.id) menulis tentang masa depan Creative Commons di Indonesia. Menurut mereka, CC dapat membantu pencipta Indonesia untuk membuat suatu skema lisensi yang terbuka, demokratis, dan dapat menghadapi tantangan budaya. Untuk menghadapi hal ini dibutuhkan suatu sistem global yang peka terhadap dinamika lokal. Para aktivis kebudayaan kini berupaya mewujudkan masa depan itu dengan menerjemahkan dan mengadaptasi kerangka CC ke dalam konteks Indonesia. Baca tulisan selengkapnya [di sini](http://www.insideindonesia.org/stories/a-culture-of-sharing-09101479) (dalam bahasa Inggris).
