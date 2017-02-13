@@ -1,5 +1,5 @@
 ---
-title: Apa yang harus saya pilih, lisensi internasional atau lisensi adaptasi?
+title: Manakah yang harus dipilih, lisensi internasional atau lisensi adaptasi?
 date: 2011-10-13 18:37:00 +07:00
 categories:
 - Kajian
