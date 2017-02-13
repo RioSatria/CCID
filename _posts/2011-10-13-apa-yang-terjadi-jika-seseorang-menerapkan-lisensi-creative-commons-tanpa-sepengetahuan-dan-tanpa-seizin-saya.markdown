@@ -1,6 +1,6 @@
 ---
 title: Apa yang terjadi jika seseorang menerapkan lisensi Creative Commons tanpa sepengetahuan
-  dan tanpa seizin saya?
+  dan tanpa seizin Pencipta?
 date: 2011-10-13 17:56:00 +07:00
 categories:
 - Kajian
