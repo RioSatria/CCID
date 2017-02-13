@@ -1,5 +1,5 @@
 ---
-title: Dapatkah saya menggunakan logo dan tombol Creative Commons?
+title: Apakah logo dan tombol Creative Commons dapat digunakan?
 date: 2011-10-13 16:41:00 +07:00
 categories:
 - Kajian
