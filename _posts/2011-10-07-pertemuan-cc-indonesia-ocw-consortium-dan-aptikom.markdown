@@ -3,6 +3,9 @@ title: Pertemuan CC Indonesia, OCW Consortium, dan Aptikom
 date: 2011-10-07 00:00:00 +07:00
 categories:
 - Sobat CCID
+- Berita
+- Kajian
+- Acara
 tags:
 - Sosialisasi
 - Sosialisasi Lisensi
