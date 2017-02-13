@@ -1,5 +1,5 @@
 ---
-title: Bagaimana jika lisensi CC belum diadaptasi untuk yurisdiksi (negara) saya?
+title: Bagaimana jika lisensi CC belum diadaptasi untuk yurisdiksi suatu negara?
 date: 2011-10-13 16:51:00 +07:00
 categories:
 - Kajian
