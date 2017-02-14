@@ -1,6 +1,6 @@
 ---
 title: 'Europeana White Papers: seri karya ilmiah, gratis!'
-date: 2017-12-07 15:10:00 +07:00
+date: 2011-12-07 15:10:00 +07:00
 categories:
 - Berita
 tags:
