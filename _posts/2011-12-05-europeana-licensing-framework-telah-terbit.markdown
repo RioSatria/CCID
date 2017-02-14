@@ -1,6 +1,6 @@
 ---
 title: Europeana Licensing Framework telah terbit
-date: 2017-12-05 15:06:00 +07:00
+date: 2011-12-05 15:06:00 +07:00
 categories:
 - Berita
 tags:
