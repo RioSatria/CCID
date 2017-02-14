@@ -35,9 +35,11 @@ layout: default
                         {% endfor %}
                         <hr>
                         <h5>Berita Terbaru</h5>
+			<ul>
                         {% for post in site.categories['Berita'] limit:5 %}
-                        <a href="{{ post.url }}" class="btn-link">{{ post.title }}</a> 
+			<li><a href="{{ post.url }}" class="btn-link">{{ post.title }}</a></li>
                         {% endfor %}
+	 		</ul>
 					</div>
 				</div>
 		
