@@ -4,6 +4,7 @@ title: Rapper Indonesia, @pandji, menerapkan lisensi CC pada albumnya yang berju
 date: 2011-11-08 14:18:00 +07:00
 categories:
 - Berita
+- Sobat CCID
 tags:
 - Rapper
 - Hip Hop
