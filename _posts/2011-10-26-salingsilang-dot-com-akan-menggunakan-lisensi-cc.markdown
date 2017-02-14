@@ -1,6 +1,9 @@
 ---
 title: salingsilang.com akan menggunakan lisensi CC?
-date: 2017-02-14 13:18:00 +07:00
+date: 2011-10-26 13:18:00 +07:00
+categories:
+- Berita
+- Sobat CCID
 tags:
 - salingsilang.com
 - salingsilang
