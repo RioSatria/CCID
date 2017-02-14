@@ -3,6 +3,7 @@ title: 'Prof. Eko Indrajit: 7 books with CC license'
 date: 2011-11-18 14:39:00 +07:00
 categories:
 - Berita
+- Sobat CCID
 tags:
 - Prof. Eko Indrajit
 - Eko Indrajit
