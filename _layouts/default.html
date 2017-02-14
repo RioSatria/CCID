@@ -4,15 +4,14 @@
 	{% include head.html %}
     
 <body class="index-page">
+	<div class="wrapper">
 	
 	{% if page.title == 'Home' %}
 	        {% include navbar.html %}
     	{% else %}
         	{% include navbar_blog.html %}
 	{% endif %}
-	
-	<div class="wrapper">
-        
+       
         {{ content }}
         
         {% include footer.html %}
