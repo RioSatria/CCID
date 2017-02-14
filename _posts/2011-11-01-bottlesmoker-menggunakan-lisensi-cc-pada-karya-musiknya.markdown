@@ -17,4 +17,6 @@ author: nita
 
 Anda dapat [mengunduh album terbaru mereka di sini](http://misspelledrecords.bandcamp.com/album/mpr107-bottlesmoker-lets-die-together-in-2012) atau Anda dapat mengikuti kabar terbaru tentang Bottlesmoker dengan mengakses akun twitter [@bottlesmoker](https://twitter.com/bottlesmoker?lang=id)
 
+<div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g_JobvoIIZs" frameborder="0" allowfullscreen></iframe>
+</div>
