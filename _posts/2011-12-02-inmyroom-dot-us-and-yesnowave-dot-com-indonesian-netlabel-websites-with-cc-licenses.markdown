@@ -1,6 +1,6 @@
 ---
 title: 'inmyroom.us and yesnowave.com: Indonesian netlabel websites with CC licenses'
-date: 2017-12-02 15:04:00 +07:00
+date: 2011-12-02 15:04:00 +07:00
 categories:
 - Berita
 - Sobat CCID
