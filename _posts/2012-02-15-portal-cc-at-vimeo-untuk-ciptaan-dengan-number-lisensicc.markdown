@@ -15,4 +15,4 @@ author: nita
 
 [Vimeo](http://vimeo.com) telah mengubah platform mereka untuk pencipta dan pengguna video, termasuk membuat laman Creative Commons di mana Anda dapat menemukan video dengan lisensi CC. Vimeo sendiri telah memungkinkan penggunaan lisensi CC pada video yang diunggah ke Vimeo sejak Juli 2010. Pengembangan laman ini tidak hanya akan membantu pencipta dan pengguna video, tetapi juga akan meningkatkan penghitungan terhadap ciptaan berlisensi CC.
 
-Sebelum Anda dapat mengakses portal CC Vimeo, Anda harus memiliki akun Vimeo dan memilih tampilan Vimeo baru pada [tautan ini](http://vimeo.com/new). Setelah Anda mengikuti kedua langkah tersebut, Anda dapat mengakses [portal CC Vimeo](http://vimeo.com/creativecommons) pada tautan ini.
+Sebelum Anda dapat mengakses portal CC Vimeo, Anda harus memiliki akun Vimeo dan memilih tampilan Vimeo baru pada [tautan ini](http://vimeo.com/new). Setelah Anda mengikuti kedua langkah tersebut, Anda dapat mengakses [portal CC Vimeo](http://vimeo.com/creativecommons) pada [tautan ini](http://vimeo.com/creativecommons).
