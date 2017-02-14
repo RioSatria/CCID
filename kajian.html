@@ -7,7 +7,7 @@ layout: default
 <script>
     $(function(){
       /* initiate the plugin */
-      $("div.holder").jPages({
+      $("#holder").jPages({
           containerID  : "itemContainer",
           perPage      : 10,  /* num of items per page */
           startPage    : 1,
@@ -29,8 +29,9 @@ layout: default
     </div>
 </div>
 
-<ul id="itemContainer" style="list-style:none;">
+
 <div class="row">
+<ul id="itemContainer" style="list-style:none;">
   {% assign counter = 0 %}
   {% for post in site.categories['Kajian'] %}
   {% assign counter = counter | plus: 1 %}
@@ -50,8 +51,8 @@ layout: default
     </div>
     </li>
   {% endfor %}
-</div>
 </ul>
+</div>
 <div class="row m-b-lg text-center">
     <div class="col-md-12">
         <div class="holder"></div>
