@@ -13,6 +13,8 @@ tags:
 author: nita
 ---
 
+![b9056efbc409c2ce04500e21b8a2abe1f500ab23.png](/uploads/b9056efbc409c2ce04500e21b8a2abe1f500ab23.png){: .img-responsive .center-block }<center><small><i>Beras & Gadget / Niwatori / CC BY-NC-SA 3.0</i></small></center>
+
 Diki or also known as [Niwatori](https://twitter.com/#!/niwat0ri) has been publishing his work, [Chickenstrip](http://chickenstrip.wordpress.com), online under CC BY-NC-SA 3.0 license. Chickenstrip talks about IT and daily life - current national and international situation, opensource, newest issues in blogosphere and even simple things that happen in our daily activities.
 
 To read Chickenstrip (comic strip in Bahasa Indonesia), you can [refer to this link](http://chickenstrip.wordpress.com). You can also join [Chickenstrip Facebook Page](http://www.facebook.com/chickenstrip).
