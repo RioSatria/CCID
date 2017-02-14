@@ -3,6 +3,7 @@ title: Bottlesmoker menggunakan lisensi CC pada karya musiknya
 date: 2011-11-01 13:30:00 +07:00
 categories:
 - Berita
+- Sobat CCID
 tags:
 - Bottlesmoker
 - CC Music
