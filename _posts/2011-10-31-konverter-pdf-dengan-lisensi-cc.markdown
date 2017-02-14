@@ -1,6 +1,6 @@
 ---
 title: Konverter PDF dengan lisensi CC
-date: 2017-10-31 13:26:00 +07:00
+date: 2011-10-31 13:26:00 +07:00
 categories:
 - Berita
 tags:
