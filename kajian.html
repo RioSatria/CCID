@@ -3,6 +3,24 @@ title: Kajian
 layout: default
 ---
 
+<!-- jPages -->
+<script src= "/static/js/jPages.js"></script>
+<script src= "/static/js/js.js"></script>
+<!--<script id= "dsq-count-scr" src="//jalpc.disqus.com/count.js" async></script>-->
+<script>
+    $(function(){
+      /* initiate the plugin */
+      $("div.holder").jPages({
+          containerID  : "itemContainer",
+          perPage      : 10,  /* num of items per page */
+          startPage    : 1,
+          startRange   : 1,
+          midRange     : 3,
+          endRange     : 1
+      });
+  });
+</script>
+
 <div class="main">
     <div class="section section-basic">
         <div class="container">
@@ -14,10 +32,12 @@ layout: default
     </div>
 </div>
 
+<ul id="itemContainer" style="list-style:none;">
 <div class="row">
   {% assign counter = 0 %}
   {% for post in site.categories['Kajian'] %}
   {% assign counter = counter | plus: 1 %}
+    <li>
     <div class="col-lg-8 col-lg-offset-2">
     <a href="{{ post.url }}" class="btn-link"><h3>{{ post.title }}</h3></a>
     <p>{{ post.content | strip_html | truncatewords:30 }}</p>
@@ -31,9 +51,17 @@ layout: default
       </div>
         <hr>
     </div>
+    </li>
   {% endfor %}
 </div>
-
+</ul>
+<div class="row m-b-lg text-center">
+    <div class="col-md-12">
+        <div class="holder"></div>
+    </div>
+</div>
+            
+            
         </div>
     </div>
 </div>
