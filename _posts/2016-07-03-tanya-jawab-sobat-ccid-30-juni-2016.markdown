@@ -27,14 +27,12 @@ Anda diperbolehkan untuk menyalin dan menyebarluaskan kembali naskah buatan Aaro
 
 1. Anda harus menerapkan Atribusi yang sesuai (**mencantumkan nama penulis, mencantumkan tautan kepada sumber tulisan, menyatakan perubahan yang telah Anda lakukan (misalnya: pernyataan bahwa artikel tersebut adalah artikel terjemahan**), dan mencantumkan tautan pada lisensi yang digunakan.
 
-Contoh: Artikel ini adalah versi terjemahan dari artikel berjudul "[Jefferson: Nature Wants Information to Be Free](http://www.aaronsw.com/weblog/001115)", [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id), oleh [Aarton Swartz](http://www.aaronsw.com/).
+    Contoh: Artikel ini adalah versi terjemahan dari artikel berjudul "[Jefferson: Nature Wants Information to Be Free](http://www.aaronsw.com/weblog/001115)", [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id), oleh [Aarton Swartz](http://www.aaronsw.com/).
 
 2. Anda tidak dapat menggunakan naskah tersebut untuk kepentingan komersial. (Ketentuan NonKomersial tidak menjelaskan dengan pasti batasan-batasan dari penggunaan untuk kepentingan komersial, sehingga ketentuan ini "mungkin" masih dapat didiskusikan dengan persetujuan pengelola situs web dan naskah-naskah buatan Aaron sekarang, Sean B. Palmer, mengingat situs web tersebut juga mebuat ketentuan "unless otherwise stated". Keterangan lebih lanjut terkait kelebihan dan kekurangan ketentuan NC dapat dibaca di [poin ketujuh artikel berikut](https://ccid.siteleaf.net/berita/2016/06/22/prinsip-kerja-lisensi-creative-commons-di-coversongchallenge-tribute2erk.html))
 
-Catatan: Beberapa waktu yang lalu, tindakan dari dua penerbit: Verso Books dan New Press, menuai protes dari para pemerhati Aaron Swartz. Kedua penerbit  yang menerbitkan sebuah buku naskah-naskah pilihan dari Aaron ini mempersulit para pengguna untuk mengunduh dan menyebarluaskan buku tersebut. Hal ini kemudian dianggap tidak sesuai dengan semangat berbagi yang diperjuangkan oleh Aaron. Informasi lebih lanjut tentang kasus ini dapat dibaca di [tautan ini](https://www.insidehighered.com/news/2016/04/25/critics-protest-handling-rights-hacktivist-aaron-swartzs-writings). Penggunaan ciptaan dari pencipta-pencipta tertentu, harus diikuti dengan memikirkan strategi dan perkiraan terkait dampak penggunaannya, supaya tidak ada pihak yang merasa dirugikan.
-
+    Catatan: Beberapa waktu yang lalu, tindakan dari dua penerbit: Verso Books dan New Press, menuai protes dari para pemerhati Aaron Swartz. Kedua penerbit  yang menerbitkan sebuah buku naskah-naskah pilihan dari Aaron ini mempersulit para pengguna untuk mengunduh dan menyebarluaskan buku tersebut. Hal ini kemudian dianggap tidak sesuai dengan semangat berbagi yang diperjuangkan oleh Aaron. Informasi lebih lanjut tentang kasus ini dapat dibaca di [tautan ini](https://www.insidehighered.com/news/2016/04/25/critics-protest-handling-rights-hacktivist-aaron-swartzs-writings). Penggunaan ciptaan dari pencipta-pencipta tertentu, harus diikuti dengan memikirkan strategi dan perkiraan terkait dampak penggunaannya, supaya tidak ada pihak yang merasa dirugikan.
 
 3. Apabila Anda melakukan adaptasi terhadap naskah yang ada di situs web tersebut (yang mana, telah Anda lakukan dengan menerjemahkan artikel buatan Aaron Swartz), Anda harus menerapkan lisensi yang sama dengan naskah yang asli yaitu **CC BY-NC-SA**.
 
-
-Semoga membantu. Pokoknya Creative Commons!
+    Semoga membantu. Pokoknya Creative Commons!
