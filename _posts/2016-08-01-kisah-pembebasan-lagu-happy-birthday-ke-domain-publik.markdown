@@ -16,7 +16,7 @@ tags:
 author: hilman
 ---
 
-![A-1922-copy-of-The-Everyday-Song-Book-containing-lyrics-to-Happy-Birthday.-Christine-Mai-Duc-Los-Angeles-Times.jpg](/uploads/A-1922-copy-of-The-Everyday-Song-Book-containing-lyrics-to-Happy-Birthday.-Christine-Mai-Duc-Los-Angeles-Times.jpg){: .img-responsive .center-block }<center><small><i>Lirik lagu "Good Morning To You-Happy Birthday" dari buku "Everyday Song Book". (<a href="http://www.latimes.com/local/lanow/la-me-ln-happy-birthday-song-lawsuit-decision-20150922-story.html"Sumber gambar</a>, foto oleh Christine Mai-Duc)</i></small></center>
+![A-1922-copy-of-The-Everyday-Song-Book-containing-lyrics-to-Happy-Birthday.-Christine-Mai-Duc-Los-Angeles-Times.jpg](/uploads/A-1922-copy-of-The-Everyday-Song-Book-containing-lyrics-to-Happy-Birthday.-Christine-Mai-Duc-Los-Angeles-Times.jpg){: .img-responsive .center-block }<center><small><i>Lirik lagu "Good Morning To You-Happy Birthday" dari buku "Everyday Song Book". (<a href="http://www.latimes.com/local/lanow/la-me-ln-happy-birthday-song-lawsuit-decision-20150922-story.html">Sumber gambar</a>, foto oleh Christine Mai-Duc)</i></small></center>
 
 Pada bulan September 2015, hakim George H. King [memutuskan](http://documents.latimes.com/happy-birthday-ruling/) bahwa lagu "[Happy Birthday](https://youtu.be/MzrLNrXaWYA)" resmi berstatus domain publik. Produk hukum ini lahir oleh karena upaya Jennifer Nelson dan tim pengacaranya yang memperkarakan penarikan biaya sebanyak **1500 Dollar AS** terhadap penggunaan lagu "Happy Birthday". Jennifer bermaksud menggunakan lagu tersebut pada film yang diproduksi bersama timnya di Good Morning To You Productions. Film tersebut dibuat untuk menceritakan sejarah lagu itu sendiri.
 
@@ -24,7 +24,7 @@ Pada bulan September 2015, hakim George H. King [memutuskan](http://documents.la
 
 Pada tahun 1893, kakak beradik Mildred dan Patty Hill menciptakan lagu berjudul "Good Morning To You" atau Good Morning to All" untuk mereka nyanyikan kepada para murid yang bersekolah di taman kanak-kanak yang mereka kelola. Kedua aktivis pendidikan tersebut memang memiliki latar belakang sebagai ahli pengetahuan musik. Dalam penciptaan lagu ini, Patty (Kepala Sekolah di taman kanak-kanak eksperimental Louisville) bertugas sebagai penulis lirik, dan Mildred (komposer musik) yang menciptakan nada-nadanya. Pada awal abad ke-20 lagu ini mulai banyak dinyanyikan, dengan kata "Happy Birthday" sebagai pengganti kata "Good Morning". Tidak pernah diketahui siapa yang sebenarnya mulai membuat perubahan kata pada lagu tersebut.
 
-![songbook-728x1024.jpg](/uploads/songbook-728x1024.jpg){: .img-responsive .center-block }<center><small><i>Sampul buku "Everyday Song Book". (<a href="http://boingboing.net/2015/08/07/the-twisted-history-of-the-hap.html"Sumber gambar</a>)</i></small></center>
+![songbook-728x1024.jpg](/uploads/songbook-728x1024.jpg){: .img-responsive .center-block }<center><small><i>Sampul buku "Everyday Song Book". (<a href="http://boingboing.net/2015/08/07/the-twisted-history-of-the-hap.html">Sumber gambar</a>)</i></small></center>
 
 **"Happy Birthday" Bebas Hak Cipta**
 
