@@ -16,9 +16,9 @@ Undang-Undang Hak Cipta (UUHC) membedakan masa berlaku Hak Cipta dan Hak Terkait
 
 Mari kita simak bersama-sama ketentuan masa berlaku Hak Cipta dan Hak Terkait di Indonesia:
 
-**1.) Masa Berlaku Hak Cipta
+**1.) Masa Berlaku Hak Cipta**
 
-a. Hak Moral**
+**a. Hak Moral**
 
 Masa berlaku hak moral terkait pencantuman nama pada salinan ciptaan seseorang, pencantuman nama samarannya, perlindungan ciptaan seseorang  atas perbuatan distorsi, mutilasi, modifikasi, dan hal-hal yang berpotensi merusak kehormatan pencipta ciptaan tersebut berlaku tanpa batas waktu. Sedangkan hak untuk mengubah nama ciptaan agar sesuai dengan kepatutan masyarakat, dan mengubah judul dan anak judul ciptaan, berlaku selama jangka waktu hak cipta pencipta yang bersangkutan.
 
@@ -58,9 +58,9 @@ Berlaku selama 50 tahun semenjak ciptaan tersebut pertama kali diumumkan. Perlin
 
 UUHC juga mengatur, ciptaan **yang tidak diketahui penciptanya**, dan hak ciptanya dipegang oleh negara, masa berlaku perlindungannya adalah 50 tahun sejak ciptaan pertama kali diumumkan. Kemudian, hak cipta atas ciptaan yang dilaksanakan oelh pihak yang melakukan pengumuman berlaku selama 50 tahun semenjak ciptaan tersebut pertama kali diumumkan. Selain itu, ciptaan yang dilakukan pengumuman bagian per bagian, masa berlakunya dihitung sejak tanggal pengumuman bagian yang terakhir. Untuk ciptaan yang terdiri atas 2 jilid atau lebih, yang dilakukan pengumuman secara berkala dan tidak bersamaan waktunya, maka tiap jilid dianggap sebagai ciptaan tersendiri.
 
-**2.) Masa Berlaku Hak Terkait
+**2.) Masa Berlaku Hak Terkait**
 
-a.) Masa berlaku hak moral Pelaku Pertunjukan**
+**a.) Masa berlaku hak moral Pelaku Pertunjukan**
 
 Ketentuan yang diberlakukan terhadap hak moral Pelaku Pertunjukan sama dengan ketentuan yang diberlakukan terhadap hak moral pada pengaturan masa berlaku hak cipta.
 
