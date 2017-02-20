@@ -45,6 +45,7 @@ layout: default
             <div class="col-lg-12">
             <a href="{{ post.url }}" class="btn-link"><h3>{{ post.title }}</h3></a>
             <small>{{ post.date | date: "%-d %b %Y" }}</small>
+            <br/>
             <p>{{ post.content | strip_html | truncatewords:30 }}</p>
               <div class="row">
                 <div class="col-md-12">
