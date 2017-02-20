@@ -7,11 +7,16 @@ layout: default
     <div class="container">
 
       <div class="search">
-        <form action="/search.html" method="get">
-          <label for="search-box">Search</label>
-          <input type="text" id="search-box" name="query">
-          <input type="submit" value="search">
-        </form>
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="form-group">
+              <form action="/search.html" method="get">
+                <input type="text" id="search_box" placeholder="Cari" name="query" class="form-control">
+                <!-- <input type="submit" value="Cari"> -->
+              </form>
+            </div>
+          </div>
+        </div>
 
         <ul id="search-results"></ul>
 
