@@ -24,14 +24,14 @@ Lokakarya ini akan diadakan pada hari Sabtu, 20 Agustus 2016 pukul 15.00-17.00 d
 
 Lokasi Markas Wikimedia Indonesia di Google Map:
 
-bit.do/PetaWMID
+[bit.do/PetaWMID](http://bit.do/PetaWMID)
 
 Untuk lokakarya ini, peserta hanya dibatasi untuk 25 (dua puluh lima) orang.
 
 Anda juga diperbolehkan untuk membawa laptop milik Anda jika Anda ingin mencoba langsung menggunakan Wikimedia Commons seusai sesi diskusi.
 
->> Jadi, segera daftarkan diri Anda di bit.do/FormulirCommons <<
+>> Jadi, segera daftarkan diri Anda di [bit.do/FormulirCommons](http://bit.do/FormulirCommons) <<
 
 Salam!
 
-Anda dapat mengakses dokumentasi Lokakarya Wikimedia Commons di tautan berikut ini.
+**Anda dapat mengakses dokumentasi Lokakarya Wikimedia Commons di [tautan berikut ini](https://commons.wikimedia.org/wiki/Category:Lokakarya_Wikimedia_Commons).**
