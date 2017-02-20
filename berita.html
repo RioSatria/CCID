@@ -66,8 +66,9 @@ layout: default
           {% assign currentdate = post.date | date: "%Y" %}
           {% if currentdate != date %}
         {% unless forloop.first %}</ul></div>{% endunless %}
-            <div class="dropdown text-right">
-            <a class="dropdown-toggle" data-toggle="dropdown"><h4 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h4></a>
+            <div class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown"><h1 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h1></a>
+            <hr>
             <ul class="dropdown-menu dropdown-menu-right" style="list-style:none;">
             {% assign date = currentdate %}
           {% endif %}
