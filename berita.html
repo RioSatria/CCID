@@ -39,6 +39,12 @@ layout: default
   {% assign counter = 0 %}
   {% for post in site.categories['Berita'] %}
   {% assign counter = counter | plus: 1 %}
+    {% for post in site.posts %}
+    {% assign currentdate = post.date | date: "%Y" %}
+    {% if currentdate != date %}
+    <li id="y{{currentdate}}">{{ currentdate }}</li>
+    {% assign date = currentdate %} 
+    {% endif %}
     <li>
     <div class="col-lg-8 col-lg-offset-2">
     <a href="{{ post.url }}" class="btn-link"><h3>{{ post.title }}</h3></a>
@@ -54,6 +60,7 @@ layout: default
         <hr>
     </div>
     </li>
+    {% endfor %}
   {% endfor %}
 </ul>
 </div>
