@@ -80,9 +80,9 @@ media lainnya; dan
 
     Berlaku selama 50 tahun semenjak karya tersebut pertama kali dipublikasikan. Lain halnya dengan karya seni terapan yaitu 25 tahun sejak pertama kali diumumkan.
 
-    Menurut perhitungan kami, untuk mengetahui ciptaan-ciptaan mana yang telah habis masa berlaku hak ciptanya di tahun 2017 menurut ketentuan nomor 1, kita dapat menelusuri karya-karya dari Pencipta yang **paling tidak sudah meninggal pada tahun 1946**.
+Menurut perhitungan kami, untuk mengetahui ciptaan-ciptaan mana yang telah habis masa berlaku hak ciptanya di tahun 2017 menurut ketentuan nomor 1, kita dapat menelusuri karya-karya dari Pencipta yang **paling tidak sudah meninggal pada tahun 1946**.
 
-    Setelah melakukan riset sederhana dengan menelusuri "[Kategori: Kematian 1946](https://id.wikipedia.org/wiki/Kategori:Kematian_1946)" di laman Wikipedia Bahasa Indonesia, kami menemukan bahwa lagu-lagu ciptaan [Cornel Simanjuntak](https://id.wikipedia.org/wiki/Cornel_Simanjuntak) yang meninggal pada 15 September 1946 (khususnya lagu ciptaannya sendiri) seperti Bungaku, Indonesia Tetap Merdeka, Ku Pinta Lagi, Maju Indonesia, Maju Tak Gentar, dan Sorak-Sorak Bergembira telah habis masa berlaku hak ciptanya.
+Setelah melakukan riset sederhana dengan menelusuri "[Kategori: Kematian 1946](https://id.wikipedia.org/wiki/Kategori:Kematian_1946)" di laman Wikipedia Bahasa Indonesia, kami menemukan bahwa lagu-lagu ciptaan [Cornel Simanjuntak](https://id.wikipedia.org/wiki/Cornel_Simanjuntak) yang meninggal pada 15 September 1946 (khususnya lagu ciptaannya sendiri) seperti Bungaku, Indonesia Tetap Merdeka, Ku Pinta Lagi, Maju Indonesia, Maju Tak Gentar, dan Sorak-Sorak Bergembira telah habis masa berlaku hak ciptanya.
 
 ![Cornel_simanjuntak.jpg](/uploads/Cornel_simanjuntak.jpg){: .img-responsive .center-block }<center><small><i>Cornel Simanjuntak (<a href="https://id.wikipedia.org/w/index.php?title=Berkas:Cornel_simanjuntak.jpg&filetimestamp=20121219093539&">Sumber gambar</a>).</i></small></center>
 
