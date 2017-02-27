@@ -27,17 +27,17 @@ Masih ingat rumus penghitungan habisnya masa berlaku hak cipta suatu obyek perli
 
 Mari tengok bagaimana ketentuan habis masa berlaku hak cipta dari Undang-Undang Hak Cipta Tahun 2014 di Indonesia:
 
-1. Karya-karya seperti:
-a. buku, pamflet, dan semua hasil karya tulis lainnya;
-b. ceramah, kuliah, pidato, dan Ciptaan sejenis lainnya;
-c. alat peraga yang dibuat untuk kepentingan pendidikan dan ilmu pengetahuan;
-d. lagu atau musik dengan atau tanpa teks;
-e. drama, drama musikal, tari, koreografi, pewayangan, dan pantomim;
-f. karya seni rupa dalam segala bentuk seperti lukisan, gambar, ukiran, kaligrafi, seni pahat, patung,
+1. Karya-karya seperti
+    a. buku, pamflet, dan semua hasil karya tulis lainnya;
+    b. ceramah, kuliah, pidato, dan Ciptaan sejenis lainnya;
+    c. alat peraga yang dibuat untuk kepentingan pendidikan dan ilmu pengetahuan;
+    d. lagu atau musik dengan atau tanpa teks;
+    e. drama, drama musikal, tari, koreografi, pewayangan, dan pantomim;
+    f. karya seni rupa dalam segala bentuk seperti lukisan, gambar, ukiran, kaligrafi, seni pahat, patung,
 atau kolase;
-g. karya arsitektur;
-h. peta; dan
-i. karya seni batik dan seni motif lain,
+    g. karya arsitektur;
+    h. peta; dan
+    i. karya seni batik dan seni motif lain,
 
 Berlaku selama hidup Pencipta dan terus berlangsung selama 70 tahun setelah Pencipta meninggal dunia.
 
@@ -46,18 +46,18 @@ Bagi ciptaan yang hak ciptanya dipegang oleh dua pihak atau lebih, maka masa ber
 Masa berlaku ciptaan yang hak ciptanya dipegang oleh Badan Hukum adalah 50 tahun setelah karya tersebut dipublikasikan.
 
 2. Karya-karya seperti:
-a. karya fotografi
-b. Potret;
-c. karya sinematografi;
-d. permainan video;
-e. Program Komputer;
-f. perwajahan karya tulis;
-g. terjemahan, tafsir, saduran, bunga rampai, basis data, adaptasi, aransemen, modifikasi dan karya
+    a. karya fotografi
+    b. Potret;
+    c. karya sinematografi;
+    d. permainan video;
+    e. Program Komputer;
+    f. perwajahan karya tulis;
+    g. terjemahan, tafsir, saduran, bunga rampai, basis data, adaptasi, aransemen, modifikasi dan karya
 lain dari hasil transformasi;
-h. terjemahan, adaptasi, aransemen, transformasi atau modifikasi ekspresi budaya tradisional;
-i. kompilasi Ciptaan atau data, baik dalam format yang dapat dibaca dengan Program Komputer atau
+    h. terjemahan, adaptasi, aransemen, transformasi atau modifikasi ekspresi budaya tradisional;
+    i. kompilasi Ciptaan atau data, baik dalam format yang dapat dibaca dengan Program Komputer atau
 media lainnya; dan
-j. kompilasi ekspresi budaya tradisional selama kompilasi tersebut merupakan karya yang asli,
+    j. kompilasi ekspresi budaya tradisional selama kompilasi tersebut merupakan karya yang asli,
 
 Berlaku selama 50 tahun semenjak karya tersebut pertama kali dipublikasikan. Lain halnya dengan karya seni terapan yaitu 25 tahun sejak pertama kali diumumkan.
 
