@@ -46,7 +46,7 @@ Bagi ciptaan yang hak ciptanya dipegang oleh dua pihak atau lebih, maka masa ber
 Masa berlaku ciptaan yang hak ciptanya dipegang oleh Badan Hukum adalah 50 tahun setelah karya tersebut dipublikasikan.
 
 2. Karya-karya seperti:
-a. karya fotografi;
+a. karya fotografi
 b. Potret;
 c. karya sinematografi;
 d. permainan video;
