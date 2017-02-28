@@ -6,7 +6,10 @@ layout: default
 	<div class="main">
 		<div class="section section-basic">
 	    	<div class="container">
-		<small><a href="http://ccid.siteleaf.net/">Beranda</a>/<a href="http://ccid.siteleaf.net/{{ page.categories }}">{{ page.categories | first }}</a>/{{ page.title }}</small>
+		{% capture category_breadcrumbs %}
+			{{ page.categories | first }}
+		{% endcapture %}
+		<small><a href="http://ccid.siteleaf.net/">Beranda</a>/<a href="http://ccid.siteleaf.net/{{ page.categories | first }}">{{ page.categories | first }}</a>/{{ page.title }}</small>
                 <div class="row">
                     <div class="col-lg-9">
                         <div class="text-center article-title">
