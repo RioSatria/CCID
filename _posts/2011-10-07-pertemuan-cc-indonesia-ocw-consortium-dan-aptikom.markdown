@@ -14,6 +14,7 @@ tags:
 - Lisensi Terbuka
 author: ivan
 layout: post
+comments: true
 ---
 
 ![Logo OCW.jpg](/uploads/Logo%20OCW.jpg){: .img-responsive .center-block }
