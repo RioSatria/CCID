@@ -9,7 +9,7 @@ layout: default
 		{% capture category_breadcrumbs %}
 			{{ page.categories | first }}
 		{% endcapture %}
-		<small><a href="http://ccid.siteleaf.net/">Beranda</a>/<a href="http://ccid.siteleaf.net/{{ category_breadcrumbs | downcase }}">{{ category_breadcrumbs }}</a>/{{ page.title }}</small>
+		<small><a href="http://ccid.siteleaf.net/">Beranda</a>/<a href="http://ccid.siteleaf.net/{{ category_breadcrumbs | downcase | remove: " " }}">{{ category_breadcrumbs }}</a>/{{ page.title }}</small>
                 <div class="row">
                     <div class="col-lg-9">
                         <div class="text-center article-title">
