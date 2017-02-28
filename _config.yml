@@ -22,4 +22,5 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 url: http://ccid.siteleaf.net/
-gems: ['jekyll-twitter-plugin']
+gems:
+- jekyll-twitter-plugin
