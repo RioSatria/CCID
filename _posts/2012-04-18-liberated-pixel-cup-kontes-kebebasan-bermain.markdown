@@ -11,6 +11,7 @@ tags:
 - Lisensi Creative Commons
 - Permainan Video
 author: nita
+comments: true
 ---
 
 ![lpc_indoors.png](/uploads/lpc_indoors.png){: .img-responsive .center-block }<center><small><i>Liberated Pixel Cup example indoor artwork / Lanea Zimmerman / CC BY-SA 3.0</i></small></center>
