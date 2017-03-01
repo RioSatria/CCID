@@ -12,6 +12,7 @@ tags:
 - Hak Cipta
 - Diskusi
 author: hilman
+comments: true
 ---
 
 ![Ngobrol_di_Coffeewar_Creative_Commons_dan_Hak_Cipta_Untuk_Video_Audio_dan_Fotografi_CCID-16_03112016.jpg](/uploads/Ngobrol_di_Coffeewar_Creative_Commons_dan_Hak_Cipta_Untuk_Video_Audio_dan_Fotografi_CCID-16_03112016.jpg){: .img-responsive .center-block }
