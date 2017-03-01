@@ -10,6 +10,7 @@ tags:
 - Undang-Undang Hak Cipta
 - UUHC
 author: hilman
+comments: true
 ---
 
 Undang-Undang Hak Cipta (UUHC) membedakan masa berlaku Hak Cipta dan Hak Terkait. Pengaturan masa berlaku hak cipta memisahkan masa berlaku hak moral dan hak ekonomi. Selain itu, Hak Cipta juga memisahkan masa berlaku berdasarkan obyek hak cipta, waktu pengumuman, dan siapa pemegang hak. Hak terkait adalah hak yang berkaitan dengan Hak Cipta yang berlaku eksklusif bagi pelaku pertunjukan, produser fonogram, atau lembaga penyiaran. Di dalam pengaturan Hak Terkait, hak moral hanya berlaku terhadap pelaku pertunjukan saja.
