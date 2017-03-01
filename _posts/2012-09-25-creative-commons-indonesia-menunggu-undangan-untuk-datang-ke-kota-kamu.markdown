@@ -9,6 +9,7 @@ tags:
 - Creative Commons Indonesia
 - Sosialisasi Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 ![comment-sahabat-cc.jpg](/uploads/comment-sahabat-cc.jpg){: .img-responsive .center-block }
