@@ -11,6 +11,7 @@ tags:
 - CC Atribusi
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 ![120px-Continents_from_globe.png](/uploads/120px-Continents_from_globe.png){: .img-responsive .center-block }
