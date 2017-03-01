@@ -11,6 +11,7 @@ tags:
 - Buku
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 Prof. Eko Indrajit has published seven books under CC BY-NC-SA 3.0 Unported license. One of his book, titled Teknologi Informasi dan Perguruan Tinggi: Menjawab Tantangan Pendidikan Abad ke-21, talks about how information and communication technology can be very useful for high education institutions, including how we should use and maintain it in national education system. He sees technology as a support system in conducting research, and we should not only use it to gain information but also to share the knowledge we have - just like how he shares his books for free. 
