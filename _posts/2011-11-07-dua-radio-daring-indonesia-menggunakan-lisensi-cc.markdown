@@ -12,6 +12,7 @@ tags:
 - Netlabel
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 ![120px-Radio-icon.svg.png](/uploads/120px-Radio-icon.svg.png){: .img-responsive .center-block }
