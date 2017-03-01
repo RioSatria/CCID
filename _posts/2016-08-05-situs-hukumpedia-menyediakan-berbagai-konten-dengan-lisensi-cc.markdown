@@ -10,6 +10,7 @@ tags:
 - Situs Web
 - Sobat CCID
 author: hilman
+comments: true
 ---
 
 ![logo.png](/uploads/logo.png){: .img-responsive .center-block }
