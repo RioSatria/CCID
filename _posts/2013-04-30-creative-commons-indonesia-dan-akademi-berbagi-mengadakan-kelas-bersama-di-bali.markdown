@@ -14,6 +14,7 @@ tags:
 - Sosialisasi Lisensi Creative Commons
 - Lisensi Creative Commons
 author: ccid
+comments: true
 ---
 
 ![CCID-dan-Akademi-Berbagi-di-Bali-27-April-2013-300x169.jpg](/uploads/CCID-dan-Akademi-Berbagi-di-Bali-27-April-2013-300x169.jpg){: .img-responsive .center-block }
