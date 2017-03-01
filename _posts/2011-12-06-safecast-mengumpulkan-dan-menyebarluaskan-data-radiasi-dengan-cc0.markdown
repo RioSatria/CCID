@@ -10,6 +10,7 @@ tags:
 - Lisensi Creative Commons
 - Data
 author: nita
+comments: true
 ---
 
 Satu minggu setelah bencana yang menimpa pembangkit listrik tenaga nuklir Fukushima pada bulan Maret lalu, proyek Safecast dimulai untuk menjawab kebutuhan masyarakat Jepang untuk mengetahui informasi tingkat radiasi di lingkungan mereka. Safecast yang juga dikenal sebagai RDTN.org mengumpulkan berbagai data radiasi dan diperuntukkan sebagai domain publik menggunakan CC0, sehingga data yang ada dapat diakses oleh setiap orang termasuk ilmuwan dan ahli nuklir. Sejak saat itu, lebih dari 1,25 juta data telah dikumpulkan dan disebarluaskan. Proyek ini masih berjalan dan memiliki target untuk membuat peta dunia.
