@@ -13,6 +13,7 @@ tags:
 - Hak Cipta
 - Lisensi Creative Commons
 author: ccid
+comments: true
 ---
 
 Masih ingat dengan artikel "Bermain Internet Meme Sambil Menghindari Pelanggaran Hak Cipta" kami?
