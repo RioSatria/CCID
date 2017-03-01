@@ -12,6 +12,7 @@ tags:
 - Fotografer
 - Hak Cipta Fotografi
 author: hilman
+comments: true
 ---
 
 ![cats-2.jpg](/uploads/cats-2.jpg){: .img-responsive .center-block }
