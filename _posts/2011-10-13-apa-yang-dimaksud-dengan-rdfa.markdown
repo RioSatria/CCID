@@ -7,6 +7,7 @@ tags:
 - RDFa
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 [RDFa](http://wiki.creativecommons.org/RDFa) adalah metode mencantumkan data terstruktur dalam laman situs. Untuk informasi lebih lanjut mengenai RDFa, lihat sumber berikut:
