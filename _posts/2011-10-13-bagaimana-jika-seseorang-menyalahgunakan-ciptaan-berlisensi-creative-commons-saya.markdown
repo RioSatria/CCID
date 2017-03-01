@@ -8,6 +8,7 @@ tags:
 - Pelanggaran Lisensi Creative Commons
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 Ketentuan lisensi CC berakhir secara otomatis setelah adanya suatu pelanggaran terhadap kondisi yang telah ditetapkan. Sebagai contoh, jika pengguna dari sebuah ciptaan yang diumumkan di bawah lisensi Creative Commons tidak menuliskan nama pencipta yang diperlukan, maka pengguna tidak lagi memiliki hak untuk terus menggunakan ciptaan tersebut dan dapat bertanggung jawab atas pelanggaran hak cipta. Lisensi berakhir sehubungan dengan pengguna yang melanggar lisensi, tetapi tetap berlaku bagi semua pengguna lainnya selama mereka berada dalam kepatuhan.
