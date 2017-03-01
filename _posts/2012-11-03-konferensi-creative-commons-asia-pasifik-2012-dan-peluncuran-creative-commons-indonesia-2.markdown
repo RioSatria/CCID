@@ -12,6 +12,7 @@ tags:
 - Acara
 - Indonesia
 author: nita
+comments: true
 ---
 
 ![logo-CCIDAP-2012.jpg](/uploads/logo-CCIDAP-2012.jpg){: .img-responsive .center-block }
