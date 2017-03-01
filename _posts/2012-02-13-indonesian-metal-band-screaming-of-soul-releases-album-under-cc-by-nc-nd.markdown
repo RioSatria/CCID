@@ -14,6 +14,7 @@ tags:
 - Metal
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 ![demo-release-2011-flyer-web.jpg](/uploads/demo-release-2011-flyer-web.jpg){: .img-responsive .center-block }
