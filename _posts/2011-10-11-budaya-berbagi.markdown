@@ -13,6 +13,7 @@ tags:
 - Open Source
 - Budaya Bebas
 author: ivan
+comments: true
 ---
 
 ![crosbythajib1.jpg](/uploads/crosbythajib1.jpg){: .img-responsive .center-block }
