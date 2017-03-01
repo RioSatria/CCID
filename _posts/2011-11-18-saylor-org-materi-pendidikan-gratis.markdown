@@ -8,6 +8,7 @@ tags:
 - Materi Pendidikan
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 Saylor.org adalah situs yang menyediakan materi pendidikan secara gratis dengan cara mengundang setiap orang untuk mengunggah buku cetak buatan mereka yang menyesuaikan dengan kriteria yang diberikan oleh Saylor.org, yaitu salah satunya diperbolehkan untuk disebarkan di bawah lisensi CC BY. Situs ini menyediakan berbagai materi pendidikan mulai dari bidang Sejarah Seni, Biologi, Bisnis, Kimia, Ilmu Komputer, Ekonomi, Sastra Inggris, Sejarah, Matematika, Teknik Mesin, Ilmu Politik, sampai dengan Psikologi.
