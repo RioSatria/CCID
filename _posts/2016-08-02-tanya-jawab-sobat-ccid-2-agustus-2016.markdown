@@ -11,6 +11,7 @@ tags:
 - Penggunaan Wajar
 - Lisensi Creative Commons
 author: hilman
+comments: true
 ---
 
 ![Sobat-Biondy-Alfian.jpg](/uploads/Sobat-Biondy-Alfian.jpg){: .img-responsive .center-block }
