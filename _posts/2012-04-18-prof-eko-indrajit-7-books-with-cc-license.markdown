@@ -1,7 +1,7 @@
 ---
 title: 'Prof. Eko Indrajit: 7 books with CC license'
 date: 2012-04-18 14:39:00 +07:00
-permalink: "/en/:year/:month/prof-eko-indrajit-7-books-with-cc-license/"
+permalink: "/en/:year/:month/:title/"
 categories:
 - Berita
 - Sobat CCID
