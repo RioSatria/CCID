@@ -12,6 +12,7 @@ tags:
 - Peluncuran Creative Commons Indonesia
 - Acara
 author: ccid
+comments: true
 ---
 
 Konferensi Creative Commons Asia Pasifik 2012 dan Peluncuran Creative Commons Indonesia berlanjut, pada tanggal 11 November 2012, yang merupakan hari kedua, memiliki agenda diskusi publik yang dibagi ke dalam empat panel kecil dan dua panel besar. Hal yang penting pula pada hari kedua yaitu merupakan hari diluncurkannya lisensi Creative Commons dalam Bahasa Indonesia secara resmi. Peserta nasional yang hadir tidak hanya berasal dari Jakarta dan sekitarnya, tetapi juga berasal dari daerah-daerah lain seluruh Indonesia. Selain itu juga terdapat 16 peserta penerima beasiswa perjalanan yang hadir diantaranya berasal dari Medan, Denpasar, Bandung dan sekitarnya, serta Surabaya.
