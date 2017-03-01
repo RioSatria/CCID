@@ -11,6 +11,7 @@ tags:
 - Data Licensing
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 Ya, lisensi CC dapat digunakan terhadap segala sesuatu yang dibatasi oleh hak cipta, termasuk data dan basis data yang berada di bawah hak cipta.
