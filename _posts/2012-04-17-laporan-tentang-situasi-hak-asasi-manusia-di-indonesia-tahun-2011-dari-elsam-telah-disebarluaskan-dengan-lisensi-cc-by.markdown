@@ -10,6 +10,7 @@ tags:
 - Hak Asasi Manusia
 - CC BY
 author: nita
+comments: true
 ---
 
 ![elsam-211x300.jpg](/uploads/elsam-211x300.jpg){: .img-responsive .center-block }
