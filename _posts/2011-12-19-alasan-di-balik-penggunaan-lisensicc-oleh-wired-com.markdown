@@ -8,6 +8,7 @@ tags:
 - Wired.com
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 [Camera.svg](/uploads/Camera.svg){: .img-responsive .center-block }
