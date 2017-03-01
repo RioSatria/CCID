@@ -11,6 +11,7 @@ tags:
 - Homicide
 - Dangerdope
 author: hilman
+comments: true
 ---
 
 **Manusia dan Penciptaan Musik**
