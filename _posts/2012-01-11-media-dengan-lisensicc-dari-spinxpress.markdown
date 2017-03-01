@@ -8,6 +8,7 @@ tags:
 - Fotografi
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 Serupa dengan [Fotopedia](http://creativecommons.or.id/2012/01/foto-dengan-lisensicc-dari-fotopedia/), [SpinXpress](http://www.spinxpress.com/) menyediakan media dengan lisensi CC. Perbedaannya adalah, SpinXpress menyediakan media berupa gambar, video, maupun musik, mulai dari media yang menggunakan hak cipta tradisional hingga lisensi CC yang memperbolehkan setiap orang untuk menyebarluaskan, menggandakan, dan menggubah media tersebut. Masing-masing media memiliki lisensi yang berbeda sehingga Anda harus mencermati lambang lisensi yang ada di sebelah kiri judul.
