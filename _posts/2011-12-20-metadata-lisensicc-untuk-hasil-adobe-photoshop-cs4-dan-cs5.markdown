@@ -11,6 +11,7 @@ tags:
 - Adobe
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 Untuk Anda yang sering menggunakan Adobe Photoshop dalam berkreasi, Anda dapat juga melisensikan ciptaan Anda dengan lisensi CC. Creative Commons XMP License memungkinkan Anda menambahkan metadata Lisensi CC ke dalam hasil kreasi yang Anda buat di dalam Adobe Photoshop  CS5.
