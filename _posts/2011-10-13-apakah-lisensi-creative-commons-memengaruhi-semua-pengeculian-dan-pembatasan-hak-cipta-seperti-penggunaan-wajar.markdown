@@ -10,6 +10,7 @@ tags:
 - Penggunaan Wajar
 - Fair Use
 author: nita
+comments: true
 ---
 
 Tidak. Semua lisensi CC memiliki syarat mengenai pengecualian dan batasan, seperti berikut: "Tidak ada bagian apa pun di dalam Lisensi ini yang dimaksudkan mengurangi, membatasi, atau menghalangi penggunaan bebas apa pun dari hak cipta atau hak-hak yang muncul dari pembatasan atau pengecualian yang diberikan sehubungan dengan perlindungan hak cipta tersebut sesuai dengan undang-undang hak cipta atau hukum yang berlaku lainnya."
