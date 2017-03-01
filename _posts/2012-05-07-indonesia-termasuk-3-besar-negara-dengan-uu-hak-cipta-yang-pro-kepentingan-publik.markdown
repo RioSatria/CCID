@@ -10,6 +10,7 @@ tags:
 - Fungsi Sosial Hak Cipta
 - Hak Cipta
 author: nita
+comments: true
 ---
 
 ![logo.jpg](/uploads/logo.jpg){: .img-responsive .center-block }
