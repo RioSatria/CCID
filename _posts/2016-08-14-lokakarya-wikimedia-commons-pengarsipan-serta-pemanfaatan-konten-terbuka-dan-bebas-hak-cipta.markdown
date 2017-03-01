@@ -12,6 +12,7 @@ tags:
 - Creative Commons Indonesia
 - Wikimedia Indonesia
 author: hilman
+comments: true
 ---
 
 ![lokakaryacommons_2-1024x768.jpg](/uploads/lokakaryacommons_2-1024x768.jpg){: .img-responsive .center-block }
