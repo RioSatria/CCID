@@ -11,6 +11,7 @@ tags:
 - Sobat CCID
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 ![350px-Héraldique_meuble_Livre_ouvert.svg.png](/uploads/350px-H%C3%A9raldique_meuble_Livre_ouvert.svg.png){: .img-responsive .center-block }
