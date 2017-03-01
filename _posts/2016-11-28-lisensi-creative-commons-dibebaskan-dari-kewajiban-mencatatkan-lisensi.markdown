@@ -12,6 +12,7 @@ tags:
 - Hak Cipta
 - Peraturan
 author: ccid
+comments: true
 ---
 
 Pada akhir tahun 2014, Indonesia mengeluarkan peraturan baru mengenai hak cipta yakni Undang-Undang No. 28 Tahun 2014 (UUHC 2014). Dalam Undang-Undang (UU) ini terdapat beberapa ketentuan baru yang mengatur tentang basis data, hak cipta sebagai obyek jaminan, dan kewajiban pencatatan lisensi. Ketentuan yang paling akhir disebutkan merupakan ketentuan yang berpotensi menghambat penerapan lisensi CC, dan lisensi terbuak lainnya di Indonesia.
