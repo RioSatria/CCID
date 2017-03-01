@@ -9,6 +9,7 @@ tags:
 - Ciptaan
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 CC menawarkan 6 lisensi inti yang masing-masing memberikan sejumlah izin tertentu. Sebelum menggunakan ciptaan berlisensi CC, A[nda harus meninjau persyaratan untuk lisensi tersebut](http://creativecommons.org/about/licenses/) untuk memastikan bahwa penggunaan yang Anda inginkan diizinkan. Jika Anda ingin menggunakan ciptaan dengan cara yang tidak diizinkan oleh lisensi yang diterapkan dan penggunaan Anda pun tidak diizinkan oleh pengecualian atau pembatasan hak cipta yang berlaku, lisensi tersebut otomatis berakhir dan Anda mungkin telah melakukan pelanggaran hak cipta.
