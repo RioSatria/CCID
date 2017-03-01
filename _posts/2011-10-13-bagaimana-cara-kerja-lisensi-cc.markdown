@@ -9,6 +9,7 @@ tags:
 - Lisensi Terbuka
 - Lisensi Hak Cipta
 author: nita
+comments: true
 ---
 
 Lisensi CC berlaku hanya apabila diterapkan pada sebuah ciptaan yang memiliki hak cipta, dan kemudian pada saat penggunaan tertentu dari ciptaan adalah dilarang oleh hak cipta. Hal ini berarti bahwa syarat dan ketentuan lisensi CC **tidak** bergantung pada p[enggunaan yang diizinkan berdasarkan setiap pengecualian dan batasan dari hak cipta](http://wiki.creativecommons.or.id/FAQ#Apakah_lisensi_Creative_Commons_memengaruhi_semua_pengeculian_dan_pembatasan_hak_cipta_seperti_penggunaan_wajar.3F), namun syarat dan ketentuan lisensi tidak berlaku untuk unsur-unsur ciptaan berlisensi yang menjadi milik publik. Hal ini juga berarti bahwa lisensi CC tidak secara kontraktual memberlakukan pembatasan penggunaan suatu ciptaan yang tidak didasarkan pada hak cipta. Fitur ini (dan fitur lainnya) membedakan lisensi CC dari beberapa lisensi terbuka lainnya seperti [ODbL](http://opendatacommons.org/licenses/odbl/) dan [ODC-BY](http://opendatacommons.org/licenses/by/), yang keduanya bertujuan untuk memaksakan kondisi dan pembatasan kontraktual pada penggunaan kembali basis data pada wilayah yang tidak memiliki hak cipta yang mengatur hal tersebut atau adanya [hak sui generis basis data](http://wiki.creativecommons.or.id/FAQ#Dapatkah_saya_menerapkan_lisensi_Creative_Commons_terhadap_data_atau_basis_data.3F).
