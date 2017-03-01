@@ -13,6 +13,7 @@ tags:
 - School of Public Relations
 - Acara
 author: nita
+comments: true
 ---
 
 ![IMG_0694-300x225.jpg](/uploads/IMG_0694-300x225.jpg){: .img-responsive .center-block }
