@@ -11,6 +11,7 @@ tags:
 - Sosialisasi Lisensi Creative Commons
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 ![Kelas-Bersama-CCID-dan-Akber-Gorontalo-300x300.jpg](/uploads/Kelas-Bersama-CCID-dan-Akber-Gorontalo-300x300.jpg){: .img-responsive .center-block }
