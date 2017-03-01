@@ -10,6 +10,7 @@ tags:
 - CC Music
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 ![Farfisa._Made_in_Italy_(452690701).jpg](/uploads/Farfisa._Made_in_Italy_(452690701).jpg){: .img-responsive .center-block }<center><small><i>Louis Araujo / Farfisa / CC BY 2.0 Generic</i></small></center>
