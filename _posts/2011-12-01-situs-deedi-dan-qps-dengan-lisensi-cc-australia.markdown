@@ -10,6 +10,7 @@ tags:
 - Pemerintahan
 - Open Government
 author: nita
+comments: true
 ---
 
 Lembaga Pemerintah Australia belum mengadopsi ketentuan keterbukaan akses. Namun, saat ini Pemerintah Negara Bagian Queensland telah memulai keterbukaan akses, yaitu oleh Department of Employment, Economic Development and Innovation (DEEDI) dan Queensland Police Service (QPS).
