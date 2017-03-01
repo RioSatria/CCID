@@ -1,6 +1,7 @@
 ---
 title: Satu Dunia (One World) websites with CC license
 date: 2011-12-08 15:12:00 +07:00
+permalink: "/en/:year/:month/:title/"
 categories:
 - Berita
 - Sobat CCID
