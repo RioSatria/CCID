@@ -11,6 +11,7 @@ tags:
 - CC BY 3.0
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 Research in Learning Technology adalah jurnal dari Association for Learning Technology (Asosiasi Pendidikan Teknologi) yang ditujukan untuk meningkatkan penelitian dalam pengenalan teknologi, mendorong pelaksanaan penelitian sebagai contoh praktik yang baik, dan berkontribusi dalam pengembangan kebijakan. Jurnal ini berisikan makalah tentang penggunaan teknologi dalam proses belajar mengajar di sektor pendidikan maupun industri.
