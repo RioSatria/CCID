@@ -9,6 +9,7 @@ tags:
 - eLangdell
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 [eLangdell](http://elangdell.cali.org/node/2) memublikasikan buku untuk pelajar ilmu hukum dengan lisensi CC. Pada situs mereka, tersedia 9 buku dalam Bahasa Inggris seputar hukum federal Amerika Serikat yang dapat Anda unduh secara gratis. Untuk mendapatkannya, Anda dapat mengakses [tautan ini](http://elangdell.cali.org/), atau secara langsung pada laman masing-masing buku:
