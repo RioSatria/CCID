@@ -8,6 +8,7 @@ tags:
 - Lisensi Creative Commons
 - Lisensi Terbuka
 author: nita
+comments: true
 ---
 
 Meskipun Anda dapat mengubah lisensi kami - CC t[idak menyatakan hak cipta dalam teks lisensi](http://creativecommons.org/policies) - jika Anda melakukannya Anda tidak dapat menyebut lisensi yang telah Anda modifikasi sebagai lisensi "Creative Commons" atau menggunakan merek dagang atau logo kami. Meskipun CC tidak akan melarang Anda mengubah lisensi kami, ada banyak alasan mengapa Anda tidak perlu melakukan hal tersebut. Terlebih lagi, lisensi yang dimodifikasi mungkin tidak dapat berlaku bersesuaian dengan lisensi CC. Namun hal ini dapat mengurangi kebingungan pengguna dan mengurangi penggunaan kembali karena lisensi yang telah dimodifikasi tidak lagi merupakan lisensi standar.
