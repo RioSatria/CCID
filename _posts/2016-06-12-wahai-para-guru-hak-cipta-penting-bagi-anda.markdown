@@ -10,6 +10,7 @@ tags:
 - Pengajar
 - Lisensi Creative Commons
 author: hilman
+comments: true
 ---
 
 Tulisan ini adalah bagian pertama dari serial pendidikan dan hak cipta yang dibuat oleh Lisette Kalshoven. Di samping pemikiran-pemikiran tentang bagaimana kita seharusnya mengatur hak cipta dan pendidikan di abad 21, juga ditulis tentang tips praktis untuk para guru dalam menghadapi pembatasan-pembatasan yang dibuat oleh hak cipta.
