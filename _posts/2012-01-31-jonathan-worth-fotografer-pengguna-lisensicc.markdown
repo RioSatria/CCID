@@ -9,6 +9,7 @@ tags:
 - Fotografi
 - Fotografer
 author: nita
+comments: true
 ---
 
 [Jonathan Worth](http://www.jonathanworth.com/ ) adalah seorang fotografer profesional dari London yang mengajar fotografi di Coventry University, UK. Pada beberapa kesempatan, ia telah memotret beberapa aktor seperti Colin Firth, Rachel Hunter, Jude Law, dan Heath Ledger. Walau demikian, ia memublikasikan beberapa karya fotografinya di bawah lisensi CC BY-NC-SA 3.0. Worth merasa lisensi CC membantunya menyebarluaskan ciptaannya, namun ia tetap dapat mengendalikan penyebarluasan ciptaan sesuai dengan keinginannya - sebagaimana ia menggunakan syarat "NC" sehingga pengguna ciptaannya tidak boleh memperoleh keuntungan komersial.
