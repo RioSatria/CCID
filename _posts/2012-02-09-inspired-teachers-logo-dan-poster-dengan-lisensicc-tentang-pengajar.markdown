@@ -11,6 +11,7 @@ tags:
 - Pengajar
 - Pendidikan
 author: nita
+comments: true
 ---
 
 [Studio 360](http://studio360.org/) dan [Hyperakt](http://hyperakt.com/), studio desain di Brooklyn, bekerja sama membuat kata-kata visual yang menggambarkan peran pengajar. Logo, poster, dan kalender yang mereka buat dipublikasikan dengan lisensi CC BY-NC-SA 3.0 dan dapat Anda unduh dengan gratis melalui [tautan ini](http://inspireteachers.org/). Berikut contoh beberapa gambar yang tersedia:
