@@ -7,6 +7,7 @@ tags:
 - Lisensi Creative Commons
 - Pergantian Lisensi
 author: nita
+comments: true
 ---
 
 Lisensi CC tidak dapat dibatalkan. Setelah karya ini diumumkan di bawah lisensi CC, pemberi lisensi dapat terus menggunakan ciptaan sesuai dengan persyaratan lisensi selama jangka waktu perlindungan hak cipta. Walau demikian, lisensi CC tidak melarang pemberi lisensi untuk menghentikan pengumuman ciptaannya pada setiap saat. Selain itu, lisensi CC menyediakan [mekanisme](http://wiki.creativecommons.or.id/FAQ#Bagaimana_jika_saya_tidak_suka_cara_seseorang_menggunakan_ciptaan_berlisensi_Creative_Commons_saya.3F) bagi pemberi lisensi dan pemilik hak cipta untuk meminta orang lain menggunakan ciptaan mereka untuk menghapus kredit kepada mereka walau dinyatakan lain oleh lisensi. Anda harus [berpikir secara hati-hati sebelum memilih lisensi Creative Commons](http://wiki.creativecommons.org/Before_Licensing).
