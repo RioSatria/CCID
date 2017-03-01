@@ -10,6 +10,7 @@ tags:
 - Open Education
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 ![OER-Video-newsletter-banner.png](/uploads/OER-Video-newsletter-banner.png){: .img-responsive .center-block }
