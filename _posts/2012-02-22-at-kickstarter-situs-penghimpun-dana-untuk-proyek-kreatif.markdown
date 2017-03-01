@@ -9,6 +9,7 @@ tags:
 - Crowdfunding
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 [Kickstarter.com](Kickstarter.com) adalah situs yang merupakan platform dana terbesar di dunia untuk proyek-proyek kreatif. Setiap minggu, puluhan ribu orang menyumbangkan jutaan dolar untuk proyek-proyek musik, film, seni, teknologi, desain, makanan, penerbitan dan bidang kreatif lainnya. Setiap proyek Kickstarter merupakan hasil karya mandiri dari berbagai individu.
