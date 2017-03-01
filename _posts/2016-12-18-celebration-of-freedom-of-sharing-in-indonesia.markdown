@@ -13,6 +13,7 @@ tags:
 - Acara
 - Jakarta
 author: ccid
+comments: true
 ---
 
 [DSC_0150.JPG](/uploads/DSC_0150.JPG){: .img-responsive .center-block }
