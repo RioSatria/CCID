@@ -10,6 +10,7 @@ tags:
 - Public Domain
 - Lisensi Creative Commons
 author: chris
+comments: true
 ---
 
 Zaman sekarang sudah banyak gambar dan video yang terlepas begitu saja di Internet, tanpa kita mengetahui dari mana asal usulnya dan apakah kita bisa menggunakan gambar atau video tersebut secara bebas. Karena itu, cukup banyak foto digunakan secara asal-asalan, tanpa memperhatikan hak ciptanya.
