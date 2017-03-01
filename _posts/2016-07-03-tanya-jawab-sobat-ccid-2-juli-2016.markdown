@@ -12,6 +12,7 @@ tags:
 - Lisensi CC0
 - Hak Cipta
 author: hilman
+comments: true
 ---
 
 ![Rizky-Luthfianto-2.jpg](/uploads/Rizky-Luthfianto-2.jpg){: .img-responsive .center-block }
