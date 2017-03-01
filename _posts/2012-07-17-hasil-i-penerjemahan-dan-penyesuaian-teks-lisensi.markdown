@@ -11,6 +11,7 @@ tags:
 - Teks Lisensi
 - Creative Commons Indonesia
 author: nita
+comments: true
 ---
 
 ![Logo CCID.png](/uploads/Logo%20CCID.png){: .img-responsive .center-block }
