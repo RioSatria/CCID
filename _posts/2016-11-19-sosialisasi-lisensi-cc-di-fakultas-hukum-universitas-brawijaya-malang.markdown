@@ -14,6 +14,7 @@ tags:
 - Komunitas Hukum Bisnis Fakultas Hukum Universitas Brawijaya Malang
 - Acara
 author: hilman
+comments: true
 ---
 
 ![Sosialisasi_Lisensi_CC_di_Universitas_Brawijaya_Malang_CCID_19112016.jpg](/uploads/Sosialisasi_Lisensi_CC_di_Universitas_Brawijaya_Malang_CCID_19112016.jpg){: .img-responsive .center-block }
