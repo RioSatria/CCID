@@ -10,6 +10,7 @@ tags:
 - Hak Merk
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 Ya, Anda dapat menempatkan ciptaan untuk digunakan di bawah lisensi Creative Commons dengan merek dagang yang menunjukkan sumber ciptaan tersebut tanpa mempengaruhi hak merek dagang. Namun, menerapkan lisensi CC untuk ciptaan seperti itu dapat membuat pernyataan tersirat untuk menggunakan merek dagang atau menyatakan kepada penerima lisensi bahwa penggunaan merek dagang adalah diperbolehkan. Creative Commons merekomendasikan kepada pemberi lisensi yang ingin menandai ciptaan dengan merek dagang atau merek lainnya untuk memberikan pemberitahuan pemberi lisensi secara tegas bahwa aplikasi lisensi hanya berlaku untuk unsur-unsur ciptaan. Hal ini dapat dilakukan dalam pemberitahuan hak cipta, dan dapat pula dicatat pada situs di mana ciptaan tersebut diterbitkan.
