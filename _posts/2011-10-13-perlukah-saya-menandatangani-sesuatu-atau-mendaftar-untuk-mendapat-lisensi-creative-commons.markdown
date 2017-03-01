@@ -9,6 +9,7 @@ tags:
 - Petunjuk Penggunaan
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 Tidak. Lisensi Creative Commons dirancang untuk diterapkan terhadap ciptaan Anda dan mengikat terhadap orang yang menggunakan ciptaan Anda berdasarkan pemberitahuan dari tombol "Beberapa Hak Dilindungi" Some Rights Reserved (atau "Tidak Ada Hak Yang Dilindungi" No Rights Reserved jika ciptaan ditujukan atau dinyatakan sebagai domain publik dengan salah satu dari alat domain publik kami) dari Creative Commons dan pernyataan bahwa ciptaan tersebut berlisensi Creative Commons.
