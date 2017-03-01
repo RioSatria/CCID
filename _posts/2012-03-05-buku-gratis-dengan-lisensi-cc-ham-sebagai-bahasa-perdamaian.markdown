@@ -11,6 +11,7 @@ tags:
 - Lisensi Creative Commons
 - Sobat CCID
 author: nita
+comments: true
 ---
 
 Lembaga Studi dan Advokasi Masyarakat (ELSAM) adalah organisasi advokasi kebijakan di Indonesia yang memperjuangkan hak asasi manusia, baik hak sipil-politik maupun hak ekonomi, sosial, dan budaya secara tak terpisahkan. Kegiatan ELSAM antara lain adalah studi kebijakan dan hukum yang berdampak pada hak asasi manusia, advokasi hak asasi manusia dalam berbagai bentuknya, pendidikan dan pelatihan hak asasi manusia, serta penerbitan dan penyebaran informasi hak asasi manusia.
