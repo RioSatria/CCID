@@ -9,6 +9,7 @@ tags:
 - Tanpa Adaptasi
 - Lisensi Cretaive Commons Tanpa Adaptasi
 author: nita
+comments: true
 ---
 
 Salah satu tujuan Creative Commons adalah memastikan bahwa semua perangkat hukum kami dapat digunakan secara global. Untuk tujuan ini, CC menawarkan enam lisensi inti hak cipta internasional (sebelumnya disebut "tanpa adaptasi") yang disusun berdasarkan [berbagai perjanjian internasional tentang hak cipta](http://www.wipo.int/copyright/en/treaties.htm). CC menawarkan lisensi internasional tersebut sehingga siapapun, di manapun di dunia ini dapat berbagi ciptaan mereka dengan ketentuan standar global.
