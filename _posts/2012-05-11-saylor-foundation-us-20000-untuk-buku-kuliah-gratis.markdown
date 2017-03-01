@@ -11,6 +11,7 @@ tags:
 - Materi Pendidikan Terbuka
 - Open Education
 author: nita
+comments: true
 ---
 
 ![Saylor-300x163.jpg](/uploads/Saylor-300x163.jpg){: .img-responsive .center-block }
