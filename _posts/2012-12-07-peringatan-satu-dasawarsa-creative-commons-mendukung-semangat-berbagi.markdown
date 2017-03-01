@@ -10,6 +10,7 @@ tags:
 - Creative Commons Indonesia
 - Acara
 author: ccid
+comments: true
 ---
 
 ![cc10-Jakarta.jpg](/uploads/cc10-Jakarta.jpg){: .img-responsive .center-block }
