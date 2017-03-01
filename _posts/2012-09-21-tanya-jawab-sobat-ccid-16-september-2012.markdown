@@ -9,6 +9,7 @@ tags:
 - Sobat CCID
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 ![pertanyaan-sahabat-CC-crop3.jpg](/uploads/pertanyaan-sahabat-CC-crop3.jpg){: .img-responsive .center-block }
