@@ -9,6 +9,7 @@ tags:
 - Lisensi Adaptasi
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 Sebagai penerima lisensi, Anda harus selalu membaca dan memahami kode hukum lisensi yang relevan sebelum menggunakan ciptaan berlisensi CC, terutama jika Anda menggunakan sebuah ciptaan yang dilisensikan menggunakan lisensi adaptasi yang mungkin jarang Anda temui. Proses adaptasi kami termasuk mengadaptasi lisensi internasional untuk kerangka hukum yurisdiksi yang berbeda, dan dalam proses tersebut mungkin telah ada penyesuaian yang harus Anda ketahui sebelum menggunakan ciptaan.
