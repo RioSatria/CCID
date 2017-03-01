@@ -10,6 +10,7 @@ tags:
 - Afiliasi Creative Commons
 - Afiliasi
 author: nita
+comments: true
 ---
 
 CC Korea telah membuka layanan pencarian LetsCC: [http://www.cckorea.org/xe/?mid=english&document_srl=100195](http://www.cckorea.org/xe/?mid=english&document_srl=100195).
