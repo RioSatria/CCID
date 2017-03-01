@@ -12,6 +12,7 @@ tags:
 - Diskusi
 - Lisensi Creative Commons
 author: ccid
+comments: true
 ---
 
 Indonesia Netaudio Festival digelar tanggal 16 - 17 November 2012 yang lalu, di Yogyakarta. Indonesia Netaudio Festival adalah kegiatan offline yang melibatkan para pelaku, pemerhati, dan penikmat netaudio di Indonesia. Selain merupakan social gathering antar-pelaku dan penikmat netaudio, kegiatan yang  diselenggarakan berupa offline file-sharing, pengumpulan dana berupa penjualan merchandise, diskusi, lokakarya, pemutaran filem dan pertunjukkan musik oleh musisi yang merilis album mereka melalui jaringan internet.
