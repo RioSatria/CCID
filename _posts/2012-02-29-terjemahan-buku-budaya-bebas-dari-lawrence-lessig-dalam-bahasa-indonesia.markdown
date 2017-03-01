@@ -12,6 +12,7 @@ tags:
 - Kunci Cultural Studies
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 ![2012-02-25-09.41.48-1-150x150.jpg](/uploads/2012-02-25-09.41.48-1-150x150.jpg){: .img-responsive .center-block }
