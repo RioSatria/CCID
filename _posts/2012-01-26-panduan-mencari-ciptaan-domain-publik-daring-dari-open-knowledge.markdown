@@ -10,6 +10,7 @@ tags:
 - Milik Publik
 - Hak Cipta
 author: nita
+comments: true
 ---
 
 ![Bibliotheca_Buloviana_(Ausschnitt).jpg](/uploads/Bibliotheca_Buloviana_(Ausschnitt).jpg){: .img-responsive .center-block }
