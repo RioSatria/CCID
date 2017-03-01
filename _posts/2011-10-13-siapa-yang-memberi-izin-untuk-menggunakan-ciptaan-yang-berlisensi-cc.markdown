@@ -10,6 +10,7 @@ tags:
 - Hak Cipta
 - Ciptaan
 author: nita
+comments: true
 ---
 
 Lisensi dan alat hukum kami ditujukan untuk digunakan oleh pihak yang memiliki hak cipta terhadap suatu ciptaan. Umumnya, meskipun tidak selalu, pemilik hak cipta adalah pencipta. Creative Commons tidak memiliki otoritas untuk memberikan izin atas nama pemilik hak cipta dan CC juga tidak mengelola hak tersebut atas nama orang lain.
