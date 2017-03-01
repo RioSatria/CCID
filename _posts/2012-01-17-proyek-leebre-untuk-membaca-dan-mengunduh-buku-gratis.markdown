@@ -8,6 +8,7 @@ tags:
 - Leebre Project
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 [Leebre.org](http://leebre.org/) yang diwakili oleh Michael dan Rebecca mengembangkan sebuah proyek situs untuk menampung novel dari penulis independen dan dilisensikan di bawah lisensi CC. Tujuan dari situs ini adalah untuk mendukung komunitas pembaca dan penulis yang berminat dengan alat publikasi alternatif di samping pencetakan buku. Situs ini juga akan menyediakan tombol donasi sehingga para pembaca dapat turut berkontribusi. Penulis dapat memilih kemana donasi akan dikirimkan, baik ke rekening pengumpulan dana tertentu maupun langsung kepada penulis sendiri.
