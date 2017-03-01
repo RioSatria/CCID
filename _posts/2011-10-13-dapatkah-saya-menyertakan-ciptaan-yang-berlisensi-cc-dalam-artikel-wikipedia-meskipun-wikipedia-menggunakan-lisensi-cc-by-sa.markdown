@@ -11,6 +11,7 @@ tags:
 - Lisensi Creative Commons
 - Lisensi Wikipedia
 author: nita
+comments: true
 ---
 
 Ya. Ciptaan berlisensi CC BY dapat dimasukkan ke dalam ciptaan yang berlisensi CC BY-SA. Misalnya, Anda dapat menggabungkan foto berlisensi CC BY ke dalam artikel Wikipedia asalkan Anda tetap mencantumkan semua pemberitahuan hak cipta, memberikan pernyataan yang tepat dan sesuai dengan ketentuan CC BY. [Pelajari lebih lanjut](http://wiki.creativecommons.or.id/Lisensi) tentang lisensi.
