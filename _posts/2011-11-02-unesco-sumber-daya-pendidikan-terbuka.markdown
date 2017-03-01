@@ -10,6 +10,7 @@ tags:
 - Open Education
 - Pendidikan Terbuka
 author: nita
+comments: true
 ---
 
 ![120px-UNESCO_logo.svg.png](/uploads/120px-UNESCO_logo.svg.png){: .img-responsive .center-block }
