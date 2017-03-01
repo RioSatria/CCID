@@ -11,6 +11,7 @@ tags:
 - Pendidikan Terbuka
 - Lisensi Creative Commons
 author: hilman
+comments: true
 ---
 
 ![Decentralized_Basic_Education_in_Indonesia-300x200.jpg](/uploads/Decentralized_Basic_Education_in_Indonesia-300x200.jpg){: .img-responsive .center-block }<center><small><i><a href="https://commons.wikimedia.org/wiki/File:Decentralized_Basic_Education_in_Indonesia.jpg">Sumber gambar USAID Indonesia</a>(lisensi CC-0)</i></small></center>
