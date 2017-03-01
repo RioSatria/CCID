@@ -9,6 +9,7 @@ tags:
 - Public Domain Mark
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 Lisensi Creative Commons memiliki [tiga lapisan](http://wiki.creativecommons.or.id/Lisensi#Tiga_lapisan_lisensi), seperti halnya dedikasi milik publik CC0: Lisensi Ringkas, Lisensi Lengkap, dan metadata terbaca-mesin. [Tanda Milik Publik](http://creativecommons.org/publicdomain/mark/1.0/) secara hukum tidak operatif, dan hanya memiliki dua lapisan: Lisensi Ringkas dan metadata terbaca-mesin.
