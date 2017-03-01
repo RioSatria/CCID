@@ -8,6 +8,7 @@ tags:
 - Machine Readable
 - Terbaca-Mesin
 author: nita
+comments: true
 ---
 
 Creative Commons memiliki [CC REL](http://wiki.creativecommons.org/CC_REL) sebagai cara untuk menghubungkan metadata lisensi terbaca-mesin dengan ciptaan di bawah lisensi CC. Sebelum Creative Commons mengembangkan CC REL, sulit bagi mesin untuk memastikan apakah sebuah ciptaan telah ditandai dengan lisensi CC. Juga tidak ada tempat standar yang terprediksi untuk menempatkan metadata tentang lisensi (misalnya, pranala sumber ciptaan atau pernyataan perlunya atribusi).
