@@ -15,6 +15,7 @@ tags:
 - Sosialisasi Lisensi Creative Commons
 - Creative Commons Indonesia
 author: hilman
+comments: true
 ---
 
 [IMG_1050.JPG](/uploads/IMG_1050.JPG){: .img-responsive .center-block }{: width="800"}
