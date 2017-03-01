@@ -9,6 +9,7 @@ tags:
 - Musik
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 ![49px-GClef.svg.png](/uploads/49px-GClef.svg.png){: .img-responsive .center-block }
