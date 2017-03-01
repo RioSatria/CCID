@@ -7,6 +7,7 @@ tags:
 - Hak Cipta
 - Hak Cipta Tradisional
 author: nita
+comments: true
 ---
 
 Hak cipta pada sebagian besar yurisdiksi melekat secara otomatis tanpa perlu formalitas apa pun begitu suatu ciptaan direalisasikan dalam suatu bentuk berwujud (mis. saat pena menyentuh kertas, saat foto diambil, atau saat tombol "simpan" ditekan).
