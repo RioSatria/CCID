@@ -9,6 +9,7 @@ tags:
 - Lisensi Hak Cipta
 - Sumber Terbuka
 author: nita
+comments: true
 ---
 
 Kami tidak menganjurkan hal tersebut. Lisensi Creative Common seharusnya tidak digunakan untuk perangkat lunak. Kami sangat mendorong Anda untuk menggunakan salah satu lisensi perangkat lunak yang sangat baik yang telah tersedia. Kami menganjurkan untuk mempertimbangkan penggunaan lisensi yang disediakan oleh [Free Software Foundation](http://www.fsf.org/) atau yang didaftarkan pada [Open Source Initiative](http://www.opensource.org/). Tidak seperti lisensi kami, yang tidak menyebut kode sumber atau objek, lisensi-lisensi yang sudah ada ini dirancang khusus untuk digunakan terhadap perangkat lunak. Selain itu, lisensi kami [tidak sesuai dengan GPL](http://www.dwheeler.com/essays/gpl-compatible.html), lisensi perangkat lunak yang paling banyak digunakan.
