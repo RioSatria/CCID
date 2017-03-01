@@ -12,6 +12,7 @@ tags:
 - Sosialisasi Lisensi Creative Commons
 - Lisensi Creative Commons
 author: ccid
+comments: true
 ---
 
 Hari Sabtu, 4 Mei 2013, Creative Commons Indonesia dan Akademi Bersama melanjutkan Kelas Bersama untuk berbagi pengetahuan tentang Hak Cipta dan Lisensi Creative Commons di kota Makassar setelah sebelumnya mengadakan kegiatan yang serupa di Bali pada bulan April yang lalu. Makassar menjadi kota kedua dalam rangkaian acara kampanye Indonesia Timur yang dilakukan oleh Creative Commons Indonesia.
