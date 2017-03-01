@@ -9,6 +9,7 @@ tags:
 - FAQ Creative Commons
 - Lisensi Creative Commons
 author: ivan
+comments: true
 ---
 
 ![ccid_icon_white.png](/uploads/ccid_icon_white.png){: .img-responsive .center-block }
