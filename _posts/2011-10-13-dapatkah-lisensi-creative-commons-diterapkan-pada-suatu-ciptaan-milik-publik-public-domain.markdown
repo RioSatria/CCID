@@ -13,6 +13,7 @@ tags:
 - Penanda Milik Publik
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 Tidak. Lisensi CC tidak dapat diterapkan pada ciptaan yang telah menjadi [milik publik](http://wiki.creativecommons.or.id/FAQ#Apa_yang_dimaksud_dengan_domain_publik.3F). Semua akta lisensi CC menyatakan jelas: "Milik Publik - di mana ciptaan atau elemen di dalamnya telah menjadi milik publik dan masuk ke ranah publik menurut hukum yang berlaku, dan status tersebut sama sekali tidak dapat terpengaruh oleh lisensi."
