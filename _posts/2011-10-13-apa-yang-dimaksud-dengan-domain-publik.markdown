@@ -8,6 +8,7 @@ tags:
 - Public Domain
 - Masa Berlaku Hak Cipta
 author: nita
+comments: true
 ---
 
 Domain publik hak cipta merujuk kepada kumpulan ciptaan yang tidak dibatasi oleh hak cipta pada suatu yurisdiksi tertentu. Suatu ciptaan dapat menjadi bagian dari domain publik karena persyaratan hak cipta yang berlaku telah kedaluwarsa, pemegang hak cipta melepaskan hak cipta pada ciptaan dengan perangkat seperti CC0, atau karena ciptaan tidak memenuhi standar penerapan hak cipta.
