@@ -10,6 +10,7 @@ tags:
 - CCID
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 ![Ari-Ivan-Andri-Ikhsan-300x200.jpg](/uploads/Ari-Ivan-Andri-Ikhsan-300x200.jpg){: .img-responsive .center-block }
