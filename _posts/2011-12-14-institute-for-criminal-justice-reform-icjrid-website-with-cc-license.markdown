@@ -10,6 +10,7 @@ tags:
 - Lisensi Creative Commons
 - Sobat CCID
 author: nita
+comments: true
 ---
 
 Institute for Criminal Justice Reform (ICJR) is a non profit organization working for law and criminal justice reform in Indonesia. ICJR is supporting the transformation of law and the criminal justice system to become more effective. What they always do, among others, is trying to build respect for the rule of law and simultaneously build a culture of human rights in the criminal justice system.
