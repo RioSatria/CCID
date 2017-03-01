@@ -10,6 +10,7 @@ tags:
 - Lisensi Terbuka
 - Lisensi Creative Commons
 author: hilman
+comments: true
 ---
 
 Meme dapat diartikan sebagai ide, kebiasaan, atau gaya penggunaan,  yang tersebar dan digunakan satu pihak ke pihak lainnya.
