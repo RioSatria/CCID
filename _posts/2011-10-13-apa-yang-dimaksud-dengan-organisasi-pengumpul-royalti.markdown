@@ -8,6 +8,7 @@ tags:
 - Lembaga Manajemen Kolektif
 - Hak Cipta
 author: nita
+comments: true
 ---
 
 [Organisasi pengumpul royalti](http://wiki.creativecommons.org/Version_3#International_Harmonization_.E2.80.94_Collecting_Societies) adalah organisasi pengelola hak cipta. Beberapa contoh organisasi ini adalah ASCAP dan BMI (Amerika Serikat), BUMA/STEMRA (Belanda), PRS (Inggris), APRA (Australia), dan KCI (Indonesia). Organisasi ini melisensikan ciptaan atas nama pemilik dan memproses pembayaran royalti dari pihak-pihak yang menggunakan ciptaan berhak cipta.
