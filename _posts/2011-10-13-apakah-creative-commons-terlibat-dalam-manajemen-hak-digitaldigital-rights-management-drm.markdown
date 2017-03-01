@@ -10,6 +10,7 @@ tags:
 - Digital Rights Management
 - Sarana Kontrol Teknologi
 author: nita
+comments: true
 ---
 
 Tidak. Lisensi CC adalah bentuk ekspresi hak digital, bukan manajemen. CC menyediakan alat memudahkan pencipta dan pemegang hak cipta untuk menyatakan hak apa yang mereka miliki dan izin yang mereka berikan. Hal ini berbeda dari manajemen hak digital (atau "DRM"), yang menggunakan tindakan perlindungan teknologi untuk mencegah pihak lain menggunakan ciptaan apabila pemegang hak tidak mengizinkan.
