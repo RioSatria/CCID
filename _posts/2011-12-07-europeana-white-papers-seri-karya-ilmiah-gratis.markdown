@@ -9,6 +9,7 @@ tags:
 - Karya Ilmiah
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 Sebagaimana telah disampaikan pada [tulisan ini](http://creativecommons.or.id/2011/12/europeana-licensing-framework-telah-terbit/), Anda bisa memperoleh bahan dari Europeana secara gratis. Salah satu tulisan yang dapat Anda peroleh adalah Europeana White Papers, karya ilmiah yang dapat Anda gunakan berdasarkan lisensi CC BY-SA. Dapatkan Europeana White Papers [di sini](http://group.europeana.eu/web/europeana-project/whitepapers/)!
