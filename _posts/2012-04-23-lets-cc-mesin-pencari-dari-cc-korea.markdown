@@ -11,6 +11,7 @@ tags:
 - Lisensi Creative Commons
 - Afiliasi Creative Commons
 author: nita
+comments: true
 ---
 
 ![lets-cc-300x143.jpg](/uploads/lets-cc-300x143.jpg){: .img-responsive .center-block }
