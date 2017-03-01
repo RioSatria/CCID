@@ -13,6 +13,7 @@ tags:
 - Lagu Domain Publik
 - Musik
 author: hilman
+comments: true
 ---
 
 Halo sobat CCID!
