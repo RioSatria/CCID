@@ -15,6 +15,7 @@ tags:
 - Free Music
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 Pada tahun 2010 Pandji Pragiwaksono menerbitkan album musiknya yang berjudul "Merdesa" dengan lsiensi CC BY-NC-SA. Dengan menerapkan lisensi ini Pandji memperbolehkan pengguna ciptaannya untuk membuat ciptaan turunan dari album tersebut, namun tidak untuk penggunaan komersial. Selain itu, pengguna ciptaan wajib menerapkan atribusi, dan lisensi yang sama pada ciptaan turunan tersebut. Dengan begitu Pandji tetap dapat mempertahankan hak cipta atas album musiknya, sambil memperbolehkan orang-orang untuk mengakses karyanya secara gratis.
