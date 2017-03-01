@@ -12,6 +12,7 @@ tags:
 - Wikimedia Commons
 - Wikimedia Indonesia
 author: hilman
+comments: true
 ---
 
 ![Rapat_Bersama_di_Markas_Majalah_Horison_CCID-16_11082016-1024x576.jpg](/uploads/Rapat_Bersama_di_Markas_Majalah_Horison_CCID-16_11082016-1024x576.jpg){: .img-responsive .center-block }<center><small><i>Rapat Tim Wikimedia Indonesia dan Creative Commons Indonesia bersama Tim Redaksi Majalah Horison, <a href="http://www.wikimedia.or.id/wiki/Creative_Commons_Indonesia_2016/Laporan_Aktivitas"11 Agustus 2016</a></i></small></center>
