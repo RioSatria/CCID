@@ -8,6 +8,7 @@ tags:
 - Berkas PDF
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 ![Icon_tools.png](/uploads/Icon_tools.png){: .img-responsive .center-block }
