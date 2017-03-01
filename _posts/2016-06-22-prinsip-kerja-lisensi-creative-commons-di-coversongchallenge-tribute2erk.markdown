@@ -15,6 +15,7 @@ tags:
 - Musik
 - CC Music
 author: hilman
+comments: true
 ---
 
 ![poster-tribute2erk-square-300x300.png](/uploads/poster-tribute2erk-square-300x300.png){: .img-responsive .center-block }<center><small><i>Poster #tribute2ERK</i></small></center>
