@@ -10,6 +10,7 @@ tags:
 - Kajian
 - Hak Cipta Resep Masakan
 author: hilman
+comments: true
 ---
 
 ![3335223936_e2446f9af7_z-300x225.jpg](/uploads/3335223936_e2446f9af7_z-300x225.jpg){: .img-responsive .center-block }<center><small><i><a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id">“What’s Cookin’?”</a>, oleh <a href="https://www.flickr.com/photos/emrank/">Emran Kassim</a>, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a> via <a href="https://www.flickr.com/">Flickr</a></i></small></center>
