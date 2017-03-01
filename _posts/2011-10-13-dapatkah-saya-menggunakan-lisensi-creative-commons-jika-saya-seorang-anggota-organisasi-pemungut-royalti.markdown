@@ -9,6 +9,7 @@ tags:
 - Lisensi Terbuka
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 Pencipta dan pemegang hak cipta lainnya dapat memeriksa [organisasi pemungut royalti](http://wiki.creativecommons.or.id/FAQ#Apa_yang_dimaksud_dengan_organisasi_pengumpul_royalti.3F) sebelum menetapkan lisensi CC terhadap ciptaan mereka. Sebagian pemegang hak cipta adalah anggota organisasi pemungut royalti dapat mengesampingkan hak mereka untuk memungut royalti atas penggunaan yang diperbolehkan di bawah lisensi, namun hanya sejauh yang dimungkinkan oleh organisasi tersebut.
