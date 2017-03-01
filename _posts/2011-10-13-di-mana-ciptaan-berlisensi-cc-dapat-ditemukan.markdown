@@ -8,6 +8,7 @@ tags:
 - CC Search
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 Jika Anda mencari ciptaan yang diletakkan di bawah lisensi Creative Commons, Anda dapat memulai dengan mencari di [CC Search](http://search.creativecommons.org/). CC juga mengelola sebuah [direktori](http://wiki.creativecommons.org/Content_Directories) dari organisasi dan individu yang menggunakan lisensi CC. Beberapa situs media, seperti [Flickr](http://www.flickr.com/), memiliki filter pencarian untuk ciptaan berlisensi menggunakan lisensi CC.
