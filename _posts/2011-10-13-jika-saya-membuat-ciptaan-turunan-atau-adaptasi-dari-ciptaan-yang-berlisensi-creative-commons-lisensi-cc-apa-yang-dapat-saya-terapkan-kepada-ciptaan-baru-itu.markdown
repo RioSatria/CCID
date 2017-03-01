@@ -9,6 +9,7 @@ tags:
 - Ciptaan Adaptasi
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 Bagan berikut mendetailkan lisensi CC yang dapat Anda terapkan pada hasil ciptaan. Harap perhatikan bahwa bagan ini bukan pengganti nasihat hukum dan tidak boleh dianggap sebagai nasihat hukum.
