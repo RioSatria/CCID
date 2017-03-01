@@ -9,6 +9,7 @@ tags:
 - CC Wordpress Plugin
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 ![screenshot-1.png](/uploads/screenshot-1.png){: .img-responsive .center-block }
