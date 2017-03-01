@@ -10,6 +10,7 @@ tags:
 - NonKomersial
 - Klausa NonKomersial
 author: nita
+comments: true
 ---
 
 Gregor Hagedorn, Daniel Mietchen, Robert Morris, Donat Agosti, Lyubomir Penev, Walter Berendsohn, dan Donald Hobern mengungkapkan pemikiran mereka dalam sebuah artikel bagian dari ZooKeys 150 (2011) Special Issue, berjudul Creative Commons licenses and the non-commercial condition: Implications for the re-use of biodiversity information. Artikel ini membicarakan bagaimana lisensi CC dengan kondisi NC (lisensi CC BY-NC, BY-NC-ND, maupun BY-NC-SA) membatasi penggunaan kembali sebuah ciptaan. Kondisi nonkomersial seringkali disamakan dengan nonprofit, walau analisis yang mendalam ternyata menemukan beberapa perbedaan antara dua terminologi tersebut dan lisensi CC mungkin membatasi penggunaan kembali pada hal-hal di luar perkiraan kita. Artikel ini kemudian juga membahas hal-hal yang dibatasi kondisi NC, keuntungan, kerugian, dan ruang lingkupnya.
