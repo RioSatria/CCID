@@ -10,6 +10,7 @@ tags:
 - Musik CC
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 ![8390162360_e3af85c5fb_o.jpg](/uploads/8390162360_e3af85c5fb_o.jpg){: .img-responsive .center-block }
