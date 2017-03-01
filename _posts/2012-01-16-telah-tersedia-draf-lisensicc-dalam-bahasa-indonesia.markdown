@@ -11,6 +11,7 @@ tags:
 - Creative Commons Indonesia
 - Lisensi Creative Commons Versi 3.0
 author: nita
+comments: true
 ---
 
 ![Logo CCID.png](/uploads/Logo%20CCID.png){: .img-responsive .center-block }
