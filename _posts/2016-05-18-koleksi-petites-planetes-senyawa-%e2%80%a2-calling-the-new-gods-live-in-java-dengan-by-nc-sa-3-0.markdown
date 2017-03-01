@@ -15,6 +15,7 @@ tags:
 - Musik
 - Sobat CCID
 author: hilman
+comments: true
 ---
 
 ![a1896700526_16.jpg](/uploads/a1896700526_16.jpg){: .img-responsive .center-block }<center><small><i><a href="http://petitesplanetes.bandcamp.com/album/senyawa-o-calling-the-new-gods-live-in-java">Sumber gambar</a></i></small></center>
