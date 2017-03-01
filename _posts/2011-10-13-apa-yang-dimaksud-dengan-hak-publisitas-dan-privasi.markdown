@@ -8,6 +8,7 @@ tags:
 - Hak Privasi
 - Masa Berlaku Hak Cipta
 author: nita
+comments: true
 ---
 
 Dalam beberapa yurisdiksi, hak publisitas memungkinkan individu untuk mengendalikan penggunaan suara, foto, wujud, atau aspek teridentikasi lain dari identitas mereka. Mirip dengan ini, beberapa yurisdiksi mengakui hak privasi yang membatasi kemampuan orang lain untuk mengumumkan informasi tentang diri seseorang tanpa izin orang tersebut. Apakah kedua hak ini ada dan sampai sejauh mana kedua hak ini diakui bervariasi tergantung kepada yurisdiksi.
