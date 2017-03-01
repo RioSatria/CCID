@@ -11,6 +11,7 @@ tags:
 - Sosialisasi Lisensi Creative Commons
 - Diskusi
 author: ivan
+comments: true
 ---
 
 ![salingsilang.png](/uploads/salingsilang.png){: .img-responsive .center-block }
