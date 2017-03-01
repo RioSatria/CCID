@@ -11,6 +11,7 @@ tags:
 - Lisensi Creative Commons
 - Sobat CCID
 author: nita
+comments: true
 ---
 
 Hak Bermedia (Media Rights) adalah sebuah proyek yang didukung oleh Asosiasi Jurnalis Independen (AJI), Bengawan (Solo), ICT Watch, dan Jurnal Celebes untuk memetakan kondisi ekonomi politik media di Indonesia serta implikasinya terhadap hak warga negara atas konten media dan infrastruktur. Proyek ini adalah proyek penelitian bersama antara Centre for Innovation Policy & Governance (CIPG) dan Hivos, yang didanai oleh Ford Foundation. Laporan dalam Bahasa Inggris mengenai Industri Media di Indonesia Kontemporer dan Kebijakan Media di Indonesia saat ini dapat diunduh dari situs Media Rights dengan lisensi CC BY 3.0. Anda dapat mengunduh laporan tersebut melalui tautan ini:
