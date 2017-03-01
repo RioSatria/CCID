@@ -9,6 +9,7 @@ tags:
 - Sobat CCID
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 ![Pertanyaan-4-Oktober-2012.jpg](/uploads/Pertanyaan-4-Oktober-2012.jpg){: .img-responsive .center-block }
