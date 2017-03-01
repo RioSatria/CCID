@@ -8,6 +8,7 @@ tags:
 - Fotografi
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 ![fotopedia.png](/uploads/fotopedia.png){: .img-responsive .center-block }
