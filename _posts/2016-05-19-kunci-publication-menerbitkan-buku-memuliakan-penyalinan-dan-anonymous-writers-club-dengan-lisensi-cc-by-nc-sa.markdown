@@ -14,6 +14,7 @@ tags:
 - Sobat CCID
 - Lisensi Creative Commons
 author: hilman
+comments: true
 ---
 
 ![COVER-MEMULIAKAN-PENYALINAN.jpg](/uploads/COVER-MEMULIAKAN-PENYALINAN.jpg){: .img-responsive .center-block }<center><small><i>
