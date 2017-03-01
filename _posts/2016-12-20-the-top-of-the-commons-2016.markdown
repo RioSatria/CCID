@@ -9,6 +9,7 @@ tags:
 - '2016'
 - Creative Commons Indonesia
 author: ccid
+comments: true
 ---
 
 Halo sobat CCID!
