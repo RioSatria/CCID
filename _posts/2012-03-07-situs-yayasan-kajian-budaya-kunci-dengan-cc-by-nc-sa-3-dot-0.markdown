@@ -9,6 +9,7 @@ tags:
 - Lisensi Creative Commons
 - Sobat CCID
 author: nita
+comments: true
 ---
 
 ![logo-plat1.png](/uploads/logo-plat1.png){: .img-responsive .center-block }<center><small><i>KUNCI Cultural Studies Center / CC BY-NC-SA 3.0</i></small></center>
