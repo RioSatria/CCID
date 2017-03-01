@@ -8,6 +8,7 @@ tags:
 - Situs Web
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 Sebelum membaca:
