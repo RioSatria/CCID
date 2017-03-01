@@ -13,6 +13,7 @@ tags:
 - Universitas Gadjah Mada
 - UGM
 author: hilman
+comments: true
 ---
 
 ![1476797962008.jpg](/uploads/1476797962008.jpg){: .img-responsive .center-block }
