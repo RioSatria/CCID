@@ -11,6 +11,7 @@ tags:
 - Yayasan Lontar
 - Creative Commons Indonesia
 author: ivan
+comments: true
 ---
 
 ![logo-lontar.jpg](/uploads/logo-lontar.jpg){: .img-responsive .center-block }
