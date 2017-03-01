@@ -9,6 +9,7 @@ tags:
 - Creative Commons Indonesia
 - Acara
 author: nita
+comments: true
 ---
 
 Social Media Festival 2012 merupakan sebuah event tahunan yang menjadi ajang selebrasi dari para penggiat media sosial Indonesia. Festival yang mengusung tema "Create and Collaborate" pada tahun ini mempertemukan para kreator media sosial Indonesia, mulai dari pembuat konten, penyedia platform, hingga pengembang infrastruktur penunjang kegiatan di media sosial. Acara yang diselenggarakan pada tanggal 12, 13, 14 Oktober 2012 ini, masih dengan konsep yang sama seperti tahun lalu yaitu menghadirkan stand-stand yang diisi oleh komunitas-komunitas, hingga media dan brand yang dibingkai manis dengan hiburan-hiburan menarik.
