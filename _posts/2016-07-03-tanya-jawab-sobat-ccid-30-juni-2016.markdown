@@ -10,6 +10,7 @@ tags:
 - Creative Commons
 - Lisensi Creative Commons
 author: hilman
+comments: true
 ---
 
 ![Edo-W-Adithyawarman.jpg](/uploads/Edo-W-Adithyawarman.jpg){: .img-responsive .center-block }
