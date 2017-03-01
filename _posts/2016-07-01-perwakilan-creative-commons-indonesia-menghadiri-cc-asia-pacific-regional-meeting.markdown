@@ -10,6 +10,7 @@ tags:
 - Creative Commons Asia Pacific
 - Creative Commons Asia Pacific Regional Meeting
 author: hilman
+comments: true
 ---
 
 ![28144921415_a81af89619_o-1024x683.jpg](/uploads/28144921415_a81af89619_o-1024x683.jpg){: .img-responsive .center-block }{: width="500"}
