@@ -12,6 +12,7 @@ tags:
 - Alsa
 - Lisensi Creative Commons
 author: ccid
+comments: true
 ---
 
 Pada tanggal 24 November 2012 yang lalu Creative Commons Indonesia diundang oleh ALSA LC UNSOED untuk hadir pada kegiatan rutin mereka yaitu ALSA Legal Coaching Clinic 2012 yang bertema Hak Kekayaan Intelektual yaitu Perlindungan Hak Cipta Terhadap  Karya Anak Bangsa. Sasaran peserta ALSA LCC 2012 ini adalah masyarakat sekitar Purwokerto, mahasiswa, dan yang utama adalah komunitas-komunitas yang menghasilkan karya cipta, seperti komunitas fotografi. Sehingga bertujuan untuk mensosialisasikan dasar hukum Hak Cipta kepada masyarakat.
