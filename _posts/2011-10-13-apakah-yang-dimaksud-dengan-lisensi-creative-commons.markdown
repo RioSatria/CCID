@@ -7,6 +7,7 @@ tags:
 - Lisensi Creative Commons
 - Pengertian Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 [Lisensi Creative Commons](http://wiki.creativecommons.or.id/Lisensi) (disebut pula sebagai “lisensi CC”) memberikan cara mudah untuk mengelola ketentuan mengenai hak cipta yang melekat secara otomatis pada setiap ciptaan. Lisensi kami memungkinkan ciptaan tersebut untuk dibagikan dan digunakan kembali di bawah persyaratan yang fleksibel dan sesuai ketentuan hukum yang berlaku. Creative Commons menawarkan enam paket lisensi hak cipta. Tidak ada satu "lisensi Creative Commons," karena itu, penting untuk mengidentifikasi mana dari enam lisensi yang Anda rasa cocok untuk diaplikasikan pada ciptaan Anda, dan mana dari enam lisensi tersebut yang telah diterapkan pada ciptaan yang hendak Anda gunakan.
