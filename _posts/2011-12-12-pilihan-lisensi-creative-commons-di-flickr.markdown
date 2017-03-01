@@ -10,6 +10,7 @@ tags:
 - Fotografi
 - Lisensi Creative Commons
 author: nita
+comments: true
 ---
 
 ![120px-Flickr_wordmark.svg.png](/uploads/120px-Flickr_wordmark.svg.png){: .img-responsive .center-block }
