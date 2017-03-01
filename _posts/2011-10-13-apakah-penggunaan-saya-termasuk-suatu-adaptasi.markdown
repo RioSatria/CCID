@@ -9,6 +9,7 @@ tags:
 - Derivatif
 - Hak Cipta
 author: nita
+comments: true
 ---
 
 Lisensi CC mendefinisikan istilah "Adaptasi" sebagai suatu "karya yang didasarkan Ciptaan [asli]". Lisensi-lisensi sebelum v3.0 menggunakan istilah "Ciptaan Turunan" dalam lisensi internasional (tanpa adaptasi). Dalam lisensi CC, istilah ini berhubungan dengan definisi terkait sesuai hukum hak cipta yang berlaku. Hukum hak cipta memberikan hak kepada pencipta asli untuk membuat adaptasi berdasarkan ciptaan aslinya. Lisensi CC yang mengizinkan adaptasi memberikan izin kepada orang lain untuk membuat adaptasi sementara hal itu merupakan pelanggaran hukum hak cipta yang berlaku.
