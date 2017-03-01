@@ -14,6 +14,7 @@ tags:
 - Open Database License
 - Lisensi Creative Commons
 author: hilman
+comments: true
 ---
 
 **Apa itu Open Street Map?**
