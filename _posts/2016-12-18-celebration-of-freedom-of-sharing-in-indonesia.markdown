@@ -32,4 +32,4 @@ Akses rekaman audio Creative Commons Indonesia - Podcast -1 - Celebration of Fre
 
 Simak video dokumentasi Celebration of Freedom of Sharing in Indonesia berikut ini.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JPUwCPlXNfI" frameborder="0" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/JPUwCPlXNfI" frameborder="0" allowfullscreen></iframe></center>
