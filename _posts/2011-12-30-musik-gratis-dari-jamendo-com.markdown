@@ -16,4 +16,4 @@ comments: true
 
 [Jamendo.com](http://www.jamendo.com/en/) adalah komunitas yang menyebarluaskan musik secara gratis di bawah lisensi CC. Anda dapat mendengarkan dan mengunduh musik yang tersedia Jamendo.com dan menggunakan musik tersebut berdasarkan lisensi CC yang digunakan.
 
-Untuk mendapatkan musik berdasarkan lisensi CC yang digunakan, Anda dapat mengakses [tautan ini](http://www.jamendo.com/en/creativecommons). Apabila Anda belum mengetahui apa yang dapat Anda lakukan terhadap musik dengan lisensi CC, Anda dapat melihat penjelasannya pada sisi kanan laman tersebut atau mengunjungi [laman ini](http://wiki.creativecommons.or.id/FAQ).
+Untuk mendapatkan musik berdasarkan lisensi CC yang digunakan, Anda dapat mengakses [tautan ini](http://www.jamendo.com/en/creativecommons). Apabila Anda belum mengetahui apa yang dapat Anda lakukan terhadap musik dengan lisensi CC, Anda dapat melihat penjelasannya pada sisi kanan laman tersebut atau mengunjungi [laman ini](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.id).
