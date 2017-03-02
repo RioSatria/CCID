@@ -33,4 +33,4 @@ Untuk melisensikan situs Anda di bawah CC BY 3.0, berikut 3 langkah singkat yang
 
 ![Pilih-Tombol-150x150.jpg](/uploads/Pilih-Tombol-150x150.jpg){: .img-responsive .center-block }
 
-Masih bingung? Jangan ragu untuk mengunjungi [http://wiki.creativecommons.or.id/FAQ](http://t.co/TKfekmn8) atau sureli info@creativecommons.or.id.
+Masih bingung? Jangan ragu untuk mengunjungi [laman FAQ kami](http://creativecommons.or.id/faq/) atau surel info@creativecommons.or.id.
