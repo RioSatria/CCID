@@ -16,7 +16,7 @@ author: ccid
 comments: true
 ---
 
-[DSC_0150.JPG](/uploads/DSC_0150.JPG){: .img-responsive .center-block }{: width="500"}
+[DSC_0150.JPG](/uploads/DSC_0150.JPG){: .img-responsive .center-block }
 
 Creative Commons Indonesia mengadakan diskusi akhir tahun dengan tema Perayaan Kebebasan untuk Berbagi di Indonesia. Acara yang diadakan di Sunset Limited, Kemang Timur, Jakarta ini sekaligus merayakan peringatan 15 tahun berdirinya Creative Commons tanggal 15 Januari 2001 dan 14 tahun lisensi Creative Commons, yang pertama kali diluncurkan pada 16 Desember 2002.
  
