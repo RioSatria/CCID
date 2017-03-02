@@ -1,7 +1,6 @@
 ---
 title: Internet Sehat and CC-licensed contents
 date: 2011-11-15 14:33:00 +07:00
-permalink: "/en/:year/:month/:title/"
 categories:
 - Berita
 - Sobat CCID
