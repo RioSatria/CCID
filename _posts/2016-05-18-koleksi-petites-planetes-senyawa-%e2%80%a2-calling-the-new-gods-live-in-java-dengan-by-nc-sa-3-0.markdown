@@ -2,7 +2,6 @@
 title: 'Koleksi ''Petites Planètes'': SENYAWA • CALLING THE NEW GODS (live in Java)
   dengan BY-NC-SA 3.0'
 date: 2016-05-18 12:31:00 +07:00
-permalink: "/:year/:month/koleksi-petites-planetes-senyawa-%e2%80%a2-calling-the-new-gods-live-in-java-dengan-by-nc-sa-3-0/"
 categories:
 - Sobat CCID
 - Berita
