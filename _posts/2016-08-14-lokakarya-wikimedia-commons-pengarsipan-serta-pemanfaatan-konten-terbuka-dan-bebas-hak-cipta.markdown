@@ -31,7 +31,7 @@ Untuk lokakarya ini, peserta hanya dibatasi untuk 25 (dua puluh lima) orang.
 
 Anda juga diperbolehkan untuk membawa laptop milik Anda jika Anda ingin mencoba langsung menggunakan Wikimedia Commons seusai sesi diskusi.
 
->> Jadi, segera daftarkan diri Anda di [bit.do/FormulirCommons](http://bit.do/FormulirCommons) <<
+>> Jadi, segera daftarkan diri Anda di [bit.do/FormulirCommons](http://bit.do/FormulirCommons)
 
 Salam!
 
