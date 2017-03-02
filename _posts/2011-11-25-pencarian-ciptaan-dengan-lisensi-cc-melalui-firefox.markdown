@@ -12,7 +12,7 @@ author: nita
 comments: true
 ---
 
-Penting untuk mengetahui bagaimana menggunakan materi dengan lisensi CC sebelum Anda mencari. Lisensi CC yang berbeda memberikan hak penggunaan yang berbeda kepada Anda. Mengetahui apa yang dapat Anda lakukan terhadap materi yang Anda temukan dapat membantu Anda menentukan lisensi CC apa yang sesuai dengan tujuan Anda dalam menggunakan materi tersebut. Lebih lanjut: [http://wiki.creativecommons.or.id/Lisensi](http://wiki.creativecommons.or.id/Lisensi).
+Penting untuk mengetahui bagaimana menggunakan materi dengan lisensi CC sebelum Anda mencari. Lisensi CC yang berbeda memberikan hak penggunaan yang berbeda kepada Anda. Mengetahui apa yang dapat Anda lakukan terhadap materi yang Anda temukan dapat membantu Anda menentukan lisensi CC apa yang sesuai dengan tujuan Anda dalam menggunakan materi tersebut. Lebih lanjut: [FAQ Lisensi Creative Commons Bahasa Indonesia](http://creativecommons.or.id/faq/).
 
 Untuk mencari materi dengan lisensi CC melalui penelusuran Firefox, Anda dapat mengikuti langkah-langkah di bawah ini.
 
