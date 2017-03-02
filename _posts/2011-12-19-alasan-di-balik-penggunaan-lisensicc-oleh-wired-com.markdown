@@ -11,7 +11,7 @@ author: nita
 comments: true
 ---
 
-[Camera.svg](/uploads/Camera.svg){: .img-responsive .center-block }
+![Camera.svg](/uploads/Camera.svg){: .img-responsive .center-block }
 
 Pada bulan November lalu, Wired.com memutuskan untuk menyebarluaskan foto-foto milik staf Wired.com di bawah lisensi CC BY-NC. Editor foto Wired.com, Keith Axline, kemudian menjelaskan bahwa penggunaan lisensi CC BY-NC juga didasarkan pada hubungan timbal balik. Selama ini, Wired.com seringkali menggunakan foto-foto di bawah lisensi CC. Dengan demikian, sekarang adalah saatnya Wired.com memberi kembali kepada komunitas CC. Adapun kekhawatiran yang dimiliki oleh Keith adalah apabila para pengguna foto tersebut merasa foto yang mereka gunakan tidak lagi bernilai. Foto tersebut memang disebarluaskan secara gratis, tetapi bukan berarti foto milik staf Wired.com tidak memiliki nilai apapun. Untuk itu, Keith berharap para pengguna tetap menghargai hasil karya staf Wired.com dengan patuh pada ketentuan lisensi CC yang digunakan.
 
