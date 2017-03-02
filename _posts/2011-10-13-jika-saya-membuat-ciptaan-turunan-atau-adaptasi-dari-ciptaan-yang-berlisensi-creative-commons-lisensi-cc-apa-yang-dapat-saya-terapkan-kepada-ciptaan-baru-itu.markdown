@@ -18,4 +18,4 @@ Kotak hijau menunjukkan adanya kompatibilitas antarlisensi. Saat memodifikasi su
 
 ![Bagan.jpg](/uploads/Bagan.jpg){: .img-responsive .center-block }
 
-Catatan: [Lisensi CC tidak mengubah pengecualian dan pembatasan hak cipta, termasuk penggunaan wajar.](http://wiki.creativecommons.or.id/FAQ#Apakah_lisensi_Creative_Commons_memengaruhi_semua_pengeculian_dan_pembatasan_hak_cipta_seperti_penggunaan_wajar.3F)
+Catatan: [Lisensi CC tidak mengubah pengecualian dan pembatasan hak cipta, termasuk penggunaan wajar.](http://creativecommons.or.id/faq/#Apakah_lisensi_Creative_Commons_memengaruhi_semua_pengeculian_dan_pembatasan_hak_cipta_seperti_penggunaan_wajar.3F)
