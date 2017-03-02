@@ -129,8 +129,8 @@ Bagaimana caranya menyumbangkan karya di Wikimedia Commons?
 **Ketentuan Freedom of Panorama**
 
 Ketentuan ini diberlakukan oleh negara-negara seperti Amerika, Jerman, dan Mesir. Apabila suatu negara menerapkan ketentuan tersebut pada Undang-Undang Hak Ciptanya (UUHC), maka setiap Pencipta diperkenankan untuk melukiskan kembali, maupun memotret karya-karya arsitektur baru (bukan peninggalan sejarah) tanpa khawatir dianggap melakukan pelanggaran hak cipta. Sebagaimana disebutkan dalam setiap UUHC, karya arsitektur yang berupa gedung yang sudah jadi, juga merupakan obyek perlindungan hak cipta. Indonesia tidak menerapkan ketentuan Freedom of Panorama di UUHCnya, maka setiap Pencipta yang ada di Indonesia sebaiknya memilah gedung-gedung yang hendak dipotret, serta potret-potret gedung yang mana yang akan dibagikan.
-**
-Izin Pengunggahan Karya Orang Lain**
+
+**Izin Pengunggahan Karya Orang Lain**
 
 ![zz-2.jpg](/uploads/zz-2.jpg){: .img-responsive .center-block }
 
