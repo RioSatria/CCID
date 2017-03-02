@@ -24,9 +24,9 @@ Selamat membaca.
 
 ![0006700297_10-1024x1024.jpg](/uploads/0006700297_10-1024x1024.jpg){: .img-responsive .center-block }
 
-Bagaimana pola konsumsi musik Anda sehari-hari? 
+**Bagaimana pola konsumsi musik Anda sehari-hari?** 
 
-Sekitar 3-4 tahun yang lalu, saya termasuk orang yang rajin mengunduh konten musik yang tersebar di laman-laman blog secara ilegal. Saat ini, saya lebih nyaman menggunakan layanan streaming. [Spotify](https://www.youtube.com/channel/UCwuHYFt1qNGhHQFtfE66i2Q) merupakan platform mendengarkan musik secara legal yang paling sering saya pakai.  Keberadaan Spotify benar-benar mengurangi aktivitas mengunduh musik secara illegal yang dulu kerap saya perbuat. Meskipun, saya beberapa kali masih mengunduh album musik, secara legal tentunya. Album musik yang terakhir kali saya unduh adalah album-album musik dari musisi seperti [Bottlesmoker](https://release.ripstore.asia/bottlesmoker), [Frau](http://yesnowave.com/yesno082/), dan [Paduan Suara Dialita](http://yesnowave.com/yesno083/) yang diterbitkan oleh [Yes No Wave Netlabe](http://yesnowave.com/)l dan [Ripstore Asia](https://ripstore.asia/).
+Sekitar 3-4 tahun yang lalu, saya termasuk orang yang rajin mengunduh konten musik yang tersebar di laman-laman blog secara ilegal. Saat ini, saya lebih nyaman menggunakan layanan streaming. [Spotify](https://www.youtube.com/channel/UCwuHYFt1qNGhHQFtfE66i2Q) merupakan platform mendengarkan musik secara legal yang paling sering saya pakai.  Keberadaan Spotify benar-benar mengurangi aktivitas mengunduh musik secara illegal yang dulu kerap saya perbuat. Meskipun, saya beberapa kali masih mengunduh album musik, secara legal tentunya. Album musik yang terakhir kali saya unduh adalah album-album musik dari musisi seperti [Bottlesmoker](https://release.ripstore.asia/bottlesmoker), [Frau](http://yesnowave.com/yesno082/), dan [Paduan Suara Dialita](http://yesnowave.com/yesno083/) yang diterbitkan oleh [Yes No Wave Music](http://yesnowave.com/) dan [Ripstore Asia](https://ripstore.asia/).
 
 **Bagaimana label rekaman ini dimulai?**
 
