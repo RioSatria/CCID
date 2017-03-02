@@ -18,7 +18,7 @@ comments: true
 
 ![IMG_0694-300x225.jpg](/uploads/IMG_0694-300x225.jpg){: .img-responsive .center-block }
 
-Pada tanggal 7 Agustus 2012, Creative Commons Indonesia yang diwakili oleh Ivan Lanin, melaksanakan diskusi dengan mahasiswa dan dosen di London School of Public Relations. Acara ini dimulai dengan presentasi perkenalan mengenai lisensi Creative Commons dan kaitannya dengan hukum hak cipta di Indonesia. Setelahnya, acara dilanjutkan dengan diskusi mengenai [hasil penerjemahan dan penyesuaian teks lisensi Creative Commons dalam Bahasa Indonesia](http://creativecommons.or.id/hasil-i-penerjemahan-dan-penyesuaian-teks-lisensi/).
+Pada tanggal 7 Agustus 2012, Creative Commons Indonesia yang diwakili oleh Ivan Lanin, melaksanakan diskusi dengan mahasiswa dan dosen di London School of Public Relations. Acara ini dimulai dengan presentasi perkenalan mengenai lisensi Creative Commons dan kaitannya dengan hukum hak cipta di Indonesia. Setelahnya, acara dilanjutkan dengan diskusi mengenai [hasil penerjemahan dan penyesuaian teks lisensi Creative Commons dalam Bahasa Indonesia](http://creativecommons.or.id/2012/07/hasil-i-penerjemahan-dan-penyesuaian-teks-lisensi/).
 
 ![IMG_0698-300x225.jpg](/uploads/IMG_0698-300x225.jpg){: .img-responsive .center-block }
 
