@@ -18,11 +18,12 @@ comments: true
 
 Creative Commons Indonesia telah menyediakan draf lisensi CC dalam Bahasa Indonesia yang saat ini terbuka untuk masukan. Untuk membaca isi lisensi, Anda dapat mengakses tautan berikut:
 
-1. [Lisensi Creative Commons Atribusi 3.0 Indonesia](http://wikimedia.or.id/wiki/Karya_Cipta_Bersama_Indonesia/Lisensi_Creative_Commons/BY/Lisensi_Ringkas)
-2. [Lisensi Creative Commons Atribusi-NonKomersial 3.0 Indonesia](http://wikimedia.or.id/wiki/Karya_Cipta_Bersama_Indonesia/Lisensi_Creative_Commons/BY_NC/Lisensi_Ringkas)
-3. [Lisensi Creative Commons Atribusi-TanpaTurunan 3.0 Indonesia](http://wikimedia.or.id/wiki/Karya_Cipta_Bersama_Indonesia/Lisensi_Creative_Commons/BY_ND/Lisensi_Ringkas)
-4. [Lisensi Creative Commons Atribusi-BerbagiSerupa 3.0 Indonesia](http://wikimedia.or.id/wiki/Karya_Cipta_Bersama_Indonesia/Lisensi_Creative_Commons/BY_SA/Lisensi_Ringkas)
-5. [Lisensi Creative Commons Atribusi-NonKomersial-TanpaTurunan 3.0 Indonesia](http://wikimedia.or.id/wiki/Karya_Cipta_Bersama_Indonesia/Lisensi_Creative_Commons/BY_NC_ND/Lisensi_Ringkas)
+1. [Lisensi Creative Commons Atribusi 3.0 Indonesia](https://creativecommons.org/licenses/by/3.0/deed.id)
+2. [Lisensi Creative Commons Atribusi-NonKomersial 3.0 Indonesia](https://creativecommons.org/licenses/by-nc/3.0/deed.id)
+3. [Lisensi Creative Commons Atribusi-TanpaTurunan 3.0 Indonesia](https://creativecommons.org/licenses/by-nd/3.0/deed.id)
+4. [Lisensi Creative Commons Atribusi-BerbagiSerupa 3.0 Indonesia](https://creativecommons.org/licenses/by-sa/3.0/deed.id)
+5. [Lisensi Creative Commons Atribusi-NonKomersial-TanpaTurunan 3.0 Indonesia](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.id)
 6. [Lisensi Creative Commons Atribusi-NonKomersial-BerbagiSerupa 3.0 Indonesia
-](http://wikimedia.or.id/wiki/Karya_Cipta_Bersama_Indonesia/Lisensi_Creative_Commons/BY_NC_SA/Lisensi_Ringkas)
+](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.id)
+
 Untuk memberikan masukan, Anda dapat menuliskan komentar pada tulisan ini atau menghubungi kami secara langsung melalui info@creativecommons.or.id.
