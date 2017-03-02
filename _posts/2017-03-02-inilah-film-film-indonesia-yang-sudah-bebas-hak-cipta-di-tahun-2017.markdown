@@ -2,7 +2,7 @@
 title: INILAH FILM-FILM INDONESIA YANG SUDAH BEBAS HAK CIPTA DI TAHUN 2017!
 date: 2017-03-02 21:02:00 +07:00
 categories:
-- Berita
+- Kajian
 tags:
 - Film
 - Film Indonesia
