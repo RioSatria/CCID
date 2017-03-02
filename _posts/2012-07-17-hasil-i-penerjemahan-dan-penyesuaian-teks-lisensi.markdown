@@ -18,10 +18,10 @@ comments: true
 
 Hasil I penerjemahan dan penyesuaian lisensi Creative Commons dapat dilihat pada pranala berikut:
 
-1. [Lisensi Creative Commons Atribusi 3.0 Indonesia](http://wiki.creativecommons.org/Licenses/by/3.0LegalText_(Indonesian))
-2. [Lisensi Creative Commons Atribusi-NonKomersial 3.0 Indonesia](http://wiki.creativecommons.org/Licenses/by-nc/3.0LegalText_(Indonesian))
-3. [Lisensi Creative Commons Atribusi-NonKomersial-TanpaTurunan 3.0 Indonesia](http://wiki.creativecommons.org/Licenses/by-nc-nd/3.0LegalText_(Indonesian))
-4. [Lisensi Creative Commons Atribusi-NonKomersial-BerbagiSerupa 3.0 Indonesia](http://wiki.creativecommons.org/Licenses/by-nc-sa/3.0LegalText_(Indonesian))
-5. [Lisensi Creative Commons Atribusi-TanpaTurunan 3.0 Indonesia](http://wiki.creativecommons.org/Licenses/by-nd/3.0LegalText_(Indonesian))
-6. [Lisensi Creative Commons Atribusi-BerbagiSerupa 3.0 Indonesia](http://wiki.creativecommons.org/Licenses/by-sa/3.0LegalText_(Indonesian))
-7. [CC0 1.0 Universal Dedikasi Domain Publik](http://wiki.creativecommons.org/Publicdomain/zero/1.0/LegalText_(Indonesian))
+1. [Lisensi Creative Commons Atribusi 3.0 Indonesia](https://creativecommons.org/licenses/by/3.0/deed.id)
+2. [Lisensi Creative Commons Atribusi-NonKomersial 3.0 Indonesia](https://creativecommons.org/licenses/by-nc/3.0/deed.id)
+3. [Lisensi Creative Commons Atribusi-NonKomersial-TanpaTurunan 3.0 Indonesia](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.id)
+4. [Lisensi Creative Commons Atribusi-NonKomersial-BerbagiSerupa 3.0 Indonesia](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.id)
+5. [Lisensi Creative Commons Atribusi-TanpaTurunan 3.0 Indonesia](https://creativecommons.org/licenses/by-nd/3.0/deed.id)
+6. [Lisensi Creative Commons Atribusi-BerbagiSerupa 3.0 Indonesia](https://creativecommons.org/licenses/by-sa/3.0/deed.id)
+7. [CC0 1.0 Universal Dedikasi Domain Publik](https://creativecommons.org/publicdomain/zero/1.0/deed.id)
