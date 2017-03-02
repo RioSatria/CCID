@@ -21,11 +21,11 @@ Pada awal tahun Januari lalu kami mengabarkan kepada Anda terkait karya-karya mu
 
 Kali ini, kami hendak memberikan kabar kepada Anda mengenai obyek hak cak cipta lain yang sudah habis masa berlaku hak ciptanya, yaitu Film (Sinematografi). Lain obyeknya, lain pula cara menghitung masa berlaku hak ciptanya.
 
-Pasal 59 Undang-Undang Nomor 28. Tahun 2014 menyebutkan bahwa karya Fotografi, Potret, Permainan Video, Program Komputer, dan tentunya karya Sinematografi akan habis masa berlaku hak ciptanya 50 tahun setelah pertama kali diumumkan.
+Pasal 59 Undang-Undang Nomor 28. Tahun 2014 menyebutkan bahwa karya Fotografi, Potret, Permainan Video, Program Komputer, dan tentunya karya **Sinematografi** akan habis masa berlaku hak ciptanya 50 tahun setelah pertama kali diumumkan.
 
 Jadi, karya sinematografi yang telah habis masa berlaku hak ciptanya pada tahun ini adalah karya-karya sinematografi yang **diumumkan pertama kali pada 50 tahun lalu, yaitu tahun 1967**. **Hal ini juga berlaku pada film yang diumumkan pertama kali sebelum tahun tersebut**.
 
-![dibalik-tjahaja-gemerlapan-1966.jpg](/uploads/dibalik-tjahaja-gemerlapan-1966.jpg){: .img-responsive .center-block }<center><small><i><a href="https://id.wikipedia.org/wiki/Dibalik_Tjahaja_Gemerlapan">Dibalik Tjahaja Gemerlapan</a>, salah satu film yang sudah habis masa berlaku hak ciptanya pada tahun 2016. (Sumber: <a href="http://onesearch.perpusnas.go.id/Record/IOS2806-oai:dev2.pnri.go.id:misbach-70-Foto"Perpustakaan Nasional RI</a>/<a href="http://misbach.perfilman.pnri.go.id/photograph/?box=detail&bib_id=47&hlm=1&frombox=list&search_keyword=">Sinematek</a>)</i></small></center>
+![dibalik-tjahaja-gemerlapan-1966.jpg](/uploads/dibalik-tjahaja-gemerlapan-1966.jpg){: .img-responsive .center-block }<center><small><i><a href="https://id.wikipedia.org/wiki/Dibalik_Tjahaja_Gemerlapan">Dibalik Tjahaja Gemerlapan</a>, salah satu film yang sudah habis masa berlaku hak ciptanya pada tahun 2016. (Sumber: <a href="http://onesearch.perpusnas.go.id/Record/IOS2806-oai:dev2.pnri.go.id:misbach-70-Foto">Perpustakaan Nasional RI</a>/<a href="http://misbach.perfilman.pnri.go.id/photograph/?box=detail&bib_id=47&hlm=1&frombox=list&search_keyword=">Sinematek</a>)</i></small></center>
 
 Kami menggunakan data yang disediakan oleh situs filmindonesia.or.id untuk menyusun daftar film Indonesia yang telah masuk ke domain publik pada tahun 2017.
 
