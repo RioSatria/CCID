@@ -15,9 +15,9 @@ author: hilman
 comments: true
 ---
 
-**Menurut pasal 40 huruf Undang-Undang No. 28 Tahun 2014 (UUHC 2014), permainan video merupakan obyek perlindungan hak cipta.
+**Menurut pasal 40 huruf Undang-Undang No. 28 Tahun 2014 (UUHC 2014), permainan video merupakan obyek perlindungan hak cipta.**
 
-Sejauh apa Undang-Undang Hak Cipta memberikan perlindungan pada permainan video?**
+**Sejauh apa Undang-Undang Hak Cipta memberikan perlindungan pada permainan video?**
 
 **Aspek Hak Cipta Dalam Permainan Video**
 
