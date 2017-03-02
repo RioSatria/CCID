@@ -63,4 +63,4 @@ Lisensi ini mengizinkan orang lain untuk menggubah, menyesuaikan, dan mengadapta
 [Attribution-NoDerivatives Creative Commons](http://creativecommons.or.id/wp-content/uploads/2011/12/Flickr-CC-BY-ND.jpg), dilambangkan dengan "CC BY-ND"
 Lisensi ini mengizinkan orang lain untuk memperbanyak, baik secara komersial maupun tidak, sepanjang ciptaan tidak diubah dan utuh, dengan disertai pemberian atribusi kepada Anda.
 
-Masih belum jelas? Jangan ragu untuk kunjungi [http://wiki.creativecommons.or.id/FAQ](http://t.co/TKfekmn8) atau kirim surel ke info@creativecommons.or.id.
+Masih belum jelas? Jangan ragu untuk kunjungi [laman FAQ kami](http://creativecommons.or.id/faq/) atau kirim surel ke info@creativecommons.or.id.
