@@ -120,7 +120,7 @@ Dengan catatan:
 * NonKomersial: Tidak dapat menggunakan ciptaan untuk kepentingan komersial.
 * BerbagiSerupa: Apabila Anda menggubah, mengubah, atau membuat ciptaan turunan dari suatu ciptaan, Anda harus menyebarluaskan kontribusi Anda di bawah lisensi yang sama dengan materi asli.
 
-![Joko_Widodo_2014_official_portrait.jpg](/uploads/Joko_Widodo_2014_official_portrait.jpg){: .img-responsive .center-block }<center><small><i>Foto Resmi Presiden Indonesia Joko Widodo (a href="http://www.indonesia.go.id/in/presiden-dan-wakil-presiden/presiden">Dokumen Resmi Negara Indonesia</a>)</i></small></center>
+![Joko_Widodo_2014_official_portrait.jpg](/uploads/Joko_Widodo_2014_official_portrait.jpg){: .img-responsive .center-block }<center><small><i>Foto Resmi Presiden Indonesia Joko Widodo (<a href="http://www.indonesia.go.id/in/presiden-dan-wakil-presiden/presiden">Dokumen Resmi Negara Indonesia</a>)</i></small></center>
 
 * Segala bentuk penggunaan untuk ciptaan-ciptaan yang merupakan dokumen negara, bukan merupakan pelanggaran hak cipta. 
 
