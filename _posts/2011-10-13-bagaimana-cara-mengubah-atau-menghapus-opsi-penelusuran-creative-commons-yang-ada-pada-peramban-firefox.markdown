@@ -11,6 +11,7 @@ tags:
 - CC Firefox
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Mozilla telah menyertakan fungsi penelusuran Creative Common pada banyak versi Firfox bersama dengan pilihan pencarian untuk Google, Amazon, dan situs-situs populer lainnya. Silakan baca [artikel Firefox pada CC wiki](http://wiki.creativecommons.org/Firefox_and_CC_Search) untuk penjelasan tentang cara mengubah fitur tersebut.
