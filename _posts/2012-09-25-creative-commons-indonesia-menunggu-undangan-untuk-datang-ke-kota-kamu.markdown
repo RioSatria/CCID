@@ -10,6 +10,7 @@ tags:
 - Sosialisasi Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 ![comment-sahabat-cc.jpg](/uploads/comment-sahabat-cc.jpg){: .img-responsive .center-block }
