@@ -11,6 +11,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Pada tanggal 7 November 2011, wired.com mengumumkan bahwa mereka akan melepaskan berbagai gambar yang diunggah oleh staf wired.com di bawah lisensi CC BY-NC. Gambar-gambar tersebut akan tersedia dalam format resolusi tinggi dan dapat diakses melalui Flickr sehingga mempermudah setiap orang yang ingin menggunakannya untuk kepentingan nonkomersial. Hingga saat ini, telah ada 50 gambar yang tersedia di bawah lisensi CC BY-NC, termasuk foto dari Steve Jobs, Woz, Mark Zuckerberg, Steve Ballmer, Trent Reznor, dan JJ Abrams.
