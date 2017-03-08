@@ -10,6 +10,7 @@ tags:
 - Tombol Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Lisensi CC memiliki 6 jenis, yaitu CC BY, CC BY-NC, CC BY-ND, CC BY-SA, CC BY-NC-ND, dan CC BY-NC-SA. Setiap jenis memiliki karakter masing-masing dan memberikan hak yang berbeda kepada pengguna ciptaan dengan lisensi CC.
