@@ -12,6 +12,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/uploads/b9056efbc409c2ce04500e21b8a2abe1f500ab23.png"
 ---
 
 ![b9056efbc409c2ce04500e21b8a2abe1f500ab23.png](/uploads/b9056efbc409c2ce04500e21b8a2abe1f500ab23.png){: .img-responsive .center-block }<center><small><i>Beras & Gadget / Niwatori / CC BY-NC-SA 3.0</i></small></center>
