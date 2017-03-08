@@ -9,6 +9,7 @@ tags:
 - Lisensi Terbuka
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Untuk ciptaan daring, Anda dapat menerapkan suatu lisensi CC dengan [memilih lisensi](http://creativecommons.org/choose/) yang sesuai dengan pilihan Anda. Setelah memilih lisensi, ikuti petunjuk yang disediakan untuk menyertakan kode HTML pada ciptaan Anda. Kode ini akan memunculkan suatu tombol lisensi dan pernyataan bahwa ciptaan Anda dilisensikan di bawah lisensi CC, atau tombol CC0 (domain publik) jika Anda memilih untuk mendedikasikan atau menyatakan ciptaan Anda sebagai domain publik dengan menggunakan salah satu dari alat domain publik kami. Tombol-tombol ini dirancang sebagai pemberitahuan untuk orang yang menemukan ciptaan Anda bahwa ciptaan tersebut dilisensikan di bawah lisensi CC yang sesuai atau domain publik. Kode HTML tersebut juga menyertakan metadata yang memungkinkan ciptaan Anda ditemukan melalui mesin telusur CC.
