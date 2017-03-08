@@ -13,6 +13,7 @@ tags:
 - Musik CC
 author: nita
 comments: true
+img: "/uploads/orangesq.jpg"
 ---
 
 ![orangesq.jpg](/uploads/orangesq.jpg){: .img-responsive .center-block }
