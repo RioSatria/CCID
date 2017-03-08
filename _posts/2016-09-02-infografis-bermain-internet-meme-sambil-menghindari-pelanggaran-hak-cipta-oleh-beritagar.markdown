@@ -14,6 +14,7 @@ tags:
 - Lisensi Creative Commons
 author: ccid
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Masih ingat dengan artikel "Bermain Internet Meme Sambil Menghindari Pelanggaran Hak Cipta" kami?
