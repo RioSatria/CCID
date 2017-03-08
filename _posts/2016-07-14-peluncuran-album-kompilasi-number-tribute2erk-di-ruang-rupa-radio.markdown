@@ -15,6 +15,7 @@ tags:
 - Efek Rumah Kaca
 author: hilman
 comments: true
+img: "/uploads/Peluncuran_Album_Kompilasi_Tribute2ERK_di_Ruang-Rupa_Radio_CCID-16_14072016-1024x768.jpg"
 ---
 
 ![Peluncuran_Album_Kompilasi_Tribute2ERK_di_Ruang-Rupa_Radio_CCID-16_14072016-1024x768.jpg](/uploads/Peluncuran_Album_Kompilasi_Tribute2ERK_di_Ruang-Rupa_Radio_CCID-16_14072016-1024x768.jpg){: .img-responsive .center-block }
