@@ -12,6 +12,7 @@ tags:
 - Lisensi Creative Commons
 author: hilman
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 ![Sobat-Biondy-Alfian.jpg](/uploads/Sobat-Biondy-Alfian.jpg){: .img-responsive .center-block }
