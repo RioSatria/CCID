@@ -13,6 +13,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 [Saylor Foundation](http://www.saylor.org/) mengumumkan bahwa mereka telah menerbitkan tiga buku lain di bawah lisensi CC sebagai bagian dari Open Textbook Challenge (OTC). Ketiga buku tersebut adalah Elementary Linear Algebra, Linear Algebra, dan Computer Networking: Principles, Protocols and Practice. [Situs Saylor](http://creativecommons.or.id/2011/11/saylor-org-materi-pendidikan-gratis/) sendiri menyediakan materi pendidikan tingkat universitas secara gratis di bawah lisensi CC BY, kecuali dituliskan lain dalam artikel materi perkuliahan.
