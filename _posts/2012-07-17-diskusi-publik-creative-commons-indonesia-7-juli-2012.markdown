@@ -11,6 +11,7 @@ tags:
 - Acara
 author: nita
 comments: true
+img: "/uploads/561016_337841759626659_625059767_n-300x204.jpg"
 ---
 
 ![561016_337841759626659_625059767_n-300x204.jpg](/uploads/561016_337841759626659_625059767_n-300x204.jpg){: .img-responsive .center-block }
