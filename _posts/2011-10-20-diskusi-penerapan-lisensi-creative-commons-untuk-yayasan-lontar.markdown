@@ -12,6 +12,7 @@ tags:
 - Creative Commons Indonesia
 author: ivan
 comments: true
+img: "/uploads/logo-lontar.jpg"
 ---
 
 ![logo-lontar.jpg](/uploads/logo-lontar.jpg){: .img-responsive .center-block }
