@@ -11,6 +11,7 @@ tags:
 - Afiliasi
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 CC Korea telah membuka layanan pencarian LetsCC: [http://www.cckorea.org/xe/?mid=english&document_srl=100195](http://www.cckorea.org/xe/?mid=english&document_srl=100195).
