@@ -10,6 +10,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Pada tanggal 18 November 2011, diputar sebuah film Spanyol dengan lisensi CC BY-NC-SA. Film ini bertujuan untuk memperluas pandangan setiap orang, menciptakan kepedulianterhadap situasi perekonomian dan sosial di dunia saat ini.
