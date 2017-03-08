@@ -11,6 +11,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Siapapun dapat menggunakan lisensi CC untuk ciptaan mereka sendiri, termasuk pemerintah dan IGO, dan sering digunakan untuk lisensi ciptaan berhak cipta. Alasan penggunaan lisensi CC bervariasi, dan seringkali bertujuan untuk memaksimalkan pengaruh dan penggunaan ciptaan untuk tujuan pendidikan dan informasi, dan untuk meningkatkan transparansi.
