@@ -9,6 +9,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Ya, Anda harus memperhatikan untuk tidak secara implisit mencantumkan sponsor, dukungan, atau hubungan dengan pencipta atau pemberi hak cipta tanpa izin mereka. Apabila Anda secara salah mencantumkan nama pencipta, penerbit, atau orang lain secara implisit bahwa mereka mendukung Anda atau penggunaan Anda terhadap suatu ciptaan, hal tersebut dapat dianggap melanggar ketentuan peraturan perundang-undangan. Creative Commons mewajibkan untuk tidak menyiratkan dukungan secara eksplisit dalam semua lisensi. Selain itu, jika pemberi lisensi dari ciptaan yang Anda adaptasi atau buat dalam koleksi menyatakan permintaannya, Anda harus menghapus atribusi terhadapnya dalam adaptasi atau koleksi ciptaan yang Anda buat.
