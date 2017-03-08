@@ -11,6 +11,7 @@ tags:
 - Seni Rupa
 author: nita
 comments: true
+img: "/uploads/96a3a07c46cf0315736ba723b47148e4.jpg"
 ---
 
 ![96a3a07c46cf0315736ba723b47148e4.jpg](/uploads/96a3a07c46cf0315736ba723b47148e4.jpg){: .img-responsive .center-block }<center><small><i>Occupy Your Life / Occuprint / CC BY-NC-SA 3.0</i></small></center>
