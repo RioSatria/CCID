@@ -11,6 +11,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/uploads/cabeceraBDH_02.jpg"
 ---
 
 ![cabeceraBDH_02.jpg](/uploads/cabeceraBDH_02.jpg){: .img-responsive .center-block }<center><small><i>Perpustakaan Nasional Spanyol</i></small></center>
