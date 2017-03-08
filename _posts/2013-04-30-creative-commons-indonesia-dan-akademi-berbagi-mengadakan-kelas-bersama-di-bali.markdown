@@ -15,6 +15,7 @@ tags:
 - Lisensi Creative Commons
 author: ccid
 comments: true
+img: "/uploads/CCID-dan-Akademi-Berbagi-di-Bali-27-April-2013-300x169.jpg"
 ---
 
 ![CCID-dan-Akademi-Berbagi-di-Bali-27-April-2013-300x169.jpg](/uploads/CCID-dan-Akademi-Berbagi-di-Bali-27-April-2013-300x169.jpg){: .img-responsive .center-block }
