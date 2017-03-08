@@ -11,6 +11,7 @@ tags:
 - Hak Cipta
 author: nita
 comments: true
+img: "/uploads/Bibliotheca_Buloviana_(Ausschnitt).jpg"
 ---
 
 ![Bibliotheca_Buloviana_(Ausschnitt).jpg](/uploads/Bibliotheca_Buloviana_(Ausschnitt).jpg){: .img-responsive .center-block }
