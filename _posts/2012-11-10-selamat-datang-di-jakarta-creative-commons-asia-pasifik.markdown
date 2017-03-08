@@ -11,6 +11,8 @@ tags:
 - Konferensi Creative Commons Asia Pasifik 2012
 - Indonesia
 author: nita
+true: comments
+img: "/uploads/CCkorea-tiba5.jpg"
 ---
 
 Pada tanggal 9 November 2012 kemarin, telah tiba teman-teman dari afiliasi-afiliasi Creative Commons Asia Pasifik yang akan menghadiri Regional Meeting tahun 2012, yang juga merupakan rangkaian acara dari Konferensi Creative Commons Asia Pasifik 2012 dan Peluncuran Creative Commons Indonesia.
