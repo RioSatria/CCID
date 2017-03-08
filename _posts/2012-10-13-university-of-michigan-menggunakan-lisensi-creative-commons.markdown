@@ -10,6 +10,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 University of Michigan telah menggunakan lisensi Creative Commons untuk program Open.Michigan. Upaya [Open.Michigan](http://open.umich.edu/) ini dilakukan untuk mempermudah penyebaran bahan-bahan pendidikan dan penilitian yang dapat diakses oleh fakultas, mahasiswa, bahkan siapapun dapat mengakses bahan-bahan tersebut.
