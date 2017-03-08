@@ -12,6 +12,7 @@ tags:
 - CCID
 author: hilman
 comments: true
+img: "/uploads/IMG-20160806-WA0001-1024x768.jpg"
 ---
 
 ![IMG-20160806-WA0001-1024x768.jpg](/uploads/IMG-20160806-WA0001-1024x768.jpg){: .img-responsive .center-block }{: width="500"}
