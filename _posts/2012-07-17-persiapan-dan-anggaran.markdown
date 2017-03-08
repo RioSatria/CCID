@@ -11,6 +11,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/uploads/Ari-Ivan-Andri-Ikhsan-300x200.jpg"
 ---
 
 ![Ari-Ivan-Andri-Ikhsan-300x200.jpg](/uploads/Ari-Ivan-Andri-Ikhsan-300x200.jpg){: .img-responsive .center-block }
