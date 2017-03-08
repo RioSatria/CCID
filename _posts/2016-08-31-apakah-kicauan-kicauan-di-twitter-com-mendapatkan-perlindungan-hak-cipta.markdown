@@ -12,6 +12,7 @@ tags:
 - Twitter di Indonesia
 author: hilman
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Twitter adalah layanan jejaring sosial berupa mikroblog yang memungkinkan penggunanya untuk membagikan teks, gambar (juga mengakomodasi format .gif dan [Vines](https://en.wikipedia.org/wiki/Vine_(service))), dan video. Pengguna hanya dapat menulis dan membagikan 140 karakter teks dalam sekali kicau (tweet). Selain itu pengguna juga dapat berkomunikasi dengan pengguna lain dengan memilih perintah mention, atau membagikan kembali kicauan pengguna lain dengan mengklik perintah retweet.
