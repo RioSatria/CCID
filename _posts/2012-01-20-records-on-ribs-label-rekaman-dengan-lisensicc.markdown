@@ -12,6 +12,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Records on Ribs adalah label rekaman yang menyediakan musik yang diletakkan di bawah lisensi CC. Walau demikian, untuk menghargai para pencipta, Records on Ribs menerapkan harga £9.99 agar Anda dapat mengakses seluruh musik yang ada. Label rekaman ini juga menerima sumbangan untuk meningkatkan distribusi musik dan membantu para pencipta menciptakan musik yang berkualitas.
