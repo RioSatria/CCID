@@ -10,6 +10,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/uploads/49px-GClef.svg.png"
 ---
 
 ![49px-GClef.svg.png](/uploads/49px-GClef.svg.png){: .img-responsive .center-block }
