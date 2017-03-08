@@ -13,6 +13,7 @@ tags:
 - Hak Cipta
 author: hilman
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 ![Rizky-Luthfianto-2.jpg](/uploads/Rizky-Luthfianto-2.jpg){: .img-responsive .center-block }
