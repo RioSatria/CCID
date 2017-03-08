@@ -13,6 +13,7 @@ tags:
 - Lisensi Creative Commons
 author: hilman
 comments: true
+img: "/uploads/1069908_20130114114820-1024x768.jpg"
 ---
 
 **Menurut pasal 40 huruf Undang-Undang No. 28 Tahun 2014 (UUHC 2014), permainan video merupakan obyek perlindungan hak cipta.**
