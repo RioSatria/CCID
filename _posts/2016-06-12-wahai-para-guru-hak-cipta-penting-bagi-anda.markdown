@@ -11,6 +11,7 @@ tags:
 - Lisensi Creative Commons
 author: hilman
 comments: true
+img: "/uploads/Stamps_of_Indonesia_080-04-185x300.jpg"
 ---
 
 Tulisan ini adalah bagian pertama dari serial pendidikan dan hak cipta yang dibuat oleh Lisette Kalshoven. Di samping pemikiran-pemikiran tentang bagaimana kita seharusnya mengatur hak cipta dan pendidikan di abad 21, juga ditulis tentang tips praktis untuk para guru dalam menghadapi pembatasan-pembatasan yang dibuat oleh hak cipta.
