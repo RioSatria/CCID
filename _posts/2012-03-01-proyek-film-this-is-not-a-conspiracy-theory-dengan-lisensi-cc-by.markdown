@@ -11,6 +11,7 @@ tags:
 - Video
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Kirby Ferguson, pencipta [Everything is a Remix](http://www.everythingisaremix.info/), membuat proyek baru berupa serial politik yang akan disebarkan secara terbuka dan gratis, berjudul This is Not a Conspiracy Theory.
