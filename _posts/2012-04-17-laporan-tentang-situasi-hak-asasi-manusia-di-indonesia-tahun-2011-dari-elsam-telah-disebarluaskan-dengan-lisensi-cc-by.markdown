@@ -11,6 +11,7 @@ tags:
 - CC BY
 author: nita
 comments: true
+img: "/uploads/elsam-211x300.jpg"
 ---
 
 ![elsam-211x300.jpg](/uploads/elsam-211x300.jpg){: .img-responsive .center-block }
