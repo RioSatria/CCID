@@ -14,6 +14,7 @@ tags:
 - Budaya Bebas
 author: ivan
 comments: true
+img: "/uploads/crosbythajib1.jpg"
 ---
 
 ![crosbythajib1.jpg](/uploads/crosbythajib1.jpg){: .img-responsive .center-block }
