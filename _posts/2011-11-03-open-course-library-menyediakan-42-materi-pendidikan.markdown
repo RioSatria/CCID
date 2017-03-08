@@ -9,6 +9,7 @@ tags:
 - Materi Pendidikan Terbuka
 author: nita
 comments: true
+img: "/uploads/Nuvola_apps_bookcase.svg.png"
 ---
 
 ![Nuvola_apps_bookcase.svg.png](/uploads/Nuvola_apps_bookcase.svg.png){: .img-responsive .center-block }
