@@ -14,6 +14,7 @@ tags:
 - Musik
 author: hilman
 comments: true
+img: "/uploads/Cornel_simanjuntak.jpg"
 ---
 
 Halo sobat CCID!
