@@ -12,6 +12,7 @@ tags:
 - Lisensi Creative Commons
 author: hilman
 comments: true
+img: "/uploads/sampul-bs.jpg"
 ---
 
 ![sampul-bs.jpg](/uploads/sampul-bs.jpg){: .img-responsive .center-block }{: width="500"}
