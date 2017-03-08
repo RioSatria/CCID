@@ -9,6 +9,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/uploads/Camera.svg"
 ---
 
 ![Camera.svg](/uploads/Camera.svg){: .img-responsive .center-block }
