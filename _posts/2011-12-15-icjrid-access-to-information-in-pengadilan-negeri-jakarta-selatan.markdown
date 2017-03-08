@@ -11,6 +11,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Institute for Criminal Justice Reform (ICJR) has published a briefing paper regarding access to information in the District Court of South Jakarta (Pengadilan Negeri Jakarta Selatan). This briefing paper was written in Bahasa Indonesia by Diyan, Junior Researcher Associate in ICJR, and edited by Anggara. If you want to get this briefing paper, it is available under CC BY-NC-SA 3.0 Unported license and you can download it through [this link](http://icjrid.files.wordpress.com/2011/12/briefing-paper-2_2011.pdf).
