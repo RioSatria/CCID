@@ -14,6 +14,7 @@ tags:
 - Acara
 author: hilman
 comments: true
+img: "/uploads/20160930_143253.jpg"
 ---
 
 ![20160930_143253.jpg](/uploads/20160930_143253.jpg){: .img-responsive .center-block }
