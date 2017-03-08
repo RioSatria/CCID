@@ -9,6 +9,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 ![Icon_tools.png](/uploads/Icon_tools.png){: .img-responsive .center-block }
