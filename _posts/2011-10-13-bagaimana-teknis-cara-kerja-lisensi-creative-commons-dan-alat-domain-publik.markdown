@@ -10,6 +10,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Lisensi Creative Commons memiliki [tiga lapisan](http://creativecommons.or.id/faq/), seperti halnya dedikasi milik publik CC0: Lisensi Ringkas, Lisensi Lengkap, dan metadata terbaca-mesin. [Tanda Milik Publik](http://creativecommons.org/publicdomain/mark/1.0/) secara hukum tidak operatif, dan hanya memiliki dua lapisan: Lisensi Ringkas dan metadata terbaca-mesin.
