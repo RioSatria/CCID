@@ -11,6 +11,7 @@ tags:
 - Lisensi Creative Commons
 author: ccid
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Pendidikan tinggi saat ini memegang peranan yang penting dalam pengembangan sosial dan daya saing ekonomi nasional, namun pada kenyataannya pendidikan tinggi menghadapi tantangan besar dalam memenuhi peningkatan permintaan pendaftaran di seluruh dunia. Prakiraan menunjukkan bahwa permintaan  pendaftaran pendidikan tinggi secara global saat ini 165 juta dan akan bertambah 98 juta orang pada tahun 2025. Namun, pertumbuhan ini tidak disertai dengan peningkatan setara dalam sumber daya manusia dan keuangan yang tersedia untuk sektor pendidikan tinggi.
