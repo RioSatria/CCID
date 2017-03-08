@@ -11,6 +11,7 @@ tags:
 - Sobat CCID
 author: hilman
 comments: true
+img: "/uploads/logo.png"
 ---
 
 ![logo.png](/uploads/logo.png){: .img-responsive .center-block }
