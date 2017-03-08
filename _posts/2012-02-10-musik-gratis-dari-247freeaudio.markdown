@@ -11,6 +11,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/uploads/Farfisa._Made_in_Italy_(452690701).jpg"
 ---
 
 ![Farfisa._Made_in_Italy_(452690701).jpg](/uploads/Farfisa._Made_in_Italy_(452690701).jpg){: .img-responsive .center-block }<center><small><i>Louis Araujo / Farfisa / CC BY 2.0 Generic</i></small></center>
