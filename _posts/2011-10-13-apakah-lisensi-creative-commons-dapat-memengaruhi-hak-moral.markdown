@@ -8,6 +8,7 @@ tags:
 - Hak Moral
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Lisensi internasional menyatakan bahwa penerima lisensi "tidak boleh mengubah, memotong, memodifikasi atau mengambil tindakan lainnya dalam kaitannya dengan ciptaan yang akan merugikan kehormatan Pencipta Asli atau reputasinya." Hal ini melarang penerima lisensi untuk menggunakan ciptaan yang akan melanggar hak moral penulis atas integritas apabila hak tersebut diakui. Persyaratan atribusi yang terkandung dalam semua lisensi kami dimaksudkan untuk memenuhi hak moral atas atribusi.
