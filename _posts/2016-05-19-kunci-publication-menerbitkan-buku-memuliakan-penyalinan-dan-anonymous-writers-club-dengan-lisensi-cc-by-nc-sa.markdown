@@ -15,6 +15,7 @@ tags:
 - Lisensi Creative Commons
 author: hilman
 comments: true
+img: "/uploads/COVER-MEMULIAKAN-PENYALINAN.jpg"
 ---
 
 ![COVER-MEMULIAKAN-PENYALINAN.jpg](/uploads/COVER-MEMULIAKAN-PENYALINAN.jpg){: .img-responsive .center-block }<center><small><i>
