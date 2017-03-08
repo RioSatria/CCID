@@ -12,6 +12,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Creative Commons menyediakan alat untuk mengintegrasikan pemilihan lisensi dengan situs Anda. Anda dapat menemukan gambaran pada artikel Integrasi Web pada [CC wiki](http://wiki.creativecommons.org/Web_Integration). [Mitra Interface](http://wiki.creativecommons.org/Partner_Interface) adalah cara yang baik untuk memulai dan akan selalu memiliki versi lisensi yang terbaru dan terjemahannya. Namun, ada juga sebuah [API](http://api.creativecommons.org/docs/) yang tersedia jika Anda ingin lebih mengendalikan.
