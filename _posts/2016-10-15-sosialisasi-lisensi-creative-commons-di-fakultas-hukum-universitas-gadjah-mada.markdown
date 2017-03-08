@@ -14,6 +14,7 @@ tags:
 - UGM
 author: hilman
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 ![1476797962008.jpg](/uploads/1476797962008.jpg){: .img-responsive .center-block }
