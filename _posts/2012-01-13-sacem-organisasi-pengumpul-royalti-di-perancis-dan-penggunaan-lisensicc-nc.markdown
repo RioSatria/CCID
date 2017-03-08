@@ -14,6 +14,7 @@ tags:
 - CC BY-NC
 author: nita
 comments: true
+img: "/uploads/120px-G-flat_Major_key_signature.png"
 ---
 
 Creative Commons Internasional telah membuat perjanjian dengan SACEM, organisasi pengumpul royalti untuk musik di Perancis, yang memungkinkan anggota SACEM melisensikan (sebagian dari) ciptaan mereka di bawah salah satu dari tiga lisensi CC dengan syarat nonkomersial. Tiga lisensi CC yang dimaksud adalah CC BY-NC, CC BY-NC-ND, atau CC BY-NC-SA. Kerja sama ini membuka pikiran organisasi pengumpul royalti terbesar di Perancis yang sebelumnya melarang para pencipta untuk menggunakan lisensi CC apapun.
