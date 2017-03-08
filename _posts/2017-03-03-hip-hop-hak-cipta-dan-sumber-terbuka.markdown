@@ -15,6 +15,7 @@ tags:
 - Musik Elektronik
 author: hilman
 'true': comments
+img: "/uploads/2655755079_2ecc82821c_o.jpg"
 ---
 
 Gaya bermain musik terus berkembang hingga hari ini, seiring dengan berkembangnya kebudayaan dan teknologi. Industri musik, dan tentu saja media amat berperan dalam pemberian label atau istilah untuk mengidentifikasi, dan mendeskripsikan tiap gaya musik. Label-label tersebut, yang lebih sering disebut sebagai *genre*, juga kerap diterapkan oleh pendengar ketika mereka berusaha untuk memetakan atau memilah koleksi rekaman musik yang mereka miliki. Salah satu genre musik yang hingga kini amat erat kaitannya dengan berkembangnya teknologi dalam kebudayaan manusia ialah **musik elektronik**.
