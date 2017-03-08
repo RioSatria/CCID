@@ -16,6 +16,7 @@ tags:
 - Creative Commons Indonesia
 author: hilman
 comments: true
+img: "/uploads/IMG_1050.JPG"
 ---
 
 ![IMG_1050.JPG](/uploads/IMG_1050.JPG){: .img-responsive .center-block }{: width="800"}
