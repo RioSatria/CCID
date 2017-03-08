@@ -9,6 +9,7 @@ tags:
 - Google Search
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Penting untuk mengetahui bagaimana menggunakan materi dengan lisensi CC sebelum Anda mencari. Lisensi CC yang berbeda memberikan hak penggunaan yang berbeda kepada Anda. Mengetahui apa yang dapat Anda lakukan terhadap materi yang Anda temukan dapat membantu Anda menentukan lisensi CC apa yang sesuai dengan tujuan Anda dalam menggunakan materi tersebut. Lebih lanjut: [laman FAQ lisensi Creative Commmons bahasa Indonesia](http://creativecommons.or.id/faq/).
