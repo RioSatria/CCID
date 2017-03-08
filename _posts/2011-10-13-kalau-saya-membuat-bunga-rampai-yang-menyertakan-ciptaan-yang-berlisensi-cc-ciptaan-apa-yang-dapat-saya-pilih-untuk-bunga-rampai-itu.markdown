@@ -10,6 +10,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Semua lisensi Creative Commons memungkinkan ciptaan asli untuk dimasukkan ke dalam koleksi seperti antologi, ensiklopedi dan siaran. Namun, Anda tetap harus mematuhi kondisi lisensi yang mengatur penggunaan ciptaan asli. Sebagai contoh, setiap ciptaan di bawah salah satu lisensi Creative Commons NonKomersial tidak dapat dimasukkan dalam koleksi yang berlisensi untuk memungkinkan penggunaan komersial. Tabel di bawah menunjukkan bagaimana Anda dapat melisensikan koleksi yang menggabungkan ciptaan yang telah berlisensi CC.
