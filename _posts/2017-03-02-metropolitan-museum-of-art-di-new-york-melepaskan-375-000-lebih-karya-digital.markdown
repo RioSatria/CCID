@@ -11,6 +11,7 @@ tags:
 - CC Search
 author: hilman
 comments: true
+img: "/uploads/the_met_logo.png"
 ---
 
 ![the_met_logo.png](/uploads/the_met_logo.png){: .img-responsive .center-block }{: width="500"}
