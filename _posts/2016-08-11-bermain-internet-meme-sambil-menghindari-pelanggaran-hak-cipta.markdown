@@ -11,6 +11,7 @@ tags:
 - Lisensi Creative Commons
 author: hilman
 comments: true
+img: "/uploads/26fb0687857f226a3f02543110fc89807598ec178f7bed1251a28c2aabbf8e47.jpg"
 ---
 
 Meme dapat diartikan sebagai ide, kebiasaan, atau gaya penggunaan,  yang tersebar dan digunakan satu pihak ke pihak lainnya.
