@@ -10,6 +10,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 **Ini adalah salah satu ulasan buku Budaya Bebas oleh salah satu peserta Konferensi Creative Commons Asia Pasifik 2012 dan Peluncuran Creative Commons Indonesia. Ulasan ini diterbitkan oleh Handoko Suwono dari Surabaya dalam akun blog-nya [http://www.datacom.co.id/blog.html](http://www.datacom.co.id/blog.html). Ulasan asli dimuat dalam Bahasa Inggris "How Much Freedom Do You Need?", namun berikut adalah ulasan yang telah diterjemahkan oleh Handoko Suwono.**
