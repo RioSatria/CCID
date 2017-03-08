@@ -12,6 +12,7 @@ tags:
 - Lisensi Creative Commons Versi 3.0
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 ![Logo CCID.png](/uploads/Logo%20CCID.png){: .img-responsive .center-block }
