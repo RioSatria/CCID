@@ -9,6 +9,7 @@ tags:
 - Hak Cipta
 author: nita
 comments: true
+img: "/uploads/120px-Symbol_merge_discussion.svg.png"
 ---
 
 Hari ini, 30 November 2011, SatuDunia mengadakan Diskusi Lingkar Belajar Telematika “Kapitalisme 2.0, (Intellectual) Property Right di Telematika”. Diskusi ini membahas mengenai bagaimana peran negara dalam mengatur permasalahan terkait bidang telematika, siapa saja pihak yang terkait di dalamnya baik secara moral maupun materil, serta apa yang diinginkan atau dapat ditawarkan kepada publik.
