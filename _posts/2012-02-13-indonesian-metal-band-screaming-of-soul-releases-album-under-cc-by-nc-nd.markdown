@@ -15,6 +15,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/uploads/demo-release-2011-flyer-web.jpg"
 ---
 
 ![demo-release-2011-flyer-web.jpg](/uploads/demo-release-2011-flyer-web.jpg){: .img-responsive .center-block }
