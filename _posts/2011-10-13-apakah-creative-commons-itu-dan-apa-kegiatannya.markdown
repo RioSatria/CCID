@@ -9,6 +9,7 @@ tags:
 - Organisasi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Creative Commons (CC) adalah organisasi nirlaba global yang memberdayakan penyebaran dan penggunaan ulang kreativitas dan pengetahuan melalui penyediaan perangkat hukum bebas. CC memiliki [afiliasi di seluruh dunia](http://creativecommons.org/international/) yang membantu memastikan lisensi kami dapat diterapkan secara internasional dan membangkitkan kesadaran tentang upaya kami. Perangkat hukum kami membantu orang-orang yang ingin mendorong penggunaan ulang ciptaan mereka dengan menawarkan penggunaan ciptaan tersebut di bawah persyaratan yang dermawan dan terstandardisasi, membantu orang-orang yang ingin menggunakan ciptaan secara kreatif, serta membantu orang-orang yang ingin memperoleh keuntungan dari simbiosis ini. Visi kami adalah untuk membantu orang lain mewujudkan potensi penuh internet. Untuk mewujudkan visi kami, CC memiliki lisensi CC yang dapat Anda gunakan secara gratis.
