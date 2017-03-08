@@ -11,6 +11,7 @@ tags:
 - Lisensi Creative Commons
 author: hilman
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 ![Edo-W-Adithyawarman.jpg](/uploads/Edo-W-Adithyawarman.jpg){: .img-responsive .center-block }
