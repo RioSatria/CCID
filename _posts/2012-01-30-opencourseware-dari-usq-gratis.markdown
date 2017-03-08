@@ -12,6 +12,7 @@ tags:
 - Pendidikan
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 [University of Southern Queensland (USQ)](http://www.usq.edu.au/) telah memberikan akses publik terhadap sumber pendidikan secara terbuka dan gratis (OpenCourseWare). Mata kuliah yang dipublikasikan secara gratis menggunakan lisensi CC BY-NC-SA mewakili mata kuliah dari lima fakultas dan program persiapan yang ada di USQ. Anda dapat mengakses OpenCourseWare dari USQ melalui [tautan ini](http://ocw.usq.edu.au/) atau masing-masing tautan di bawah:
