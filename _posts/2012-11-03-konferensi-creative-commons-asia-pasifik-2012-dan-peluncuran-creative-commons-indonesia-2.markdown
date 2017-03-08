@@ -13,6 +13,7 @@ tags:
 - Indonesia
 author: nita
 comments: true
+img: "/uploads/logo-CCIDAP-2012.jpg"
 ---
 
 ![logo-CCIDAP-2012.jpg](/uploads/logo-CCIDAP-2012.jpg){: .img-responsive .center-block }
