@@ -11,6 +11,7 @@ tags:
 - Sosialisasi Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Pada tanggal 23-25 Februari 2012, CCID bersama penerima hibah Cipta Media Bersama dari Wikimedia Indonesia berpartisipasi pada [Jagongan Media Rakyat 2012](http://jmr2012.combine.or.id/) di Kampus APMD, Timoho, Yogyakarta. CCID juga mendapat kesempatan untuk memperkenalkan CCID dan Sobat CC yang diwakili oleh admin proyek CCID yaitu Alifia Qonita Sudharto, dibantu oleh Irfan Toni Herlambang dari Wikimedia Indonesia.
