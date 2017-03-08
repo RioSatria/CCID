@@ -9,6 +9,7 @@ tags:
 - Internet Privacy
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Protect Your Security Online (ID)Access adalah gerakan global untuk kebebasan digital. Mereka menggunakan lisensi CC BY pada situs mereka, sehingga tulisan yang ada di dalamnya dapat disebarluaskan secara gratis selama mencantumkan atribusi yang tepat. Saat ini, Access menerbitkan sebuah pedoman untuk melindungi identitas Anda dan keamanan daring dan ketika menggunakan ponsel. Pedoman ini diterbitkan dalam beberapa bahasa, termasuk Bahasa Inggris dan Bahasa Indonesia. Di samping itu, ada pula berbagai tulisan tentang berbagai isu terkini seperti perlawanan terhadap SOPA (Stop Online Piracy Act) dan penjelasan mengenai ACTA (Anti-Counterfeiting Trade Agreement). Untuk mengakses tulisan-tulisan tersebut, Anda dapat mengunjungi [tautan ini](https://www.accessnow.org/policy-activism/docs).
