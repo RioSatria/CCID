@@ -12,6 +12,8 @@ tags:
 - CCID
 - Acara
 author: nita
+true: comments
+img: "/uploads/ccasiapasifik-ccidap2012.jpg"
 ---
 
 ![ccasiapasifik-ccidap2012.jpg](/uploads/ccasiapasifik-ccidap2012.jpg){: .img-responsive .center-block }
