@@ -11,6 +11,7 @@ tags:
 - Penegakan Hukum
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Tidak. Creative Commons bukanlah biro hukum dan tidak memberikan nasihat atau layanan hukum. CC mirip dengan layanan mandiri yang memberikan dokumen hukum bebas dan berbasis formulir untuk digunakan orang lain. CC juga menyediakan [basis data yurisdiksi](http://wiki.creativecommons.org/Jurisdiction_Database) yang dapat digunakan untuk membandingkan lisensi internasional (sebelumnya dikenal dengan "lisensi tanpa adaptasi") dan adaptasi (adaptasi lisensi internasional untuk yurisdiksi tertentu) serta [laman versi lisensi](http://wiki.creativecommons.org/License_versions) yang dapat digunakan untuk membandingkan perbedaan antara berbagai versi lisensi.
