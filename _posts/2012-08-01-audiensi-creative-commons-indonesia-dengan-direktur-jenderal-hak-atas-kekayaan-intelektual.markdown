@@ -14,6 +14,7 @@ tags:
 - CCID
 author: nita
 comments: true
+img: "/uploads/audiensi1-300x225.jpg"
 ---
 
 ![audiensi1-300x225.jpg](/uploads/audiensi1-300x225.jpg){: .img-responsive .center-block }
