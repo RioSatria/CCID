@@ -11,6 +11,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/uploads/20100807211640!Fbi_anti_piracy_warning.jpgg"
 ---
 
 ![20100807211640!Fbi_anti_piracy_warning.jpg](/uploads/20100807211640!Fbi_anti_piracy_warning.jpg){: .img-responsive .center-block }<center><small><i>Flickr: bizmac / CC BY 2.0</i></small></center>
