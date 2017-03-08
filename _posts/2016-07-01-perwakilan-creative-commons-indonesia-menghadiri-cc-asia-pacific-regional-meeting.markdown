@@ -11,6 +11,7 @@ tags:
 - Creative Commons Asia Pacific Regional Meeting
 author: hilman
 comments: true
+img: "/uploads/28144921415_a81af89619_o-1024x683.jpg"
 ---
 
 ![28144921415_a81af89619_o-1024x683.jpg](/uploads/28144921415_a81af89619_o-1024x683.jpg){: .img-responsive .center-block }
