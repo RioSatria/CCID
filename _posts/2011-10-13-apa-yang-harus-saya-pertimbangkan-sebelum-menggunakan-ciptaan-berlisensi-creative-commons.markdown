@@ -10,6 +10,7 @@ tags:
 - Lisensi Terbuka
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Menerapkan lisensi Creative Commons untuk ciptaan Anda adalah keputusan yang serius. Bila Anda menerapkan lisensi CC untuk ciptaan Anda, Anda memberikan izin kepada siapapun untuk menggunakan ciptaan selama jangka waktu berlakunya hak cipta, kecuali adanya pelanggaran terhadap lisensi.
