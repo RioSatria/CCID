@@ -15,6 +15,7 @@ tags:
 - Musik
 author: hilman
 comments: true
+img: "/uploads/A-1922-copy-of-The-Everyday-Song-Book-containing-lyrics-to-Happy-Birthday.-Christine-Mai-Duc-Los-Angeles-Times.jpg"
 ---
 
 ![A-1922-copy-of-The-Everyday-Song-Book-containing-lyrics-to-Happy-Birthday.-Christine-Mai-Duc-Los-Angeles-Times.jpg](/uploads/A-1922-copy-of-The-Everyday-Song-Book-containing-lyrics-to-Happy-Birthday.-Christine-Mai-Duc-Los-Angeles-Times.jpg){: .img-responsive .center-block }<center><small><i>Lirik lagu "Good Morning To You-Happy Birthday" dari buku "Everyday Song Book". (<a href="http://www.latimes.com/local/lanow/la-me-ln-happy-birthday-song-lawsuit-decision-20150922-story.html">Sumber gambar</a>, foto oleh Christine Mai-Duc)</i></small></center>
