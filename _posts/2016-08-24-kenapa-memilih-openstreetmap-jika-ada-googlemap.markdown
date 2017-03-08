@@ -15,6 +15,7 @@ tags:
 - Lisensi Creative Commons
 author: hilman
 comments: true
+img: "/uploads/Cibubur-Menteng.jpg"
 ---
 
 **Apa itu Open Street Map?**
