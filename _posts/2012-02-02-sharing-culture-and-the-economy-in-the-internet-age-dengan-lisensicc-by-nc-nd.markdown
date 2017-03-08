@@ -14,6 +14,7 @@ tags:
 - CC BY-NC-ND
 author: nita
 comments: true
+img: "/uploads/sharing_cover_158x237.png"
 ---
 
 ![sharing_cover_158x237.png](/uploads/sharing_cover_158x237.png){: .img-responsive .center-block }<center><small><i>Philippe Aigrain / CC BY-NC-ND 3.0</i></small></center>
