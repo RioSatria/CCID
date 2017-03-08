@@ -12,6 +12,7 @@ tags:
 - Afiliasi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 ![lets-cc-300x143.jpg](/uploads/lets-cc-300x143.jpg){: .img-responsive .center-block }
