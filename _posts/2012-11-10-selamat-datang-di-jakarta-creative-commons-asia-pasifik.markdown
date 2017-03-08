@@ -11,7 +11,7 @@ tags:
 - Konferensi Creative Commons Asia Pasifik 2012
 - Indonesia
 author: nita
-true: comments
+'true': comments
 img: "/uploads/CCkorea-tiba5.jpg"
 ---
 
