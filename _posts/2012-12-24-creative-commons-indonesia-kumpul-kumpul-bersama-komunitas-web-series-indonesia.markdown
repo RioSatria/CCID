@@ -12,6 +12,7 @@ tags:
 - Sosialisasi Lisensi Creative Commons
 author: ccid
 comments: true
+img: "/uploads/KWSI-Ari.jpg"
 ---
 
 Pada tanggal 18 Oktober 2012 lalu, Creative Commons Indonesia mendapat kesempatan untuk nongkrong bareng teman-teman dari Komunitas Web Series Indonesia (KWSI). Komunitas Web Series Indonesia adalah sebuah komunitas yang mengumpulkan para pembuat web series se-Indonesia. Istilah web series sendiri masih asing bagi masyarakat awam, mudahnya web series ini adalah sejenis video yang diunggah ke situs-situs seperti Youtube namun berseri laiknya sinetron yang tayang setiap hari. Video-video yang diunggah pun beragam tidak hanya video musik, video yang memuat pesan-pesan informatif seperti cara membuat sesuatu, hingga video yang memiliki jalan cerita tersendiri. Menurut pendiri dari Komunitas Web Series Indonesia, Dennis Adishwara, komunitas ini terbentuk juga sebagai sebuah upaya nyata melawan dominasi sinteron di televisi-televisi Indonesia yang semakin lama semakin membuat gerah, agar tidak dicap ngomong doang maka komunitas ini dibentuk dengan harapan dapat menampung teman-teman yang mau berbagi hasil kreativitasnya sebagai salah satu alternatif hiburan di Indonesia.
