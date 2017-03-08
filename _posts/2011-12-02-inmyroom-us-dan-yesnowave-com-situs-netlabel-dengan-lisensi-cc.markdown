@@ -14,6 +14,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Two Indonesian netlabels are using CC licenses in their websites. [inmyroom.us](http://inmyroom.us) is using CC BY-NC-ND unported license while [yesnowave.com](http://yesnowave.com) is using CC BY-NC-SA unported license for all materials and they put the license button on the bottom side of the website. Based on the chosen licenses, you can download any songs provided in both websites, but not for commercial purpose. You are also allowed to remix the ones available in yesnowave.com, but you have to license the derivative works under the same license, or in this case, it is CC BY-NC-SA unported license.
