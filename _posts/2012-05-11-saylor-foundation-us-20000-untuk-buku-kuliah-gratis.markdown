@@ -12,6 +12,7 @@ tags:
 - Open Education
 author: nita
 comments: true
+img: "/uploads/Saylor-300x163.jpg"
 ---
 
 ![Saylor-300x163.jpg](/uploads/Saylor-300x163.jpg){: .img-responsive .center-block }
