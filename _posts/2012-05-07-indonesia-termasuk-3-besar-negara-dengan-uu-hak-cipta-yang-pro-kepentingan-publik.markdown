@@ -11,6 +11,7 @@ tags:
 - Hak Cipta
 author: nita
 comments: true
+img: "/uploads/logo.jpg"
 ---
 
 ![logo.jpg](/uploads/logo.jpg){: .img-responsive .center-block }
