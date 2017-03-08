@@ -10,6 +10,7 @@ tags:
 - Situs Web
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 ![vimeo_cc_landing_page.jpg](/uploads/vimeo_cc_landing_page.jpg){: .img-responsive .center-block }<center><small><i>Portal CC Vimeo / Creativecommons.org</i></small></center>
