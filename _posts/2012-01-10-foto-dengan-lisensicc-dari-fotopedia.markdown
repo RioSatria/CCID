@@ -9,6 +9,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/uploads/fotopedia.png"
 ---
 
 ![fotopedia.png](/uploads/fotopedia.png){: .img-responsive .center-block }
