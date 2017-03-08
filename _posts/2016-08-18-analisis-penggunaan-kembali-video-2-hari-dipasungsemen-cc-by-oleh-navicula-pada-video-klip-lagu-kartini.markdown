@@ -15,6 +15,7 @@ tags:
 - Lisensi Creative Commons
 author: hilman
 comments: true
+img: "/uploads/ibu-kendeng20-IMG_2815.jpg"
 ---
 
 ![ibu-kendeng20-IMG_2815.jpg](/uploads/ibu-kendeng20-IMG_2815.jpg){: .img-responsive .center-block }<center><small><i>Bentuk protes rencana pembangunan tambang dan pabrik semen di pegunungan Kendeng. (<a href="https://www.facebook.com/sapariah.saturi?fref=ts&ref=br_tf">Sapariah Saturi</a>/<a href="http://www.mongabay.co.id/2016/04/14/berharap-semen-kaki-para-perempuan-kendeng-berbuah-aksi-dari-jokowi/">Mongabay</a>)</i></small></center>
