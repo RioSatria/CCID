@@ -11,6 +11,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Europeana adalah perpustakaan, museum, dan arsip digital Eropa. Pada tanggal 1 Desember 2011, Europeana menyebarluaskan [The Europeana Licensing Framework](http://www.europeanaconnect.eu/results-and-resources.php?page=8) (Kerangka Kerja Lisensi Europeana) dengan menggunakan Dedikasi Domain Publik CC0. Kerangka lisensi meliputi dan merupakan tindak lanjut atas Kesepakatan Pertukaran Data yang baru diadopsi Europeana pada bulan September, dan didukung pustakawan nasional Eropa beberapa minggu kemudian.
