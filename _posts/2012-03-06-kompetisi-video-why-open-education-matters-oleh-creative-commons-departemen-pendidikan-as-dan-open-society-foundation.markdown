@@ -11,6 +11,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 ![OER-Video-newsletter-banner.png](/uploads/OER-Video-newsletter-banner.png){: .img-responsive .center-block }
