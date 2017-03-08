@@ -9,6 +9,7 @@ tags:
 - Ciptaan Adaptasi
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Sebuah adaptasi, atau yang disebut sebagai ciptaan turunan, adalah sebuah ciptaan berdasarkan satu atau lebih ciptaan yang sudah ada. Apa yang merupakan adaptasi bergantung pada hukum yang berlaku, namun menerjemahkan ciptaan dari satu bahasa ke bahasa lain atau membuat versi film dari novel umumnya dianggap sebagai adaptasi.
