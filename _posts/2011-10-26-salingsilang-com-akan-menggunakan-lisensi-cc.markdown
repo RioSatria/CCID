@@ -12,6 +12,7 @@ tags:
 - Diskusi
 author: ivan
 comments: true
+img: "/uploads/salingsilang.png"
 ---
 
 ![salingsilang.png](/uploads/salingsilang.png){: .img-responsive .center-block }
