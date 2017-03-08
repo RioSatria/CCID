@@ -11,6 +11,7 @@ tags:
 - Lisensi Terbuka
 author: siska
 comments: true
+img: "/uploads/GambarBurungCCvC_1-300x77.jpg"
 ---
 
 ![LOMBOK_clean_water_(10708874693).jpg](/uploads/LOMBOK_clean_water_(10708874693).jpg){: .img-responsive .center-block }<center><small><i>Seorang wanita di lombok mengisi tandon air dengan air bersih. Lisensi CC-BY 2.0 gambar dari <a href="https://commons.wikimedia.org/wiki/File:LOMBOK_clean_water_(10708874693).jpg">"Lombok Clean Water"</a> upaya pemerintah Australia di Indonesia.</i></small></center>
