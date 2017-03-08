@@ -15,6 +15,7 @@ tags:
 - Acara
 author: hilman
 comments: true
+img: "/uploads/Sosialisasi_Lisensi_CC_di_Universitas_Brawijaya_Malang_CCID_19112016.jpg"
 ---
 
 ![Sosialisasi_Lisensi_CC_di_Universitas_Brawijaya_Malang_CCID_19112016.jpg](/uploads/Sosialisasi_Lisensi_CC_di_Universitas_Brawijaya_Malang_CCID_19112016.jpg){: .img-responsive .center-block }
