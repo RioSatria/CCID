@@ -15,6 +15,7 @@ tags:
 author: ivan
 layout: post
 comments: true
+img: "/uploads/Logo%20OCW.jpg"
 ---
 
 ![Logo OCW.jpg](/uploads/Logo%20OCW.jpg){: .img-responsive .center-block }
