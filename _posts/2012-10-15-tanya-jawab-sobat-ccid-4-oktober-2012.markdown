@@ -10,6 +10,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 ![Pertanyaan-4-Oktober-2012.jpg](/uploads/Pertanyaan-4-Oktober-2012.jpg){: .img-responsive .center-block }
