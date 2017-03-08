@@ -10,6 +10,7 @@ tags:
 - Crowdsourcing
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Creative Commons adalah organisasi nirlaba global yang memungkinkan pembagian dan penggunaan ulang kreativitas dan pengetahuan melalui perangkat hukum bebas, dengan afiliasi di seluruh dunia yang memastikan lisensi kami dapat diterapkan secara internasional dan membangkitkan kesadaran tentang upaya kami. Perangkat kami bebas dan jangkauan kami bebas. Kami membutuhkan dana untuk:
