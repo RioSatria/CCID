@@ -11,6 +11,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Penggunaan [alat DRM atau setiap tindakan perlindungan teknis lainnya](http://creativecommons.or.id/faq/#Apakah_Creative_Commons_terlibat_dalam_manajemen_hak_digital.28digital_rights_management.2C_DRM.29.3F) oleh penerima lisensi untuk mencegah pihak lain menggunakan hak yang diberikan berdasarkan lisensi adalah dilarang. Semua lisensi CC melarang pengguna untuk "melekatkan tindakan teknologi yang efektif terhadap ciptaan yang membatasi kemampuan penerima ciptaan dari Anda untuk menggunakan hak yang diberikan kepada penerima di bawah aturan Lisensi."
