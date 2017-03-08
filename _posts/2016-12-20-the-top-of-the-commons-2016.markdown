@@ -10,6 +10,7 @@ tags:
 - Creative Commons Indonesia
 author: ccid
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Halo sobat CCID!
