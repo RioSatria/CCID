@@ -10,6 +10,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/uploads/cda_displayimage.png"
 ---
 
 Pada tahun 2004, Open Choice diluncurkan oleh Springer dengan lisensi CC BY-NC. Jurnal yang diterbitkan di dalamnya dapat dibaca oleh setiap orang secara gratis, namun Open Choice tetap dapat mengenakan biaya kepada setiap orang yang ingin mendapatkan jurnal-jurnal tersebut dalam bentuk cetak. Hak cipta juga tetap dimiliki oleh para penulis.
