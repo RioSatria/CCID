@@ -10,6 +10,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 [DeviantART](http://www.deviantart.com/) (dA) adalah komunitas seni daring terbesar di dunia. dA telah ada sejak 7 Agustus 2000 dan saat ini telah memiliki lebih dari 55 juta ciptaan yang diunggah oleh lebih dari 4,5 juta pengguna. Ciptaan yang diunggah dapat berupa animasi, foto, templat situs, film, maupun tulisan.
