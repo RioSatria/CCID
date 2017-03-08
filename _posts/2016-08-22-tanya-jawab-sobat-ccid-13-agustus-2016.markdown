@@ -13,6 +13,7 @@ tags:
 - Hak Cipta Fotografi
 author: hilman
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 ![cats-2.jpg](/uploads/cats-2.jpg){: .img-responsive .center-block }
