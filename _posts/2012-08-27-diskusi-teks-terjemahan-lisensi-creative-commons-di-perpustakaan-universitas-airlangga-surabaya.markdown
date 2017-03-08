@@ -15,6 +15,7 @@ tags:
 - CCID
 author: nita
 comments: true
+img: "/uploads/IMG-20120810-00382.jpg"
 ---
 
 ![IMG-20120810-003731.jpg](/uploads/IMG-20120810-003731.jpg){: .img-responsive .center-block }
