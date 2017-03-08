@@ -12,6 +12,7 @@ tags:
 - Pendidikan Gratis
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Pemerintah Polandia telah mengadopsi peraturan untuk menerapkan program "Sekolah Digital", yang bertujuan untuk meningkatkan kompetensi TIK di sekolah-sekolah Polandia. Sebagai bagian dari program tersebut, 43 juta PLN (Zloty Polandia) telah digunakan untuk pembuatan buku pelajaran digital berlisensi CC (atau lisensi lain yang serupa) untuk kelas 4-6 SD.
