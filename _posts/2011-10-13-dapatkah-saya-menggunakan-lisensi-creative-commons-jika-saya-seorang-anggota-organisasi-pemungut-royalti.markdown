@@ -10,6 +10,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Pencipta dan pemegang hak cipta lainnya dapat memeriksa organisasi pemungut royalti sebelum menetapkan lisensi CC terhadap ciptaan mereka. Sebagian pemegang hak cipta adalah anggota organisasi pemungut royalti dapat mengesampingkan hak mereka untuk memungut royalti atas penggunaan yang diperbolehkan di bawah lisensi, namun hanya sejauh yang dimungkinkan oleh organisasi tersebut.
