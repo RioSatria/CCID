@@ -10,6 +10,7 @@ tags:
 - Julie E. Cohen
 author: nita
 comments: true
+img: "/uploads/9780300125436.jpg"
 ---
 
 ![9780300125436.jpg](/uploads/9780300125436.jpg){: .img-responsive .center-block }<center><small>Configuring the Networked Self: Law, Code, and the Play of Everyday Practice / Julie E. Cohen / CC BY-NC-SA 3.0<i></i></small></center>
