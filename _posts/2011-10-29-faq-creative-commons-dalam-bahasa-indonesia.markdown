@@ -10,6 +10,7 @@ tags:
 - Lisensi Creative Commons
 author: ivan
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 ![ccid_icon_white.png](/uploads/ccid_icon_white.png){: .img-responsive .center-block }
