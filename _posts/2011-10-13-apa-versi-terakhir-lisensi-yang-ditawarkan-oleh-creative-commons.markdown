@@ -10,6 +10,7 @@ tags:
 - Lisensi CC
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Pada tahun 2007, Creative Commons menerbitkan versi lisensi 3.0. Lisensi ini adalah lisensi terbaru yang ditawarkan oleh CC, dan direkomendasikan terhadap semua versi sebelumnya. Anda dapat melihat bagaimana lisensi telah ditingkatkan dari waktu ke waktu pada [laman versi lisensi](http://wiki.creativecommons.org/License_versions). Proses adaptasi atau penyesuaian lisensi internasional versi 3.0 dengan yurisdiksi beberapa negara dimulai pada tahun 2007. Namun, sejak tahun 2011 CC tidak lagi menyetujui proyek adaptasi yang baru dan saat ini melaksanakan persiapan untuk memulai versi 4.0.
