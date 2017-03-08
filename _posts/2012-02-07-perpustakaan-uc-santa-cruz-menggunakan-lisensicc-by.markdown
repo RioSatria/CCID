@@ -11,6 +11,7 @@ tags:
 - CC BY
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 [Perpustakaan University of California Santa Cruz](http://library.ucsc.edu/) saat ini telah mengadopsi penggunaan lisensi CC BY untuk seluruh isinya. Katie Fortney, perwakilan hubungan masyarakat perpustakaan ini, menyatakan bahwa ada banyak pihak yang menggunakan ciptaan dengan lisensi CC BY sebagai bagian dari tulisan atau materi ajar, sehingga keputusan untuk melisensikan Perpustakaan University of California Santa Cruz dengan lisensi CC BY adalah keputusan yang tepat. Perpustakaan University of California Santa Cruz juga ingin masyarakat mengetahui bahwa mereka peduli terhadap isu hak cipta dan teknologi, serta menyadari bahwa lisensi CC memperbolehkan penggunaan ciptaan dengan izin atau di bawah rezim penggunaan yang wajar.
