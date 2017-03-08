@@ -10,6 +10,7 @@ tags:
 - Lisensi Adaptasi
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Tergantung apa yang Anda inginkan. Ada beberapa alasan mengapa [lisensi internasional](http://creativecommons.or.id/faq/#Apakah_yang_disebut_lisensi_Creative_Commons_internasional_.28.22tanpa_adaptasi.22.29_dan_mengapa_CC_menawarkan_lisensi_.22adaptasi.22.3F) lebih disukai, walau lisensi adaptasi telah ada di dalam yurisdiksi pemberi lisensi. Sebagai contoh, seluruh isi lisensi CC berada di bawah lisensi internasional karena, salah satu alasannya, lisensi internasional adalah netral dan tidak memihak satu yurisdiksi tertentu, dan dapat efektif berlaku secara global. Sifat netral dari lisensi internasional menjadi menarik di mata banyak orang dan organisasi, terutama untuk penggunaan yang terkait dengan proyek-proyek global yang melampaui batas-batas politik, karakteristik umum budaya digital saat ini.
