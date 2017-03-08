@@ -11,6 +11,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 [Perpustakaan Nasional Jerman](http://www.d-nb.de/) (German National Library / DNB) telah memublikasikan data mereka sebagai Linked Data pada tahun 2010. Saat ini, DNB memutuskan untuk mengubah lisensi mereka pada Linked Data menjadi CC0 Dedikasi Domain Publik. DNB juga memulai untuk memublikasikan bibliografi nasional Jerman sebagai Linked Open Data.
