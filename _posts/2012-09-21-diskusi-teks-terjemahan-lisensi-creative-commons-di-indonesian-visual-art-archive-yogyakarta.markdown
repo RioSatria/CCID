@@ -17,6 +17,7 @@ tags:
 - Sosialisasi Lisensi Creative Commons
 author: nita
 comments: true
+img: "/uploads/Foto-IVAA-01-300x168.jpg"
 ---
 
 ![Foto-IVAA-01-300x168.jpg](/uploads/Foto-IVAA-01-300x168.jpg){: .img-responsive .center-block }
