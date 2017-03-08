@@ -13,6 +13,7 @@ tags:
 - Wikimedia Indonesia
 author: hilman
 comments: true
+img: "/uploads/lokakaryacommons_2-1024x768.jpg"
 ---
 
 ![lokakaryacommons_2-1024x768.jpg](/uploads/lokakaryacommons_2-1024x768.jpg){: .img-responsive .center-block }
