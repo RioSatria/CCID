@@ -11,6 +11,7 @@ tags:
 - Open Data
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Jennifer C. Molloy dari Departemen Zoologi, University of Oxford, Inggris, menuliskan sebuah artikel berlisensi CC BY tentang bagaimana keterbukaan data dapat menjadi dasar penyebaran informasi pendidikan yang lebih baik. Dengan besarnya akses terhadap data karya ilmiah, maka penelitian akan semakin transparan dan produktif, dan pada akhirnya menguntungkan masyarakat secara luas. Walau demikian, terdapat beberapa kendala untuk mewujudkan keterbukaan ini.
