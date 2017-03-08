@@ -13,6 +13,7 @@ tags:
 - Creative Commons Indonesia
 author: hilman
 comments: true
+img: "/uploads/dibalik-tjahaja-gemerlapan-1966.jpg"
 ---
 
 Halo sobat CCID!
