@@ -10,6 +10,7 @@ tags:
 - Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Lisensi Creative Commons tidak memungkinkan pemberi lisensi untuk mengontrol bagaimana ciptaan mereka seharusnya digunakan kecuali dibatasi oleh persyaratan lisensi yang mereka pilih (yaitu, NonKomersial, TanpaTurunan, dan BerbagiSerupa (jika modifikasi diizinkan)). Selama penerima lisensi mematuhi kondisi lisensi yang dipilih, pemberi lisensi tidak dapat mengontrol bagaimana ciptaan digunakan.
