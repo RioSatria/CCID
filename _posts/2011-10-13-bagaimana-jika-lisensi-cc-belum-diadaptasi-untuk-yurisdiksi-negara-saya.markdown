@@ -9,6 +9,7 @@ tags:
 - Yurisdiksi Lisensi Creative Commons
 author: nita
 comments: true
+img: "/assets/img/favicon.png"
 ---
 
 Semua lisensi CC ditujukan untuk dapat diterapkan di seluruh dunia. Jika lisensi CC belum diadaptasi ke dalam yurisdiksi Anda atau jika lisensi adaptasi pada yurisdiksi Anda belum mengguna versi 3.0, kami menyarankan Anda untuk menggunakan lisensi internasional.
