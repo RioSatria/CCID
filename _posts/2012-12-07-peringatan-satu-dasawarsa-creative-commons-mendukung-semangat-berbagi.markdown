@@ -11,6 +11,7 @@ tags:
 - Acara
 author: ccid
 comments: true
+img: "/uploads/cc10-Jakarta.jpg"
 ---
 
 ![cc10-Jakarta.jpg](/uploads/cc10-Jakarta.jpg){: .img-responsive .center-block }
