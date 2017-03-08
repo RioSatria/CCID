@@ -11,6 +11,7 @@ tags:
 - Lisensi Creative Commons
 author: chris
 comments: true
+img: "/uploads/Raden_Saleh_-_Diponegoro_arrest.jpg"
 ---
 
 Zaman sekarang sudah banyak gambar dan video yang terlepas begitu saja di Internet, tanpa kita mengetahui dari mana asal usulnya dan apakah kita bisa menggunakan gambar atau video tersebut secara bebas. Karena itu, cukup banyak foto digunakan secara asal-asalan, tanpa memperhatikan hak ciptanya.
