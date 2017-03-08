@@ -14,6 +14,7 @@ tags:
 - Jakarta
 author: ccid
 comments: true
+img: "/uploads/DSC_0150.JPG"
 ---
 
 ![DSC_0150.JPG](/uploads/DSC_0150.JPG){: .img-responsive .center-block }
