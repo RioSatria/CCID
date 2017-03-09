@@ -2,7 +2,6 @@
 title: Zoo akan melakukan tur keliling Eropa!
 date: 2017-03-08 19:47:00 +07:00
 categories:
-- Berita
 - Sobat CCID
 tags:
 - Zoo
