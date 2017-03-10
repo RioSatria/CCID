@@ -14,7 +14,7 @@ author: ccid
 img: "/uploads/53770-spring-in-the-korean-peninsula-0-230-0-345-crop.jpg"
 ---
 
-![53770-spring-in-the-korean-peninsula-0-230-0-345-crop.jpg](/uploads/53770-spring-in-the-korean-peninsula-0-230-0-345-crop.jpg){: .img-responsive .center-block }<center><small><i><a href="https://letterboxd.com/film/spring-in-the-korean-peninsula/">Sumber Gambar</a></i></small></center>https://letterboxd.com/film/spring-in-the-korean-peninsula/
+![53770-spring-in-the-korean-peninsula-0-230-0-345-crop.jpg](/uploads/53770-spring-in-the-korean-peninsula-0-230-0-345-crop.jpg){: .img-responsive .center-block }<center><small><i><a href="https://letterboxd.com/film/spring-in-the-korean-peninsula/">Sumber Gambar</a></i></small></center>
 
 Anda menikmati sinema-sinema seperti [3 Iron](https://en.wikipedia.org/wiki/3-Iron) atau [Old Boy](https://en.wikipedia.org/wiki/Oldboy_(2003_film))? Ingin menelusuri lebih jauh sejarah sinema Korea Selatan?
 
@@ -26,10 +26,10 @@ Jadi, film-film Korea Selatan dari tahun 1947 hingga sebelumnya sudah memasuki a
 
 Ini beberapa judul film Korea Selatan yang sudah habis masa berlaku hak ciptanya:
 
-[Spring of Korean Peninsula (1941)](https://youtu.be/T0MiZnCvb7s)
-[Sweet Dream (1936)](https://youtu.be/tmd_OBPFll8)
-[Fisherman's Fire Korea (1939)](https://www.youtube.com/watch?v=HgEI2T3wsbo)
-[Hurrah for Freedom (1946)](https://youtu.be/l2uu9hJsjSk) 
+* [Spring of Korean Peninsula (1941)](https://youtu.be/T0MiZnCvb7s)
+* [Sweet Dream (1936)](https://youtu.be/tmd_OBPFll8)
+* [Fisherman's Fire Korea (1939)](https://www.youtube.com/watch?v=HgEI2T3wsbo)
+* [Hurrah for Freedom (1946)](https://youtu.be/l2uu9hJsjSk) 
 
 Sumber:
 [Watch 125 Korean Feature Films Free Online, Thanks to the Korean Film Archive](http://www.openculture.com/2012/12/a_wealth_of_20th-century_korean_cinema_free_online_from_the_korean_film_archive.html)
