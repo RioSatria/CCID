@@ -11,7 +11,7 @@ tags:
 - Lisensi Creative Commons
 author: ccid
 'true': comments
-img: "/uploads/by-sa-aa61b0.png"
+img: "/uploads/1280px-ESA_LOGO.svg.png"
 ---
 
 ![1280px-ESA_LOGO.svg.png](/uploads/1280px-ESA_LOGO.svg.png){: .img-responsive .center-block }{: width="500"}
