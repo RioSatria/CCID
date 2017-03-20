@@ -51,4 +51,4 @@ Data lain menunjukan komposisi pengguna internet berdasarkan usia pengguna di In
 Banyaknya jumlah pengguna internet yang memanfaatkan telepon pintar di Indonesia, sebanyak 63,1 juta (47,6%), juga dapat menjadi salah satu pertimbangan untuk menyediakan Sumber Pembelajaran Terbuka yang ramah seluler.
 
 
-Artikel ini merupakan hasil terjemahan yang telah dimodifikasi dari artikel berjudul "[Are textbooks in or out? The state of open educational resources](https://opensource.com/article/17/2/future-textbooks-cable-green-creative-commons)" oleh [Don Watkins](https://opensource.com/users/don-watkins) | [opensource.com](https://opensource.com/) | [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/)
+Artikel ini merupakan hasil terjemahan yang telah dimodifikasi dari artikel berjudul "[Are textbooks in or out? The state of open educational resources](https://opensource.com/article/17/2/future-textbooks-cable-green-creative-commons)" oleh [Don Watkins](https://opensource.com/users/don-watkins), [opensource.com](https://opensource.com/), [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/)
