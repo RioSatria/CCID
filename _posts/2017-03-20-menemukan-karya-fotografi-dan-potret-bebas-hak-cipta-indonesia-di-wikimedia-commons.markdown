@@ -14,7 +14,7 @@ tags:
 - Wikimedia Commons
 author: ccid
 comments: true
-img: "/uploads/pd.jpg"
+img: "/uploads/512px-Batak_Warriors_60011135_edit.jpg"
 ---
 
 ![512px-Batak_Warriors_60011135_edit.jpg](/uploads/512px-Batak_Warriors_60011135_edit.jpg){: .img-responsive .center-block }<center><small><i><a href="https://commons.wikimedia.org/wiki/File:Batak_Warriors_60011135_edit.jpg">Batak Wariors</a>, <a href="https://en.wikipedia.org/wiki/Kristen_Feilberg">Kristen Feilberg</a>, <a href="http://collectie.wereldculturen.nl/default.aspx?idx=ALL&field=*&search=60011135">Koleksi Museum Nasional Wereldculturen</a>, <a href="https://en.wikipedia.org/wiki/public_domain">Bebas Hak Cipta</a></i></small></center>{: width="500"}
