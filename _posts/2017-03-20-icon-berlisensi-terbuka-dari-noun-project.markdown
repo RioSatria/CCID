@@ -10,7 +10,7 @@ tags:
 - Desain Grafis
 - Lisensi Creative Commons
 author: ccid
-'true': comments
+comments: true
 img: "/uploads/noun-project.png"
 ---
 
