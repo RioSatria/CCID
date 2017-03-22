@@ -13,11 +13,11 @@ tags:
 - Indonesia
 - Wikimedia Commons
 author: ccid
-'true': comments
+comments: true
 img: "/uploads/pd.jpg"
 ---
 
-![Ermina Zaenah dengan radio.png](/uploads/Ermina Zaenah dengan radio.png){: .img-responsive .center-block }{: width="800"}
+![Ermina Zaenah dengan radio.png](/uploads/Ermina Zaenah dengan radio.png){: .img-responsive .center-block }{: width="500"}
 
 Nama [Crisco 1492](https://commons.wikimedia.org/wiki/User:Crisco_1492) banyak disebut dalam artikel kami yang membahas tentang konten-konten bebas hak cipta di Indonesia. Nama ini juga kerap tercantum pada kontribusi berkas-berkas gambar atau karya fotografi bebas hak cipta pada atribusi ciptaan dan karya. 
 
