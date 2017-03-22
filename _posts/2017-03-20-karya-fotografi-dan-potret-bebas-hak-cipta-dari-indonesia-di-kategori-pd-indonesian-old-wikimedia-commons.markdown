@@ -17,6 +17,8 @@ author: ccid
 img: "/uploads/pd.jpg"
 ---
 
+![Screen%20Shot%202017-03-22%20at%2010.47.37.png](/uploads/uploads/Screen%20Shot%202017-03-22%20at%2010.47.37.png){: .img-responsive .center-block }{: width="800"}
+
 Nama [Crisco 1492](https://commons.wikimedia.org/wiki/User:Crisco_1492) banyak disebut dalam artikel kami yang membahas tentang konten-konten bebas hak cipta di Indonesia. Nama ini juga kerap tercantum pada kontribusi berkas-berkas gambar atau karya fotografi bebas hak cipta pada atribusi ciptaan dan karya. 
 
 Crisco 1492 atau **Chris Woodrich** adalah seorang Wikipediawan Bahasa Inggris dan peneliti dengan ketertarikan pada sejarah. Kombinasi ini membuat Chris gemar mengumpulkan foto, gambar, atau buku-buku tua yang berasal dari Indonesia, dimana ia menetap sekarang. 
