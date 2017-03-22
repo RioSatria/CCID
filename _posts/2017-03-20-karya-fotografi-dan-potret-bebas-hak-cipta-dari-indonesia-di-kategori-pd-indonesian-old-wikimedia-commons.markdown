@@ -23,9 +23,9 @@ Nama [Crisco 1492](https://commons.wikimedia.org/wiki/User:Crisco_1492) banyak d
 
 Crisco 1492 atau **Chris Woodrich** adalah seorang Wikipediawan Bahasa Inggris dan peneliti dengan ketertarikan pada sejarah. Kombinasi ini membuat Chris gemar mengumpulkan foto, gambar, atau buku-buku tua yang berasal dari Indonesia, dimana ia menetap sekarang. 
 
-Apa yang membedakan Chris dengan kolektor benda tua lainnya? Chris berbeda, karena kepeduliannya mengenai status hak cipta koleksinya, dan bagaiman karya tersebut dapat dimanfaatkan kembali oleh orang lain. 
+Apa yang membedakan Chris dengan kolektor benda tua lainnya? Chris berbeda, karena kepeduliannya mengenai status hak cipta koleksinya, dan bagaimana karya tersebut dapat dimanfaatkan kembali oleh orang lain. 
 
-Pengetahuannya terkait hak cipta, internet, dan masa berlaku hak cipta suatu karya, menjadi suatu keuntungan tersendiri bagi publik karena seorang Chris dapat memilah ciptaan mana yang masih berlaku hak ciptanya dan tidak mengunggahnya, dan mana yang tidak. 
+Pengetahuannya terkait hak cipta, internet, dan masa berlaku hak cipta suatu karya, menjadi suatu keuntungan tersendiri bagi publik karena seorang Chris dapat memilah ciptaan mana yang masih berlaku hak ciptanya dan tidak mengunggahnya, dan mana yang sudah bebas hak cipta serta mengunggahnya dengan kualitas baik agar dapat dimanfaatkan oleh orang lain.  
 
 Dengan mengetahui status habis hak cipta dari karya yang ia koleksi, ia kemudian menyusun koleksi-koleksinya tersebut secara daring di kategori [PD Indonesia Old Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:PD_Indonesia_Old).
 
