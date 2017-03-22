@@ -19,13 +19,13 @@ img: "/uploads/512px-Batak_Warriors_60011135_edit.jpg"
 
 ![512px-Batak_Warriors_60011135_edit.jpg](/uploads/512px-Batak_Warriors_60011135_edit.jpg){: .img-responsive .center-block }<center><small><i><a href="https://commons.wikimedia.org/wiki/File:Batak_Warriors_60011135_edit.jpg">Batak Wariors</a>, <a href="https://en.wikipedia.org/wiki/Kristen_Feilberg">Kristen Feilberg</a>, <a href="http://collectie.wereldculturen.nl/default.aspx?idx=ALL&field=*&search=60011135">Koleksi Museum Nasional Wereldculturen</a>, <a href="https://en.wikipedia.org/wiki/public_domain">Bebas Hak Cipta</a></i></small></center>{: width="500"}
 
-Anda sudah baca [artikel kami tentang Wikimedia Commons](http://creativecommons.or.id/2016/10/kenapa-mengunggah-karya-ke-wikimedia-commons/)?
+**Anda sudah baca [artikel kami tentang Wikimedia Commons](http://creativecommons.or.id/2016/10/kenapa-mengunggah-karya-ke-wikimedia-commons/)?**
 
-Sudah lihat juga berkas-berkas gambar dari Wikimedia Commons yang kami sisipkan di [artikel kami](http://creativecommons.or.id/2016/07/habis-belum-mencari-tahu-karya-yang-telah-bebas-hak-cipta/)?
+**Sudah lihat juga berkas-berkas gambar dari Wikimedia Commons yang kami sisipkan di [artikel kami](http://creativecommons.or.id/2016/07/habis-belum-mencari-tahu-karya-yang-telah-bebas-hak-cipta/)?**
 
-Ingin tahu di mana tempat berkas-berkas gambar itu dikumpulkan di [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)?
+**Ingin tahu di mana tempat berkas-berkas gambar itu dikumpulkan di [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)?**
 
-Wikimedia Commons menyediakan alat pengkategorisasian yang memungkinkan seseorang untuk mengumpulkan berkas media yang diunggahnya di satu tempat, coba lihat kategori [materi komunikasi Creative Commons Indonesia di tautan ini](https://commons.wikimedia.org/wiki/Category:Materi_Komunikasi_Creative_Commons_Indonesia) sebagai contoh. 
+**Wikimedia Commons** menyediakan alat pengkategorisasian yang memungkinkan seseorang untuk mengumpulkan berkas media yang diunggahnya di satu tempat, coba lihat kategori [materi komunikasi Creative Commons Indonesia di tautan ini](https://commons.wikimedia.org/wiki/Category:Materi_Komunikasi_Creative_Commons_Indonesia) sebagai contoh. 
 
 Cara ini amat bermanfaat bagi pihak-pihak yang mengunggah berkas-berkas media secara massal di Wikimedia Commons. Mereka dapat menempatkan ribuan berkas yang mereka unggah di satu tempat untuk memudahkan pengguna dalam menemukan berkas yang mereka butuhkan.
 
@@ -35,9 +35,9 @@ Mari lihat aktivitas pengarsipan yang dilakukan oleh [Tropenmuseum](https://trop
 
 Tropenmuseum menyimpan berkas-berkas gambar mereka ke dalam kategori spesifik seperti "[Images from Tropenmuseum](https://commons.wikimedia.org/wiki/Category:Images_from_the_Tropenmuseum)" ini. Di dalam kategori tersebut kemudian Anda dapat menemukan beberapa kategori yang lebih spesifik seperti [Indonesia/Tropenmuseum](https://commons.wikimedia.org/wiki/Indonesia/Tropenmuseum) dengan konten berkas-berkas media berupa karya fotografi bebas hak cipta tentang Indonesia. Pengguna Wikimedia Commons lainnya juga dapat membuat kategori yang lebih spesifik lagi untuk beberapa gambar. Contoh kategori-kategori yang dimaksud adalah seperti kategori [Prajurit di Indonesia](https://commons.wikimedia.org/wiki/Category:Warriors_of_Indonesia), [Busana Pria di Indonesia](https://commons.wikimedia.org/wiki/Category:Male_clothing_of_Indonesia), [Indonesia di abad 19](https://commons.wikimedia.org/wiki/Category:Indonesia_in_the_19th_century), atau [foto hitam putih dari Indoensia](https://commons.wikimedia.org/wiki/Category:Black_and_white_photographs_of_Indonesia). 
 
-Pengunggah personal seperti Chris Woodrich (Crisco 1492) pun juga memanfaatkan cara ini. Ia menempatkan berkas-berkas pindaiannya yang telah bebas hak cipta ke kategori Hasil [Pindaian oleh Chris Woodrich (Scans by Chris Woodrich)](https://commons.wikimedia.org/wiki/Category:Scans_by_Chris_Woodrich).
+![512px-Chitra_Dewi,_c._1955.jpg](/uploads/512px-Chitra_Dewi,_c._1955.jpg){: .img-responsive .center-block }<center><small><i><a href="https://commons.wikimedia.org/wiki/File:Chitra_Dewi,_c._1955.jpg">Chitra Dewi</a>, Tati Stuios Jakarta, Hasil restorasi Chris Woodrich, <a href="https://en.wikipedia.org/wiki/public_domain">Bebas hak cipta</a></i></small></center>{: width="500"}
 
-![512px-Chitra_Dewi,_c._1955.jpg](/uploads/512px-Chitra_Dewi,_c._1955.jpg){: .img-responsive .center-block }<center><small><i><a href="https://commons.wikimedia.org/wiki/File:Chitra_Dewi,_c._1955.jpg">Chitra Dewi</a>, Tati Stuios Jakarta, Hasil restorasi Chris Woodrich, <a href="https://en.wikipedia.org/wiki/public_domain">Bebas hak cipta</a></i></small></center>
+Pengunggah personal seperti Chris Woodrich (Crisco 1492) pun juga memanfaatkan cara ini. Ia menempatkan berkas-berkas pindaiannya yang telah bebas hak cipta ke kategori Hasil [Pindaian oleh Chris Woodrich (Scans by Chris Woodrich)](https://commons.wikimedia.org/wiki/Category:Scans_by_Chris_Woodrich).
 
 Berkas-berkas tersebut kemudian biasanya akan diletakkan ke kategori yang lebih besar lagi oleh pengguna lain, seperti [PD Old Indonesia](https://commons.wikimedia.org/wiki/Category:PD_Indonesia_Old), yang menyediakan akses ke berkas-berkas hasil pindaian bebas hak cipta hasil kontribusi personal maupun institusional di Wikimedia Commons.
 
