@@ -10,7 +10,7 @@ tags:
 - Public Domain
 - Hak Cipta
 author: ccid
-'true': comments
+comments: true
 img: "/uploads/53770-spring-in-the-korean-peninsula-0-230-0-345-crop.jpg"
 ---
 
