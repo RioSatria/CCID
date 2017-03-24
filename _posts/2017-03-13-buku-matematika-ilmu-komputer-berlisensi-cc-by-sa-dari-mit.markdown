@@ -12,7 +12,7 @@ tags:
 - Matematika
 - Lisensi Creative Commons
 author: ccid
-'true': comments
+comments: true
 img: "/uploads/MIT.jpg"
 ---
 
