@@ -10,7 +10,7 @@ tags:
 - Infografis
 - Media
 author: ccid
-'true': comments
+comments: true
 img: "/uploads/tentang.png"
 ---
 
