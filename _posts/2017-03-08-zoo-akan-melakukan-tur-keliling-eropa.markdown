@@ -12,7 +12,7 @@ tags:
 - Lisensi Creative Commons
 - CC BY-NC-SA
 author: hilman
-'true': comments
+comments: true
 img: "/uploads/17022101_762857790538705_9049887835979853950_n.jpg"
 ---
 
