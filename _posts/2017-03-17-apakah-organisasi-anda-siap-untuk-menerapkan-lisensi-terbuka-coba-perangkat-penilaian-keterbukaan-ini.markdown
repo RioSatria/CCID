@@ -11,7 +11,7 @@ tags:
 - Creative Commons
 - Organisasi
 author: ccid
-'true': comments
+comments: true
 img: "/assets/img/favicon.png"
 ---
 
