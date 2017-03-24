@@ -14,7 +14,7 @@ tags:
 - Lisensi Creative Commons
 - Musik Elektronik
 author: hilman
-'true': comments
+comments: true
 img: "/uploads/2655755079_2ecc82821c_o.jpg"
 ---
 
