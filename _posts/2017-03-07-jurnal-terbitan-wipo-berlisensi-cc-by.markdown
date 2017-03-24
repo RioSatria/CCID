@@ -12,7 +12,7 @@ tags:
 - Hak Cipta
 - Lisensi Creative Commons
 author: hilman
-'true': comments
+comments: true
 img: "/uploads/wipo-logobla.jpg"
 ---
 
