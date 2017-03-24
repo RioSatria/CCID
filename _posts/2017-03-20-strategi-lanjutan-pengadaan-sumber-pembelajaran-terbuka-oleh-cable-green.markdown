@@ -13,7 +13,7 @@ tags:
 - Lisensi Creative Commons
 - Pendidikan
 author: hilman
-'true': comments
+comments: true
 img: "/uploads/oer_logo_EN_2_RGB.jpg"
 ---
 
