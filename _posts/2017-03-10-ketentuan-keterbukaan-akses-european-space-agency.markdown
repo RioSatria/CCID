@@ -10,7 +10,7 @@ tags:
 - IGO
 - Lisensi Creative Commons
 author: ccid
-'true': comments
+comments: true
 img: "/uploads/1280px-ESA_LOGO.svg.png"
 ---
 
