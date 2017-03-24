@@ -10,7 +10,7 @@ tags:
 - Sumber Terbuka
 - Permainan
 author: ccid
-'true': comments
+comments: true
 img: "/uploads/512px-160409_Spielesammlung_06.jpg"
 ---
 
