@@ -24,7 +24,7 @@ Ketentuan ini terdapat di Pasal 43-Pasal 51 Undang-Undang No. 28 Tahun 2014 Tent
 **Materi Komunikasi**
 
 ![fair-use-myths-and-facts-infographic-feb2017-11b12zd.jpg](/uploads/fair-use-myths-and-facts-infographic-feb2017-11b12zd.jpg){: .img-responsive .center-block }{: width="500"}
-![fair-use-myths-and-facts-infographic-feb2017-2-1jfozus.jpg](/uploads/fair-use-myths-and-facts-infographic-feb2017-2-1jfozus.jpg){: .img-responsive .center-block }<center><small><i>Infografis tentang Fakta, dan Mitos dari Fair Use oleh ARL. CC BY.</i></small></center>{: width="500"}
+![fair-use-myths-and-facts-infographic-feb2017-2-1jfozus.jpg](/uploads/fair-use-myths-and-facts-infographic-feb2017-2-1jfozus.jpg){: .img-responsive .center-block }{: width="500"}<center><small><i>Infografis tentang Fakta, dan Mitos dari Fair Use oleh <a href="http://fairuseweek.org/wp-content/uploads/2017/02/fair-use-myths-and-facts-infographic-feb2017.pdf">ARL</a>. <a href="https://creativecommons.org/licenses/by/4.0/deed.id">CC BY</a>.</i></small></center>
 
 [Adaptasi inforgafis ARL oleh Universitas Waterloo](http://lgdata.s3-website-us-east-1.amazonaws.com/docs/803/1558747/fair-dealing-myths-and-facts-infographic-feb2017.pdf).
 
