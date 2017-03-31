@@ -13,7 +13,7 @@ tags:
 - Peraturan
 author: ccid
 comments: true
-img: "/assets/img/favicon.png"
+img: "/uploads/justice-914230.png"
 featured: true
 ---
 
