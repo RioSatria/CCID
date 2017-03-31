@@ -12,6 +12,7 @@ tags:
 author: ccid
 comments: true
 img: "/uploads/noun-project.png"
+featured: true
 ---
 
 ![noun-project.png](/uploads/noun-project.png){: .img-responsive .center-block }
