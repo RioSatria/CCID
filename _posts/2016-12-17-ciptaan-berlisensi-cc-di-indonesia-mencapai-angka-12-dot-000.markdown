@@ -13,6 +13,7 @@ tags:
 author: hilman
 comments: true
 img: "/uploads/15578396_1168348229909337_885894897223667685_n.jpg"
+featured: true
 ---
 
 Dalam suasana pertambahan usia Creative Commons, kami hendak mengumumkan bahwa jumlah ciptaan berlisensi CC di Indonesia telah mencapai angka 12.000!!!
