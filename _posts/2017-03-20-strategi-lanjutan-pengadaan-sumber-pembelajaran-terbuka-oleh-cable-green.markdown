@@ -17,7 +17,7 @@ comments: true
 img: "/uploads/OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.jpg"
 ---
 
-![OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.jpg](/uploads/OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.jpg){: .img-responsive .center-block }<center><small><i><a href="https://commons.wikimedia.org/wiki/File:OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.svg">Lambang OER versi bahasa Indonesia</a> oleh <a href="https://commons.wikimedia.org/wiki/User:IvanLanin>Ivan Lanin</a>, <a href="https://creativecommons.org/licenses/by/3.0/deed.en>CC BY</a></i></small></center>
+![OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.jpg](/uploads/OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.jpg){: .img-responsive .center-block }<center><small><i><a href="https://commons.wikimedia.org/wiki/File:OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.svg">Lambang OER versi bahasa Indonesia</a> oleh <a href="https://commons.wikimedia.org/wiki/User:IvanLanin">Ivan Lanin</a>, <a href="https://creativecommons.org/licenses/by/3.0/deed.en">CC BY</a></i></small></center>
 
 Pendidikan Terbuka menjadi salah satu solusi yang baik di ranah pendidikan tingkat dasar hingga menengah maupun pendidikan tinggi (*daring maupun luring*.red) untuk membuat biaya pendidikan menjadi lebih terjangkau. Pengeluaran untuk membeli buku pelajaran merupakan salah satu beban finansial yang dirasakan oleh pelajar di seluruh dunia. 
 
