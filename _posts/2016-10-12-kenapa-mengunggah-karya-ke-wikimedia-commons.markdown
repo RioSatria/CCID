@@ -13,7 +13,7 @@ tags:
 - Lisensi Creative Commons
 author: hilman
 comments: true
-img: "/assets/img/favicon.png"
+img: "/uploads/608px-Commons-logo-en.svg.png"
 featured: true
 ---
 
