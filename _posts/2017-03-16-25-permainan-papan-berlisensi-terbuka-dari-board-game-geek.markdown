@@ -12,7 +12,6 @@ tags:
 author: ccid
 comments: true
 img: "/uploads/512px-160409_Spielesammlung_06.jpg"
-featured: true
 ---
 
 ![512px-160409_Spielesammlung_06.jpg](/uploads/512px-160409_Spielesammlung_06.jpg){: .img-responsive .center-block }<center><small><i>Macam-macam *board game* olej Achim Raska. <a href="https://commons.wikimedia.org/wiki/File:160409_Spielesammlung_06.jpg">Sumber gambar</a>. <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.id">CC BY-SA.</a></i></small></center>
