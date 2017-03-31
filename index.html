@@ -24,8 +24,7 @@ layout: default
 				</div>
 				<div class="row">
 				{% for post in site.posts limit:10 %}
-				{% assign loopindex = forloop.index | modulo: 2 %}
-					<div class="col-md-6">
+					<div class="col-md-12">
 						<div class="row">
 							<div class="col-md-4">
 								<img src="{{ post.img }}" class="img-responsive center-block" style="max-height:160px">
@@ -38,9 +37,6 @@ layout: default
 						</div>
 						<hr>
 					</div>
-				{% if loopindex == 0 %}
-					<div class="clearfix visible-md visible-lg visible-sm"></div>
-				{% endif %}
 				{% endfor %}
 				</div>
 			</div>
