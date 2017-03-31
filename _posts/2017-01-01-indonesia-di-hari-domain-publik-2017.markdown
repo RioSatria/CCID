@@ -15,6 +15,7 @@ tags:
 author: hilman
 comments: true
 img: "/uploads/Cornel_simanjuntak.jpg"
+featured: true
 ---
 
 Halo sobat CCID!
