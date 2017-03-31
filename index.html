@@ -50,7 +50,7 @@ layout: default
 				
 				{% for post in site.posts %}
 				{% if post.featured %}
-				<div class="card">
+				<div class="card" style="margin-bottom: 15px;">
 					<div class="card-image">
 						<img src="{{ post.img }}" class="img-responsive center-block">
 					</div>
@@ -58,7 +58,6 @@ layout: default
 						<a href="{{ post.url | prepend: site.baseurl }}"><h4>{{ post.title }}</h4></a>
 					</div>
 				</div>
-				<br/>
 				{% endif %}
 				{% endfor %}
 				<hr>
