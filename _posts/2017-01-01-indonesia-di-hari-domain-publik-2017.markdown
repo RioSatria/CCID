@@ -14,7 +14,7 @@ tags:
 - Musik
 author: hilman
 comments: true
-img: "/uploads/Cornel_simanjuntak.jpg"
+img: "/uploads/copyright-free-31208.png"
 featured: true
 ---
 
