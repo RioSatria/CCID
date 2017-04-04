@@ -37,6 +37,4 @@ Maka dari itu OWID menerapkan ketentuan-ketentuan yang sangat berpihak pada keba
 * Semua visualisasi data yang dipublikasikan menerapkan lisensi CC BY
 * Dan, semua alat yang digunakan untuk menciptakan visualisasi data OWID juga dapat digunakan oleh semua oranng tanpa pembatasan (Dapat diakses di [GiTHub](https://github.com/OurWorldInData))
 
-![life-expectancy.png](/uploads/life-expectancy.png){: .img-responsive .center-block }<center><small><i>Data terkait angka harapan hidup dari OWID</i></small></center>{: width="500"}
-
 Segera telusuri kumpulan data di situs [OWID](https://ourworldindata.org/)!
