@@ -1,5 +1,5 @@
 ---
-title: Sajian Data Global Berlisensi CC BY oleh ourworldindata.org
+title: Sajian Data Global Berlisensi Terbuka oleh ourworldindata.org
 date: 2017-04-03 19:03:00 +07:00
 categories:
 - Berita
@@ -34,7 +34,9 @@ Maka dari itu OWID menerapkan ketentuan-ketentuan yang sangat berpihak pada keba
 
 * Semua publikasi data OWID dapat diakses gratis;
 * Semua data yang ada di situs ini dapat diunduh gratis;
-* Semua visualisasi data yang dipublikasikan menerapkan lisensi CC BY
+* Semua visualisasi data yang dipublikasikan menerapkan lisensi [CC BY](https://creativecommons.org/licenses/by/4.0/deed.id)
 * Dan, semua alat yang digunakan untuk menciptakan visualisasi data OWID juga dapat digunakan oleh semua oranng tanpa pembatasan (Dapat diakses di [GiTHub](https://github.com/OurWorldInData))
 
-Segera telusuri kumpulan data di situs [OWID](https://ourworldindata.org/)!
+![internet-users-by-world-region.png](/uploads/internet-users-by-world-region.png){: .img-responsive .center-block }<center><small><i>Visualisasi data tentang <a href="https://ourworldindata.org/internet/">pengguna internet berdasarkan belahan dunia</a> oleh OWID, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.id">CC BY-SA</a></i></small></center>{: width="800"}
+
+Segera telusuri kumpulan data di [laman ini](https://ourworldindata.org/entries/)!
