@@ -15,7 +15,7 @@ tags:
 author: hilman
 comments: true
 img: "/uploads/copyright-free-31208.png"
-featured: false
+featured: true
 ---
 
 Halo sobat CCID!
