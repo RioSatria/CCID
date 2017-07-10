@@ -1,6 +1,6 @@
 ---
 title: Lokakarya Wikimedia Commons di Mozilla Community Space
-date: 2017-07-04 13:22:00 +07:00
+date: 2017-07-10 13:22:00 +07:00
 categories:
 - Acara
 tags:
