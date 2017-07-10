@@ -1,7 +1,7 @@
 ---
 title: Sosialisasi Lisensi Creative Commons dan Wiki Cinta Alam Indonesia 2017 di
   Samarinda
-date: 2017-07-03 16:52:00 +07:00
+date: 2017-07-10 16:52:00 +07:00
 categories:
 - Acara
 tags:
