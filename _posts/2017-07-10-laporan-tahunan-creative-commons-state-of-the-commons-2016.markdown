@@ -1,6 +1,6 @@
 ---
 title: 'Laporan Tahunan Terbesar Creative Commons: State of The Commons 2016'
-date: 2017-07-03 17:02:00 +07:00
+date: 2017-07-10 17:02:00 +07:00
 categories:
 - Berita
 tags:
