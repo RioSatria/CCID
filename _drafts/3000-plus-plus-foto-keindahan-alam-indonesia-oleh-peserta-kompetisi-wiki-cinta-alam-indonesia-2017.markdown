@@ -12,6 +12,9 @@ tags:
 - Wiki Loves Earth Indonesia
 - Wikimedia Commons
 - CC BY-SA
+author: ccid
+comments: true
+img: "/uploads/WCAI.png"
 ---
 
 ![WCAI.png](/uploads/WCAI.png){: .img-responsive .center-block }<center><small><i>Logo Wiki Cinta Alam Indonesia 2017</i></small></center>
@@ -24,17 +27,17 @@ Proses pengumpulan foto pada perlombaan WCAI 2017 telah ditutup pada tanggal 30 
 
 Berikut adalah contoh-contoh karya yang diunggah oleh para peserta kompetisi WCAI 2017:
 
-![A_foggy_morning.jpg](/uploads/A_foggy_morning.jpg)
+![A_foggy_morning.jpg](/uploads/A_foggy_morning.jpg){: .img-responsive .center-block }{: width="500"}<center><small><i><a href="https://commons.wikimedia.org/wiki/File:A_foggy_morning.jpg">A Foggy Morning</a> oleh Tuwuh/<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.id">CC BY-SA 4.0</a></i></small></center>
 
-![1280px-Kawanan_kerbau_di_tepi_muara,_Cikepuh,_Sukabumi,_07052016.jpg](/uploads/1280px-Kawanan_kerbau_di_tepi_muara,_Cikepuh,_Sukabumi,_07052016.jpg)
+![1280px-Kawanan_kerbau_di_tepi_muara,_Cikepuh,_Sukabumi,_07052016.jpg](/uploads/1280px-Kawanan_kerbau_di_tepi_muara,_Cikepuh,_Sukabumi,_07052016.jpg){: .img-responsive .center-block }{: width="500"}<center><small><i><a href="https://commons.wikimedia.org/wiki/File:Kawanan_kerbau_di_tepi_muara,_Cikepuh,_Sukabumi,_07052016.jpg">Kawanan kerbau di tepi muara, Cikepuh, Sukabumi</a> oleh Raffiakbar29/<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.id">CC BY-SA 4.0</a></i></small></center>
 
-![A_View_From_Mount_Bromo.jpg](/uploads/A_View_From_Mount_Bromo.jpg)
+![A_View_From_Mount_Bromo.jpg](/uploads/A_View_From_Mount_Bromo.jpg){: .img-responsive .center-block }{: width="500"}<center><small><i><a href="https://commons.wikimedia.org/wiki/File:A_View_From_Mount_Bromo.jpg">A View From Mount Bromo</a> oleh Cucunroslina/<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.id">CC BY-SA 4.0</a></i></small></center>
 
-![Kawanan_Rusa.jpg](/uploads/Kawanan_Rusa.jpg)
+![Kawanan_Rusa.jpg](/uploads/Kawanan_Rusa.jpg){: .img-responsive .center-block }{: width="500"}<center><small><i><a href="https://commons.wikimedia.org/wiki/File:Kawanan_Rusa.jpg">Kawanan Rusa</a> oleh <a href="https://commons.wikimedia.org/wiki/User:Candra_Firmansyah">Candra Firmansyah</a>/<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.id">CC BY-SA 4.0</a></i></small></center>
 
-![Gili_lawa.jpg](/uploads/Gili_lawa.jpg)
+![Gili_lawa.jpg](/uploads/Gili_lawa.jpg){: .img-responsive .center-block }{: width="500"}<center><small><i><a href="https://commons.wikimedia.org/wiki/File:Gili_lawa.jpg">Gili Lawa</a> oleh Firdan Nofriza Nasution/<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.id>CC BY-SA 4.0</a></i></small></center>
 
-![Kucing_Tangkap_Burung.jpg](/uploads/Kucing_Tangkap_Burung.jpg)
+![Kucing_Tangkap_Burung.jpg](/uploads/Kucing_Tangkap_Burung.jpg){: .img-responsive .center-block }{: width="500"}<center><small><i>Kucing Tangkap Burung oleh Falinka/CC BY-SA 4.0</i></small></center>
 
 Koleksi foto unggahan peserta kompetisi WCAI 2017 dapat Anda lihat di tautan berikut ini.
 
