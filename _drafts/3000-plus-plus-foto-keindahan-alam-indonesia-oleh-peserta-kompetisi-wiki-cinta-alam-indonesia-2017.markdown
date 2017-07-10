@@ -39,6 +39,6 @@ Berikut adalah contoh-contoh karya yang diunggah oleh para peserta kompetisi WCA
 
 ![Kucing_Tangkap_Burung.jpg](/uploads/Kucing_Tangkap_Burung.jpg){: .img-responsive .center-block }{: width="500"}<center><small><i>Kucing Tangkap Burung oleh Falinka/CC BY-SA 4.0</i></small></center>
 
-Koleksi foto unggahan peserta kompetisi WCAI 2017 dapat Anda lihat di tautan berikut ini.
+Koleksi foto unggahan peserta kompetisi WCAI 2017 dapat Anda lihat [di tautan berikut ini](https://commons.wikimedia.org/wiki/Category:Images_from_Wiki_Loves_Earth_2017_in_Indonesia).
 
 Bebaskan pengetahuan!
