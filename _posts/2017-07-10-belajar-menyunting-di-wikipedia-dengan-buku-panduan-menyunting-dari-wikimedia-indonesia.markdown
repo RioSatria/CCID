@@ -15,7 +15,7 @@ comments: true
 img: "/uploads/Modul_Pelatihan_1_-_Berkontribusi_di_Wikipedia_Bahasa_Indonesia.pdf.jpg"
 ---
 
-![Modul_Pelatihan_1_-_Berkontribusi_di_Wikipedia_Bahasa_Indonesia.pdf.jpg](/uploads/Modul_Pelatihan_1_-_Berkontribusi_di_Wikipedia_Bahasa_Indonesia.pdf.jpg){: .img-responsive .center-block }<center><small><i>Sampul Buku "Modul Pelatihan 1 - Berkontribusi di Wikipedia Bahasa Indonesia"</i></small></center>
+![Modul_Pelatihan_1_-_Berkontribusi_di_Wikipedia_Bahasa_Indonesia.pdf.jpg](/uploads/Modul_Pelatihan_1_-_Berkontribusi_di_Wikipedia_Bahasa_Indonesia.pdf.jpg){: .img-responsive .center-block }{: width="500"}<center><small><i>Sampul Buku "Modul Pelatihan 1 - Berkontribusi di Wikipedia Bahasa Indonesia"</i></small></center>
 
 [Wikipedia](https://www.wikipedia.org/) merupakan ensiklopedia bebas yang dapat disunting oleh siapapun. Sebagai kontributor, Wikipedia menyediakan dua model penyuntingan yakni model penyuntingan manual dan penyuntingan dengan [visual editor](https://en.wikipedia.org/wiki/Wikipedia:VisualEditor). Model penyuntingan manual merupakan model yang banyak digunakan sebelum teknologi visual editor dibuat. Dalam melakukan penyuntingan manual, kontributor harus terlebih dahulu memahami fungsi-fungsi sintaksis wiki yang bernama Wikiteks.   
 
