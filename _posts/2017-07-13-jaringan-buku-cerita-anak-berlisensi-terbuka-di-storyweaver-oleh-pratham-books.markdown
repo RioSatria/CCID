@@ -50,7 +50,8 @@ StoryWeaver memungkinkan Anda untuk menyumbangkan cerita karangan Anda sendiri k
 
 * **[Translate](https://storyweaver.org.in/translate)**
 
-<div class="<iframe width="560" height="315" src="https://www.youtube.com/embed/yyVvz7sM8b8" frameborder="0" allowfullscreen></iframe>"></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/yyVvz7sM8b8" frameborder="0" allowfullscreen></iframe></div>
+
 
 Fungsi penerjemahan yang dilengkapi dengan lisensi terbuka di StoryWeaver memungkinkan Anda untuk menerjemahkan seluruh cerita anak-anak di situs ini ke bahasa yang Anda inginkan tanpa memerlukan izin langsung dari pembuat cerita atau penerjemah sebelumnya. Anda tinggal memilih cerita yang Anda inginkan, mengklik pilihan "translate", dan mulai menerjemahkan sambil melihat sumber bahasa yang akan Anda terjemahkan pada kolom penerjemahan. Selain itu, apabila Anda ingin menurunkan tingkat kesulitan bacaan tertentu, Anda dapat menyunting cerita tersebut, dan membuat kontennya jadi lebih mudah dibaca oleh pembaca di tingkat yang lebih rendah. 
 
