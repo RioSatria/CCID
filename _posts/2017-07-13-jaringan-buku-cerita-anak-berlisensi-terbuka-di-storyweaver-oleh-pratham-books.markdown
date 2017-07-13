@@ -28,7 +28,7 @@ Sekitar 50% anak-anak di India tidak memiliki akses ke bahan bacaan yang sesuai 
 
 Dalam kurun waktu 10 tahun, Pratham Books telah menerbitkan 300 judul buku dengan menggunakan 18 bahasa asli India sebagai pengantar. Tema dari buku-buku yang diterbitkan juga begiut beragam mulai dari buku untuk pembaca pemula, fiksi, nonfiksi, hingga buku cerita dengan topik ilmu pengetahuan alam, sejarah, dan matemika. Mereka telah bekerja sama dengan banyak sekali penulis dan ilustrator dari berbagai negara. Buku-buku yang mereka terbitkan juga telah memenangkan beberapa penghargaan.
 
-<div class="<iframe width="560" height="315" src="https://www.youtube.com/embed/Cc8ZIvDluh8" frameborder="0" allowfullscreen></iframe>"></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/Cc8ZIvDluh8" frameborder="0" allowfullscreen></iframe></div>
 
 StoryWeaver merupakan situs web yang dinisiasi oleh Pratham Books. Situs web ini berusaha untuk menemukan cara baru dalam menyediakan kebutuhan memabaca bagi anak-anak. Seluruh cerita anak-anak di situs ini berlisensi Creative Commons, yang artinya cerita-cerita tersebut dapat digunakan secara bebas, termasuk diterjemahkan kembali ke bahasa lain. Mereka juga menyediakan 2000 lebih ilustrasi berlisensi terbuka yang dapat dimanfaatkan bagi pengguna yang hendak menyumbangkan cerita anak-anak baru di situs ini. Target utama dari proyek ini adalah memberikan pemahaman pada anak-anak, pengajarm dan orang tua bahwa cerita anak-anak dan berbagai komponennya kini tidak lagi diterbikan di bawah rezim hak cipta yang kaku. StoryWeaver bermaksud untuk membuka pintu "perpustakaan" selebar dan sebebas mungkin untuk semua anak di seluruh dunia.
 
@@ -42,7 +42,7 @@ Ketika Anda berperan sebagai pembaca atau pengguna ciptaan, selain mengakses bac
 
 * **[Create](https://storyweaver.org.in/start)**
 
-<div class="<iframe width="560" height="315" src="https://www.youtube.com/embed/LDPyK_sOiv8" frameborder="0" allowfullscreen></iframe>"></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/LDPyK_sOiv8" frameborder="0" allowfullscreen></iframe></div>
 
 StoryWeaver memungkinkan Anda untuk menyumbangkan cerita karangan Anda sendiri ke situs ini. Seperti yang telah kami sebutkan, Anda dapat memanfaatkan 2000 lebih ilustrasi yang ada di situs ini untuk membangun cerita anak-anak yang hendak Anda sumbangkan. Namun, Anda dapat pula mengunggah ilustrasi buatan sendiri untuk membangun cerita tersebut. Selain itu, Anda dapat memanfaatkan templat buku cerita anak yang sudah ada, dan menambahkan unsur teks saja untuk menyelesaikan cerita tersebut. Seluruh cerita yang disumbangkan ke situs ini menerapkan lisensi terbuka Creative Commons Atribusi (CC BY) 4.0 yang memungkinkan penggandaan, penyebarluasan, penggubahan, dan penggunaan untuk kepentingan komersial, asal pengguna cerita tersebut tetap menyebutkan atribusi pencipta secara lengkap.
 
@@ -58,7 +58,6 @@ Sejauh ini terdapat [64 cerita anak-anak berbahasa Indonesia](https://storyweave
 
 ![sw-3.jpg](/uploads/sw-3.jpg){: .img-responsive .center-block }{: width="500"}<center><small><i>Salah satu cerita anak-anak hasil terjemahan Maharani Aulia yang berjudul "<a href="https://storyweaver.org.in/stories/8768-jas-hujan">Jas Hujan</a>".</i></small></center>
 
-* **Connect**
+* **[Connect](connect.storyweaver.org.in)**
 
 Laman "Connect" diadakan untuk menjalankan fungsi diskusi bagi pengguna dan kontributor situs StoryWeaver. Di laman ini Anda dapat membuat ruang pembicaraan sendiri untuk topik tertentu yang ingin Anda diskusikan. Anda pun dapat bergabung ke ruang pembicaraan yang sudah ada sebelumnya untuk mendiskusikan hal yang sesuai dengan tema ruang pembicaraan tersebut. Laman ini juga dapat Anda manfaatkan sebagai ruang bertanya jika ada fungsi dalam situs yang Anda tidak pahami.
-
