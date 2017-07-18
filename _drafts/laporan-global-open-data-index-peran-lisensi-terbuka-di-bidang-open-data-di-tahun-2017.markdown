@@ -96,3 +96,30 @@ Pengguna sebaiknya membandingkan teks "ketentuan penggunaan" dengan definisi yan
 
 Dalam beberapa kasus, pengguna situs tidak dapat menemukan "ketentuan penggunaan" maupun lisensi yang jelas di suatu situs penyajian data oleh lembaga pemerintahan. Tidak disediakannya ketentuan penggunaan secara jelas, menggiring pengguna untuk merujuk pada lambang (C) yang biasanya ada di bagian bawah situs web. Lambang pengganti pernyataan bahwa suatu obyek dilindungi hak cipta secara penuh ini, tidak selalu berlaku pada data atau konten yang disediakan suatu situs. Karena biasanya lambang ini hanya berlaku pada situs web yang digunakan sebagai kanal untuk menyajikan konten-konten terbuka, dalam hal ini oleh lembaga pemerintah.
 
+**10 rekomendasi untuk pihak penyedia data
+**
+
+Based on our finding we prepared 10 recommendations that policymakers and other government officials should take into account:
+
+Tim peneliti GODI dapat memberikan setidaknya 10 rekomendasi kepada pembuat kebijakan atau pejabat pemerintah berdasarkan temuan-temuan yang telah diutarakan di atas: 
+
+1. **Apakah data atau kumpulan data tersebut merupakan obyek perlindungan hak cipta?** Often government data does not fall under copyright protection and should not be presented as such. Biasanya data yang disediakan pemerintah bukan merupakan obyek perlindungan hak cipta dan seharusnya bukan. Pemerintah harus dapat memilah hal-hal mana yang termasuk sebagai obyek perlindungan hak cipta dan mana yang tidak.
+
+2. **Gunakan lisensi-lisensi terbuka yang telah menjadi standar.** Lisensi terbuka mudah dipahami dan sebaiknya dijadikan pilihan pertama. Open Definition menyediakan lisensi-lisensi terbuka yang tidak saling bertentangan satu sama lain.
+
+3. Dalam beberapa kasus, lembaga pemerintah memilih untuk menggunakan lisensi terbuka buatannya sendiri. Lisensi ini seharusnya mengandung **ketentuan yang membebaskan** dan **tidak bertentangan dengan ketentuan lisensi yang lain**. Untuk memastikan kesesuaiannya, pihak pembuat lisensi dapat meminta pemeriksaan dan persetujuan dari Open Definition.
+
+4. Dengan jelas menunjuk data apa saja yang dilindungi oleh lisensi yang diterapkan dan sediakan informasi tentang kapan data tersebut tersedia.
+
+
+5. Clearly, publish open licensing details next to the data. Sediakan teks lisensi yang diterapkan di laman yang sama dengan data yang disediakan. Lisensi tersebut harus nampak jelas dan dicantumkan pada berkas data yang dapat diunduh serta dapat dibaca manusia dan mesin. 
+
+6. Pastikan tautan terhadap lisensi yang dicantumkan pada data tidak mati, supaya pengguna dapat menmbaca ketentuan lisensi kapan saja.
+
+7. Tampilkan dengan jelas versi lisensi dan sediakan contoh bagaimana data yang tersedia digunakan.
+
+8. Jika memungkinkan, hindari penerapan ketentuan yang membatasi dan bertentangan dengan standar lisensi terbuka.
+
+9. Lakukan evaluasi pada desain situs web dan hindari pencantuman pemberitahuan hak cipta (C) yang membingungkan pada bagian bawah situs web serta "ketentuan penggunaan" yang tidak perlu.
+
+10. Jika data yang disediakan pemerintah adalah milik publik sejak awal, jelaskan apa arti hal tersebut bagi pengguna data.
