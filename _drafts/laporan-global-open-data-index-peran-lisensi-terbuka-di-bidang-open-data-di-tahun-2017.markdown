@@ -1,7 +1,25 @@
 ---
-title: 'Laporan Global Open Data Index: Peran Lisensi Terbuka di Bidang Open Data
-  di Tahun 2017'
+title: 'Laporan Global Open Data Index: Peran Lisensi Terbuka di Bidang Data Terbuka
+  pada Tahun 2017'
 date: 2017-07-18 15:12:00 +07:00
+categories:
+- Kajian
+tags:
+- Open Data
+- Open Government
+- Data Terbuka
+- Data Licensing
+- Pelisensian Data
+- Lisensi Data
+- Hak Cipta Data
+- CC BY
+- CC0
+- Lisensi Terbuka
+- Creative Commons
+- Lisensi Creative Commons
+author: hilman
+comments: true
+img: 
 ---
 
 Artikel ini merupakan terjemahan dari artikel berseri yang dipublikasikan oleh Global Open Data Index (GODI). Pertama-tama, artikel ini akan membahas apa itu lisensi terbuka dan apa kegunaannya dalam penyediaan data terbuka. Penulis artikel, Danny Lämmerhirt and Freyja van den Boom, kemudian memberikan 10 rekomendasi untuk diperhatikan oleh para pegiat data terbuka dalam memberikan advokasi dalam penyediaan data terbuka, khususnya terkait pelisensian data terbuka.
@@ -32,8 +50,18 @@ Di dalam konsep hak cipta, terdapat beberapa pengecualian dan pembatasan yang me
 
 Perlu disadari bahwa beberapa negara memberikan perlindungan hukum pada kumpulan data yang membatasi penggunaan atau pemanfaatan data-data dari kumpulan data tersebut. Oleh karena itu, kita perlu memerhatikan ketentuan perundang-undangan setiap negara terhadap kumpulan data.
 
-Karena terdapat data-data yang dibagikan dalam bentuk **laporan tertulis maupun gambar**, yang merupakan obyek perlindungan hak cipta, pelisensian data menjadi hal yang perlu diperhatikan. Pelisensian data yang jelas dapat membantu proses pemanfaatan data. Pengguna seketika dapat mengetahui apakah data yang akan digunakan itu menerapkan ketentuan hak cipta yang bersifat membatasi atau tidak. Lembaga pemerintahan sebaiknya secara jelas menjabarkan apakah data yang mereka sediakan bukan merupakan obyek perlindugan hak cipta atau menerapkan lisensi yang mengecualikan data tersebut dari perlindungan hak cipta yang normatif.
+Karena terdapat data-data yang dibagikan dalam bentuk **laporan tertulis maupun gambar**, yang merupakan obyek perlindungan hak cipta, pelisensian data menjadi hal yang perlu diperhatikan. Pelisensian data yang jelas dapat membantu proses pemanfaatan data. Pengguna seketika dapat mengetahui apakah data yang akan digunakan itu menerapkan ketentuan hak cipta yang bersifat membatasi atau tidak. Lembaga pemerintahan sebaiknya secara jelas menjabarkan apakah data yang mereka sediakan bukan merupakan obyek perlindungan hak cipta atau menerapkan lisensi yang mengecualikan data tersebut dari perlindungan hak cipta yang normatif.
 
-* When data is public domain it is recommended to use the CC0 Public Domain license for clarity.
+* Jika data-data yang disediakan bukan merupakan obyek perlindungan hak cipta atau milik publik, artinya ketentuan CC0 Dedikasi Domain Publik dapat diterapkan pada data-data tersebut.
 
-* When the data falls under the scope of copyright it is recommended to use an existing Open license such as CC-BY to improve interoperability.
+* Jika data-data yang disediakan merupakan obyek perlindungan hak cipta, artinya lisensi terbuka seperti lisensi Creative Commons Atribusi (CC BY) dapat diterapkan untuk meningkatkan daya guna dan interoperabilitas data-data tersebut.
+
+**Penggunaan lisensi Creative Commons atau lisensi Open Data Commons direkomendasikan dalam praktik penyediaan data terbuka.**
+
+Banyak lembaga pemerintahan yang telah menerapkan salah satu dari 6 jenis lisensi Creative Commons. Sedangkan yang lain memilih untuk membuat model pelisensian datanya sendiri atau kondisi penggunaan dengan kandungan ketentuan sama atau serupa dengan lisensi-lisensi terbuka yang telah ada. Namun, pertumbuhan ragam lisensi-lisensi terbuka yang dibuat sendir oleh lembaga-lembaga ini menuai kritik. Ketentuan yang berbeda-beda ini menjadi problematis dari sudut pandang pengguna karena menjadi salah satu penghambat interoperabilitas data. Ketentuan-ketentuan ini mengandung informasi yang tidak diperlukan pengguna, serta mengurangi daya guna data, dan menghambat proses penggunaan kembali data. Lisensi Creative Commons ada untuk mengatasi masalah-masalah ini, dengan memberikan [pemerian](https://kbbi.kemdikbud.go.id/entri/pemerian) yang jelas terkait hak penggunaan. Keberadaan lisensi ini dimaksudkan untuk memudahkan aktivitas berbagi dan pemanfaatan ciptaan, dalam hal ini data.
+
+Peran Lisensi Terbuka di Bidang Data Terbuka pada Tahun 2017
+
+Initial results from the GODI 2016/17 show roughly that only 38 percent of the eligible datasets were openly licensed (this value may change slightly after the final publication on June 15).
+
+The other licenses include many use restrictions including use limitations to non-commercial purposes, restrictions on reuse and/or modifications of the data.  
