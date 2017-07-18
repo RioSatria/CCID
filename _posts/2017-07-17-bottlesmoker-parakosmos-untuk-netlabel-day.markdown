@@ -1,5 +1,6 @@
 ---
-title: Parakosmos Untuk Netlabel Day Dari Bottlesmoker!
+title: Parakosmos Untuk Netlabel Day Dari Bottlesmoker dan 4 rilisan dari Ripstore
+  Asia!
 date: 2017-07-17 16:14:00 +07:00
 categories:
 - Sobat CCID
@@ -36,3 +37,5 @@ Tanggal 14 Juli 2017 lalu merupakan hari peringatan internet label (netlabel) se
 Album ini diterbitkan di bawah ketentuan lisensi CC BY-NC-SA. Lisensi ini mengizinkan setiap orang untuk menggubah, memperbaiki, dan membuat ciptaan turunan bukan untuk kepentingan komersial, dan walau mereka harus mencantumkan kredit kepada Anda dan tidak dapat memperoleh keuntungan komersial, mereka tidak harus melisensikan ciptaan turunan dengan syarat yang sama dengan ciptaan asli.
 
 Segera unduh album terbaru Bottlesmoker di [Yes No Wave Netlabel](http://yesnowave.com/yesno084/)!
+
+Telusuri juga daftar album musik-album musik yang terbit pada [netlabel day tahun ini](http://netlabelday.blogspot.co.id/p/releases-2017.html), termasuk 4 album musik yang dirilis oleh [Ripstore Asia](https://play.ripstore.asia/netlabelday/).
