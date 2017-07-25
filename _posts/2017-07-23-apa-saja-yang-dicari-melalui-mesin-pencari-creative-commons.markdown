@@ -1,6 +1,6 @@
 ---
 title: Apa saja yang dicari melalui mesin pencari Creative Commons?
-date: 2017-07-24 15:46:00 +07:00
+date: 2017-07-23 15:46:00 +07:00
 categories:
 - Berita
 tags:
