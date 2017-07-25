@@ -1,7 +1,7 @@
 ---
 title: 'Laporan Global Open Data Index: Peran Lisensi Terbuka di Bidang Data Terbuka
   pada Tahun 2017'
-date: 2017-07-18 15:12:00 +07:00
+date: 2017-07-21 15:12:00 +07:00
 categories:
 - Kajian
 tags:
