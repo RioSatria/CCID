@@ -1,7 +1,7 @@
 ---
 title: Parakosmos Untuk Netlabel Day Dari Bottlesmoker dan 4 rilisan dari Ripstore
   Asia!
-date: 2017-07-17 16:14:00 +07:00
+date: 2017-07-14 16:14:00 +07:00
 categories:
 - Sobat CCID
 tags:
