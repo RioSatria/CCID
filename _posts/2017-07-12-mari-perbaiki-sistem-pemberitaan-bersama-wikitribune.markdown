@@ -1,6 +1,6 @@
 ---
 title: Mari Perbaiki Sistem Pemberitaan Bersama Wikitribune!
-date: 2017-07-10 12:16:00 +07:00
+date: 2017-07-12 12:16:00 +07:00
 categories:
 - Berita
 tags:
