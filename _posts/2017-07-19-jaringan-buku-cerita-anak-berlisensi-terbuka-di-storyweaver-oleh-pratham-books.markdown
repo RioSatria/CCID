@@ -1,6 +1,6 @@
 ---
 title: Jaringan Buku Cerita Anak Berlisensi Terbuka di StoryWeaver oleh Pratham Books
-date: 2017-07-15 12:16:00 +07:00
+date: 2017-07-19 12:16:00 +07:00
 categories:
 - Berita
 tags:
