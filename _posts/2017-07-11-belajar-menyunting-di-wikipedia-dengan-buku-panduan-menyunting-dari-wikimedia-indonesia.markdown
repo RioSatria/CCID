@@ -1,7 +1,7 @@
 ---
 title: Belajar Menyunting di Wikipedia dengan Pedoman Penyuntingan Secara Manual dari
   Wikimedia Indonesia! (CC BY-Sa)
-date: 2017-07-10 12:07:00 +07:00
+date: 2017-07-11 12:07:00 +07:00
 categories:
 - Sobat CCID
 tags:
