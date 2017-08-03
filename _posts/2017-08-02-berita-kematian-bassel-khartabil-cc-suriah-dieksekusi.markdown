@@ -29,4 +29,4 @@ Belakangan ini juga berbagai komunitas dari seluruh dunia telah berusaha untuk m
 
 Kami dari Creative Commons Indonesia turut berduka cita sedalam-dalamnya atas kematian Bassel, rekan yang kontribusinya dalam membangun komunitas budaya berbagi dan pengetahuan bebas akan selalu kami ingat. 
 
-Selamat tinggal, Bassel.
+Selamat jalan, Bassel.
