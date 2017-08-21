@@ -41,5 +41,3 @@ Pada bulan September 2016, kami mewawancarai salah satu label rekaman non-***net
 Pemberitahuan lisens tersebut dapat Anda temukan pada bagian bawah tiap album maupun lagu yang diunggah di laman Bandcamp dan Soundcloud label rekaman maupun grup musik tersebut. Anda dapat menggunakan gambar berikut ini sebagai petunjuk:
 
 ![3-8f8ab6.jpg](/uploads/3-8f8ab6.jpg){: .img-responsive .center-block }{: width="500"}}<center><small><i>Laman musik Oscar Lolang di laman Bandcamp Karma Records berlisensi CC BY-NC-SA</i></small></center>
-
-.
