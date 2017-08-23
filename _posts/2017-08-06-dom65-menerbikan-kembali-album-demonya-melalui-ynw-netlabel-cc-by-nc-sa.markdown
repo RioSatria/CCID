@@ -1,5 +1,6 @@
 ---
-title: DOM 65 merilis ulang mini album “Oi! Ruck N’ Raw” melalui Yes No Wave (CC BY-NC-SA)
+title: DOM 65 Rilis Ulang Album Mini “Oi! Ruck N’ Raw” Melalui Yes No Wave Netlabel
+  (CC BY-NC-SA)
 date: 2017-08-06 16:00:00 +07:00
 categories:
 - Sobat CCID
