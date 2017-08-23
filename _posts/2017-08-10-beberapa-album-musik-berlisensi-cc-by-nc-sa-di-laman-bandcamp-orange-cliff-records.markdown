@@ -1,6 +1,6 @@
 ---
-title: Album musik berlisensi CC BY-NC-SA di laman bandcamp Orange Cliff Records,
-  Sorge Records, dan Karma Records
+title: 'Album Musik Berlisensi CC BY-NC-SA di Laman Bandcamp: Orange Cliff Records,
+  Sorge Records, dan Karma Records'
 date: 2017-08-10 14:04:00 +07:00
 categories:
 - Sobat CCID
