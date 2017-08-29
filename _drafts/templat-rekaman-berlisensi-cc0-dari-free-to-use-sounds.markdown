@@ -13,3 +13,5 @@ http://www.vincentmoon.com/
 http://freemusicarchive.org/music/Antique_Phonograph_Music_Program_Various_Artists/
 http://freemusicarchive.org/music/Antique_Phonograph_Music_Program_Various_Artists/
 http://research.culturalequity.org/audio-guide.jsp
+http://www.europeanasounds.eu/sounds
+http://www.soundsurvey.org.uk/index.php/survey/soundmaps/
