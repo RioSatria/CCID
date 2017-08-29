@@ -18,3 +18,6 @@ http://www.soundsurvey.org.uk/index.php/survey/soundmaps/
 http://gallica.bnf.fr/html/enregistrements-sonores/artistes-lyriques
 http://www.europeana.eu/portal/nl/radio.html
 http://www.europeana.eu/portal/nl/collections/music?f%5BTYPE%5D%5B%5D=SOUND&q=cnrs-cresson&view=grid
+http://map.europeanacousticheritage.eu/
+https://freesound.org/
+http://dig.ccmixter.org/
