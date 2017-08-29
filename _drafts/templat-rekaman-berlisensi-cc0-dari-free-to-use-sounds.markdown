@@ -21,3 +21,15 @@ http://www.europeana.eu/portal/nl/collections/music?f%5BTYPE%5D%5B%5D=SOUND&q=cn
 http://map.europeanacousticheritage.eu/
 https://freesound.org/
 http://dig.ccmixter.org/
+
+https://blog.wikimedia.org/2017/04/20/luis-alvarez/?utm_content=bufferd8b81&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+https://commons.wikimedia.org/wiki/Category:Audio_files_by_Luisalvaz
+https://commons.wikimedia.org/wiki/Category:Sounds_by_type
+https://commons.wikimedia.org/wiki/Category:Audio_files_by_subject
+http://great78.archive.org/
+https://thevinylfactory.com/features/great-78-project-archive-interview/
+http://imslp.org/
+https://musopen.org/
+http://piviso.com/
+http://www.loc.gov/jukebox/
+https://archive.org/details/78rpm
