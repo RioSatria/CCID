@@ -15,3 +15,6 @@ http://freemusicarchive.org/music/Antique_Phonograph_Music_Program_Various_Artis
 http://research.culturalequity.org/audio-guide.jsp
 http://www.europeanasounds.eu/sounds
 http://www.soundsurvey.org.uk/index.php/survey/soundmaps/
+http://gallica.bnf.fr/html/enregistrements-sonores/artistes-lyriques
+http://www.europeana.eu/portal/nl/radio.html
+http://www.europeana.eu/portal/nl/collections/music?f%5BTYPE%5D%5B%5D=SOUND&q=cnrs-cresson&view=grid
