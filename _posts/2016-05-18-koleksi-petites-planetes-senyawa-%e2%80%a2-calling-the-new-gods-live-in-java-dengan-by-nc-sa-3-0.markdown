@@ -1,5 +1,5 @@
 ---
-title: 'Koleksi ''Petites Planètes'': Senyawa (CC BY-NC-SA 3.0)'
+title: Koleksi Petites Planètes Senyawa
 date: 2016-05-18 12:31:00 +07:00
 categories:
 - Sobat CCID
