@@ -22,6 +22,11 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-url: http://creativecommons.or.id/
-gems:
-- jekyll-twitter-plugin
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      
