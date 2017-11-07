@@ -3023,3 +3023,18 @@ h2.title {
 	padding-left: 10px;
 }
 /*# sourceMappingURL=material-kit.css.map */
+
+/* new style */
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+.form-group.required .control-label:after {
+          content:"*";
+          color:red;
+        }
